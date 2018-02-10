@@ -32,6 +32,21 @@
 }}
 \makeatother
 
+\usepackage{multicol} %kolumny
+
+\newenvironment{localsize}[1] %tworzenie środowiska localsize (lokalna zmiana wielkości czcionki)
+{%
+	\clearpage
+	\let\orignewcommand\newcommand
+	\let\newcommand\renewcommand
+	\makeatletter
+	\input{bk#1.clo}%
+	\makeatother
+	\let\newcommand\orignewcommand
+}
+{%
+	\clearpage
+}
 
 %\usepackage[autostyle]{csquotes}
 %\addbibresource{biblatex-examples.bib}
@@ -41,9 +56,16 @@
 %
 %
 \begin{document}
-	\chapter{Orogeneza alpejska}
 	
-	\section{Wulkanizm}
+	\tableofcontents
+	
+	\chapter{Kenozoiczna historia termiczna centralnej Europy}
+	
+	\section{Zlodowacenia plejstoceńskie}
+	
+	\section{Orogeneza alpejska}
+	
+	\subsection{Wulkanizm}
 	
 Na obszarze poddanym przekształceniom podczas orogenzey alpejskiej pojawiły się w kenozoiku związane genetycznie z procesami górotwórczymi zjawiska wulkaniczne. Alpejskie wydarzenia orogeniczne kredy i paleogenu, kiedy miało miejsce skracanie litosfery oceanicznej Oceanu Tetydy na drodze subdukcji, nie skutkowały w tym czasie zjawiskami wulkanicznymi. Przyczyną tego był panujący wówczas w domenie karpacko-panońskiej reżim kompresyjny oraz znaczna grubość litosfery, niepoddanej jeszcze wówczas ekstensji. Jednakże, zaistniała wówczas metasomatyzacja płaszcza, możliwa dzięki dehydratacji subdukowanych fragmentów litosfery. Uwodnienie płaszcza pozwoliło na zmniejszenie temperatury generacji stopu, który zaczął migrować ku powierzchni wraz z rozpoczęciem etapu ekstensji we wczesnym miocenie, około 20 mln lat temu. Stopy płaszczowe, docierając do skorupy, powodowały jej topnienie i tworzenie magm krustalnych. W etapie ekstensji generacja magm płaszczowych podtrzymywana była przez mechanizm wytapiania dekompresyjnego, a dalsza subdukcja wpływała na skład magm (Haragi i Lenkey, 2007).
 
@@ -51,13 +73,19 @@ Na obszarze poddanym przekształceniom podczas orogenzey alpejskiej pojawiły si
 
 Zjawiska wulkaniczne są zarówno bezpośrednią przyczyną podwyższenia lokalnej charakterystyki termicznej, jak i przejawem regionalnych fenomenów natury litosferycznej czy płaszczowej (odpowiedzialnych za wulkanizm), wpływających na wartości parametrów termicznych na danym obszarze. Bepośredni wpływ wulkanizmu na temperaturę litosfery wyraża się w powstawaniu aureoli termicznych wokół ciał magmowych intrudujących w skały górotworu. Dokładna ilościowa ocena wpływu termicznego intruzji na otaczający górotwór musi uwz-ględniać wiele czynników, m. in. geometria ciała magmowego, różnice w przewodności cieplnej ośrodków, konwekcja w magmie, możliwość zainstnienia konwekcji wód porowych w skałach otoczenia; w mniejszym stopniu reakcje metamorficzne (dehydratacja, rozkład węglanów i inne) czy wolatylizacja wód porowych (Annen, 2017). Grubość aureoli wokół intruzji odzwierciedla dynamikę tworzenia intruzji -- w wyniku pojedynczego zdarzenia bąd\'{z} na drodze wieloetapowego procesu (Galushkin, 1997). Wpływ termiczny intruzji na skały otoczenia może być ewaluowany w badaniach refleksyjności witrynitu (jako miernika przetworzenia termicznego materii organicznej; np. Annen, 2017; Fjeldskaar et al., 2008). 
 
+	\subsubsection{Wulkanizm karpacki i panoński}
+
 Wulkanizm kenozoiczny (neogeński) domeny karpacko-panońskiej był fenomenem wieloetapowym. Kolejne jego fazy cechowały się różnym chemizmem oraz miejscem występowania. Ogółem, zjawiska te datowane są na okres 21-0,1 mln lat temu, przy czym centrum aktywności wulkanicznej przesuwało się w czasie z zachodu na wschód (Lexa et al., 2010; P\'{e}cskay et al., 1995). Zmienny charakter chemiczny zjawisk wulkanicznych odzwierciedlał różne epizody tektoniczne w rejonie. Wyróżnia się trzy główne etapy wulkanizmu karpacko-panońskiego w neogenie: 1) miocen (około 20-11 mln lat temu): kwaśny wulkanizm kalcialkaliczny -- ignimbryty i tufy basenu panońskiego i transylwańskiego; 2) środkowy miocen - czwartorzęd (17-0,2 mln lat temu): pośredni (między felsytowym a maficznym) wulkanizm kalcialkaliczny (niezwiązany genetycznie z wulkanizmem felsytowym miocenu), z końcową fazą bazaltową -- andezyty (w tym andezyty pienińskie) występujące w łuku wulkanicznym po wewnętrznej stronie Karpat fliszowych, rozciągającym się od basenu dunajskiego po rumuński kompleks Călimani-Gurghiu-Harghita; 3) wulkanizm alkaliczny (dwie fazy: 17-7 i 6-0,5 mln lat temu) -- sporadyczne wystąpienia na całym obszarze karpacko-panońskim -- od szoszonitów kapratu (17-16 mln lat temu) do bazaltów alkalicznych i szoszonitów czwartorzędowych (P\'{e}cskay et al., 1995).
   
 Geneza zjawisk wulkanicznych w regionie Karpat i basenu panońskiego w oczywisty sposób wydaje się być powiązana z historią tektoniczną tego obszaru. Kwestią dyskusji jest, czy współcześnie obserwowane wysokie wartości parametrów termicznych związane są z postulowanym przez niektórych badaczy (jakich?) pióropuszem płaszcza w podłożu panońskim. Sygnatury izotopowe HIMU i FOZO, którymi charakteryzują się alkaliczne skały magmowe basenu panońskiego i Karpat oraz charakterystyka termiczna regionu przemawiają za hipotezą istnienia pióropusza. Jednakże, taki skład izotopowy może być efektem metasomatozy (niekoniecznie zaś pióropusza płaszcza), a wysokie wartości strumienia cieplnego wyjaśnia również ścienienie skorupy podczas ekstensji i płytkie usytuowanie LAB (ang. \textit{litosphere-astenophere boundary}). Wpływ epizodu ekstensyjnego na wartości strumienia cieplnego wygasa po ok. 100 milionach lat (McKenzie, 1978 --> znalezc), więc w płaszczu pod basenem panońskim wciąż mogą istnieć warunki do generacji stopu (prawdopodobnie w wyniku podwyższenia temperatury przez inną niż piórpusz płaszcza nieokreśloną perturbację natury płaszczowej). Przeciwko hipotezie pióropusza płaszcza pod basenem panońskim przemawia także brak kopułowatego wyniesienia regionu w topografii, sporadyczny charakter i rozproszenie przestrzenne przejawów wulkanizmu panońskiego oraz niskie tempo produkcji magmy (Harangi i Lenkey, 2007).    
   
 Wpływ intruzji na zwiększenie temperatur i strumienia cieplnego w ich pobliżu wygasa w ciągu kilku milionów lat (Fowler and Nisbet, 1982; Horv\'{a}th et al., 1986, za: Lenkey, 2002 --> zmienic). Anomalnie wysokie wartości strumienia cieplnego na obszarze Karpat Wschodnich mogą być wiązane z zakończoną około 0,1 miliona lat temu aktywnością wulkaniczną na tym obszarze. Śródkowomioceński wulkanizm kalcialkaliczny i zjawiska wulkaniczne występujące w przeszłości wzdłuż łuku Karpat po jego wewnętrznej stronie nie powinny mieć więc współcześnie wpływu na podwyższenie parametrów termicznych. Emisja ciepła radiogenicznego z powstałych wówczas utworów wulkanicznych, z uwagi na względnie małą zawartość pierwiastków promieniotówrczych, nie ma istotnego wpływu ilościowego na strumień cieplny. Obserwowane wysokie wartości temperatur i strumienia cieplnego mają więc zapewne \'{z}ródło w dolnej skorupie bąd\'{z} płaszczu; domniemywać można, że to samo \'{z}ródło odpowiadało za panoński wulkanizm mioceński. Kwaśny wulkanizm plioceński i plejstoceński, ze względu na epizodyczny charakter aktywności i niewielką objętość związanych z nim ciał magmowych, nie miał istotnego wpływu na lokalną termikę litosfery (Lenkey et al., 2002).
+
+	\subsubsection{Wulkanizm sudecki}
+
+Kenozoiczne zjawiska wulkaniczne Sudetów zaliczane są do środkowoeuropejskiej prowincji wulkanicznej (bazaltowej) -- rozciągajacej się równolegle do nasunięć alpejskich (od pasma Eifel po Śląsk) strefy występowania śródpłytowych pól wulkanicznych.
 	
-	\section{Powstanie zapadlisk przed- i śródgórskich}
+	\subsection{Powstanie zapadlisk przed- i śródgórskich}
 	
 Wypiętrzeniu Karpat towarzyszyło powstanie rejonów zapadliskowych, do których zalicza się zapadlisko przedkarpackie i basen panoński. Ograniczony łańcuchami Alp, Karpat i Gór Dynarskich basen panoński (Fig. 1) dzieli się na wiele podjednostek, z których największą i centralną jest obniżenie Wielkiej Niziny Węgierskiej. Oprócz Wielkiej Niziny Węgierskiej, do panońskiego systemu basenów należą również mniejsze baseny, m. in. basen dunajski (Mała Nizina Węgierska), basen Grazu (styryjski), których granice wyznaczają masywy gór wyspowych. Baseny znajdujące się na obrzeżach domeny panońskiej (basen wiedeński, transylwański, transkarpacki) położone są w bezpośrednim sąsiedztwie granicy płaszczowin eoalpejskich (występujących w podłożu basenu panońskiego) oraz nasunięć fliszu karpackiego (Kováč et al., 2007; Fodor et al., 1999).
 
@@ -68,9 +96,11 @@ Wypiętrzeniu Karpat towarzyszyło powstanie rejonów zapadliskowych, do któryc
 	\label{Fig.}
 \end{figure}
 
-Panoński system basenowy powstał w wyniku serii zdarzeń tektonicznych, mających miejsce od środkowego triasu do dziś. W mezozoiku obszar współczesnego basenu panońskiego wypełniał ocean Neotetydy, rozwijały się strefy ryftowe. Pod koniec jury doszło do zderzenia terranów Alcapa i Tisza-Dacja. Utworzone wówczas płaszczowiny stanowią podłoże współczesnego basenu panońskiego. W miocenie rozpoczęła się faza ekstensji basenu w jego wewnętrznych partiach, jednocześnie z aktywnością subdukcyjną w strefach brzeżnych (Csontos i V\"{o}r\"{o}s, 2004). Po etapie intensywnej ekstensji dalszy rozwój basenu następował na drodze subsydencji termicznej, będącej efektem kontrakcji termicznej litosfery podczas jej stygnięcia. Taki dwuetapowy model rozwoju basenu ekstensyjnego (faza intensywnej ekstensji, a po niej bardziej pasywna faza subsydencji) potwierdzają badania sejsmiki refleksyjnej i luster tektonicznych w uskokach na obszarze basenu panońskiego. Obecnie (od pó\'{z}nego pliocenu) teren basenu panońskiego znajduje się w reżimie kompresyjnym, w którym jego brzeżne partie na wschodzie i zachodzie ulegają wynoszeniu (Horv\'{a}th i Cloething, 1996). 
+Panoński system basenowy powstał w wyniku serii zdarzeń tektonicznych, mających miejsce od środkowego triasu do dziś. W mezozoiku obszar współczesnego basenu panońskiego wypełniał ocean Neotetydy, rozwijały się strefy ryftowe. Pod koniec jury doszło do zderzenia terranów Alcapa i Tisza-Dacja, których kontakt współcześnie wyznacza śródwowęgierska strefa uskokowa. Utworzone wówczas płaszczowiny stanowią podłoże współczesnego basenu panońskiego. W miocenie rozpoczęła się faza ekstensji basenu w jego wewnętrznych partiach, jednocześnie z aktywnością subdukcyjną w strefach brzeżnych (Csontos i V\"{o}r\"{o}s, 2004). Po etapie intensywnej ekstensji dalszy rozwój basenu następował na drodze subsydencji termicznej, będącej efektem kontrakcji termicznej litosfery podczas jej stygnięcia. Taki dwuetapowy model rozwoju basenu ekstensyjnego (faza intensywnej ekstensji, a po niej bardziej pasywna faza subsydencji) potwierdzają badania sejsmiki refleksyjnej i luster tektonicznych w uskokach na obszarze basenu panońskiego. Obecnie (od pó\'{z}nego pliocenu) teren basenu panońskiego znajduje się w reżimie kompresyjnym, w którym jego brzeżne partie na wschodzie i zachodzie ulegają wynoszeniu (Horv\'{a}th i Cloething, 1996). 
 
 Litosferę basenu panońskiego cechują wyjątkowo wysokie wartości strumienia cieplnego, przekraczające 80 ${mW/m}^{2}$ (Boldizsar, 1964). Mierzone wartości strumienia cieplnego mieszczą się w przedziale 50-130 ${mW/m}^{2}$, a średnia wynosi okolo 100 ${mW/m}^{2}$ (Horv\'{a}th et al., 2015). Takie warunki termiczne są pozostałością po mioceńskim etapie ekstensji, w trakcie którego doszło do silnego wygrzania litosfery (Lenkey et al., 2017). Ze zjawiskami termicznymi związany był neogeńsko-czwartorzędowy (21-0,1 mln lat temu) wulkanizm o charakterze kwaśnym i kalcialkalicznym. W czasie geologicznym wulkanizm ten migrował z zachodu na wschód (Lexa et al., 2010). 
+
+Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesień podłoża między głębszymi basenami Wielkiej Niziny Węgierskiej (B\'{e}k\'{e}si et al., 2017). 
 
 \begin{figure}[h]
 	\centering
@@ -79,48 +109,71 @@ Litosferę basenu panońskiego cechują wyjątkowo wysokie wartości strumienia 
 	\label{fig:grubosc-skorupy}
 \end{figure}
 
- W związku ze znaczną subsydencją, basen panoński był miejscem intensywnej sedymentacji, w wyniku której doszło do nagromadzenia miąższych (0,1-7 km) osadów neogeńskich, o~charakterze morskim, deltowym, jeziornym i rzecznym (T\'{o}th i Alm\'{a}si, 2001). Intensywna sedymentacja jako proces oraz sposób występowania warstwy osadowej w profilu geologicznym mają istotny wpływ na kształtowanie strumienia cieplnego docierającego do powierzchni ziemi. Wysokie tempo sedymentacji zmniejsza wartości strumienia cieplnego rejestrowane przy powierzchni ziemi (Lenkey et al., 2017; Horv\'{a}th et al., 2015). Wartości strumienia cieplnego z poprawką na sedymentację są o 10-30 \% wyższe od obserwowanych (Lenkey et al., 2002). Ponadto, skały osadowe są środowiskiem występowania zjawisk hydrogeologicznych, które mają pewien wpływ na strumień cieplny. Infiltracja wód meteorycznych (szczególnie w miejscach wychodni powierzchniowych wysoko porowatych wapieni) przyczynia się do znacznego spadku rejestrowanych wartości strumienia cieplnego, np. w Dynarydach zewnętrznych do 30 ${mW/m}^{2}$ (Horv\'{a}th et al., 2015). Ogrzane wody meteoryczne docierając z powrotem ku powierzchni ziemi odpowiadają za powstawanie gorących \'{z}ródeł, licznie występujących na obszarze panońskim. Pomiar energii termicznej niesionej przez gorące wody może posłużyć do oszacowania konwekcyjnego transportu ciepłą, a dodanie tej wartości do obserwowanego strumienia cieplnego daje w wyniku wartość strumienia cieplnego w warunkach niezaburzonych przez cyrkulację wód (Lenkey et al., 2017). Cyrkulacja wód podziemnych jest również przyczyną zaburzeń kondukcyjnego przepływu ciepła płaszczowego ku powierzchni ziemi. Grawitacyjny przepływ wód podziemnych oraz rozwijanie się komórek konwekcyjnych w obrębie tych wód mogą zmienić wartości powierzchniowego strumienia cieplnego (Horv\'{a}th et al., 2015). 
+ W związku ze znaczną subsydencją, basen panoński był miejscem intensywnej sedymentacji, w wyniku której doszło do nagromadzenia miąższych (0,1-7 km) osadów neogeńskich, o~charakterze morskim, deltowym, jeziornym i rzecznym (T\'{o}th i Alm\'{a}si, 2001). Intensywna sedymentacja jako proces oraz sposób występowania warstwy osadowej w profilu geologicznym mają istotny wpływ na kształtowanie strumienia cieplnego docierającego do powierzchni ziemi. Wysokie tempo sedymentacji zmniejsza wartości strumienia cieplnego rejestrowane przy powierzchni ziemi (Lenkey et al., 2017; Horv\'{a}th et al., 2015). Wartości strumienia cieplnego z poprawką na sedymentację są o 10-30 \% wyższe od bezpośrednio obserwowanych (Lenkey et al., 2002). Ponadto, skały osadowe są środowiskiem występowania zjawisk hydrogeologicznych, które mają pewien wpływ na strumień cieplny. Infiltracja wód meteorycznych (szczególnie w miejscach wychodni powierzchniowych wysoko porowatych wapieni) przyczynia się do znacznego spadku rejestrowanych wartości strumienia cieplnego, np. w Dynarydach zewnętrznych do 30 ${mW/m}^{2}$ (Horv\'{a}th et al., 2015). Ogrzane wody meteoryczne docierając z powrotem ku powierzchni ziemi odpowiadają za powstawanie gorących \'{z}ródeł, licznie występujących na obszarze panońskim. Pomiar energii termicznej niesionej przez gorące wody może posłużyć do oszacowania konwekcyjnego transportu ciepłą, a dodanie tej wartości do obserwowanego strumienia cieplnego daje w wyniku wartość strumienia cieplnego w warunkach niezaburzonych przez cyrkulację wód (Lenkey et al., 2017). Cyrkulacja wód podziemnych jest również przyczyną zaburzeń kondukcyjnego przepływu ciepła płaszczowego ku powierzchni ziemi. Grawitacyjny przepływ wód podziemnych oraz rozwijanie się komórek konwekcyjnych w obrębie tych wód mogą zmienić wartości powierzchniowego strumienia cieplnego (Horv\'{a}th et al., 2015). 
  
  W obrębie wypełnienia osadowego basenu panońskiego (neogeńskiego i mezozoicznego) wykształciły się dwa systemy wodonośne, przedzielone warstwą oligoceńskich osadów marglistych o niskiej przepuszczalności. W wyższym systemie dominujący czynnik powodujący przepływ jest natury grawitacyjnej, związany z topografią. Niższy system (cyrkulacja w skałach położonych głębiej) poddany jest oddziaływaniom tektonicznym o charakterze kompresyjnym, które są przyczyną wytworzenia nadciśnienia w wodach porowych (T\'{o}th i Alm\'{a}si, 2001). Innym wytłumaczeniem takiego stanu rzeczy jest duże tempo sedymentacji, niezrównoważone z tempem kompakcji i odprowadzania wód porowych, przez co ciśnienie w wodach porowych danego ośrodka narasta (Horv\'{a}th et al., 2015). Oba systemy nie są w pełni izolowane, jako że uskoki stanowią miejsca ułatwionego przepływu solanek z niższego systemu ku powierzchni (T\'{o}th i Alm\'{a}si, 2001). Mezozoiczne formacje węglanowe z wychodniami na powierzchni ziemi stanowią odrębny system hydrogeologiczny z przzepływem kontrolowanym grawitacyjnie (Horv\'{a}th et al., 2015). 
  
- Wysokie ciśnienia i temperatury panujące w obrębie skał niższego systemu wodonośnego, w połączeniu z dużą porowatością tych utworów, umożliwiają rozwój konwekcyjnego przepływu wód (Horv\'{a}th et al., 2015).
+ Wysokie ciśnienia i temperatury panujące w obrębie skał niższego systemu wodonośnego, w połączeniu z dużą porowatością tych utworów, umożliwiają rozwój konwekcyjnego przepływu wód (Horv\'{a}th et al., 2015). 
+ 
+ 	\chapter{Modele termiczne dla obszaru Polski -- historia badań}
+ 
+ 	\chapter{Rozpoznanie strumienia cieplnego na obszarze Polski}
+ 
+ 	\chapter{Teoretyczne podstawy modelowania stanu termicznego litosfery}
+ 
+ 	\chapter{Parametry materiałowe skał}
+ 
+ 	\chapter{Rozpoznanie struktury litosfery na obszarze Polski}
+ 
+ 	\chapter{Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}
 
 %\nocite{*}
 %\printbibliography
 %\bibliographystyle{plain}
 %0\bibliography{bibliografia}
 
-\chapter{Bibliografia}
+\chapter*{Bibliografia}
+\addcontentsline{toc}{chapter}{Bibliografia} 
 
-Annen, C., 2017. Factors Affecting the Thickness of Thermal Aureoles. Front. Earth Sci. 5, 1614. doi:10.3389/feart.2017.00082.
+\begin{multicols}{3} %kolumny
+	
+\begin{localsize}{10}
+	
+\parindent=0pt
+\parskip=\smallskipamount
 
-Békési, E. et al., 2017. Subsurface temperature model of the Hungarian part of the Pannonian Basin. Global and Planetary Change. doi:10.1016/j.gloplacha.2017.09.020.
+Annen, C., 2017. Factors Affecting the Thickness of Thermal Aureoles. Front. Earth Sci. 5, 1614.
 
-Boldizsár, T., 1964. Terrestrial heat flow in the Carpathians. J. Geophys. Res. 69 (24), 5269–5275. doi:10.1029/JZ069i024p05269.
+Békési, E. et al., 2017. Subsurface temperature model of the Hungarian part of the Pannonian Basin. Global and Planetary Change.
 
-Csontos, L., Vörös, A., 2004. Mesozoic plate tectonic reconstruction of the Carpathian region. Palaeogeography, Palaeoclimatology, Palaeoecology 210 (1), 1–56. doi:10.1016/j.palaeo.2004.02.033.
+Boldizsár, T., 1964. Terrestrial heat flow in the Carpathians. J. Geophys. Res. 69 (24), 5269–5275.
 
-Fjeldskaar, W. et al., 2008. Thermal modelling of magmatic intrusions in the Gjallar Ridge, Norwegian Sea: implications for vitrinite reflectance and hydrocarbon maturation. Basin Research (20), 143–159. doi:10.1111/j.1365-2117.2007.00347.x.
+Csontos, L., Vörös, A., 2004. Mesozoic plate tectonic reconstruction of the Carpathian region. Palaeogeography, Palaeoclimatology, Palaeoecology 210 (1), 1–56.
 
-Fodor, L. et al., 1999. Tertiary tectonic evolution of the Pannonian Basin system and neighbouring orogens: A new synthesis of palaeostress data. Geological Society, London, Special Publications 156 (1), 295–334. doi:10.1144/GSL.SP.1999.156.01.15.
+Fjeldskaar, W. et al., 2008. Thermal modelling of magmatic intrusions in the Gjallar Ridge, Norwegian Sea: implications for vitrinite reflectance and hydrocarbon maturation. Basin Research (20), 143–159. 
 
-Galushkin, Y., 1997. Thermal effects of igneous intrusions on maturity of organic matter: A possible mechanism of intrusion. Organic Geochemistry 26 (11-12), 645–658. doi:10.1016/S0146-6380(97)00030-2.
+Fodor, L. et al., 1999. Tertiary tectonic evolution of the Pannonian Basin system and neighbouring orogens: A new synthesis of palaeostress data. Geological Society, London, Special Publications 156 (1), 295–334. 
+
+Galushkin, Y., 1997. Thermal effects of igneous intrusions on maturity of organic matter: A possible mechanism of intrusion. Organic Geochemistry 26 (11-12), 645–658. 
 
 Harangi, S., Lenkey, L., 2002. Genesis of the Neogene to Quaternary volcanism in the Carpathian-Pannonian region: Role of subduction, extension, and mantle plume. Geological Society of America (Special Paper 418), 67–92.
 
-Horváth, F., Cloetingh, S., 1996. Stress-induced late-stage subsidence anomalies in the Pannonian basin. Tectonophysics 266 (1-4), 287–300. doi:10.1016/S0040-1951(96)00194-1.
+Horváth, F., Cloetingh, S., 1996. Stress-induced late-stage subsidence anomalies in the Pannonian basin. Tectonophysics 266 (1-4), 287–300. 
 
-Horváth, F. et al., 2015. Evolution of the Pannonian basin and its geothermal resources. Geothermics 53, 328–352. doi:10.1016/j.geothermics.2014.07.009.
+Horváth, F. et al., 2015. Evolution of the Pannonian basin and its geothermal resources. Geothermics 53, 328–352. 
 
 Kováč, M. et al., 2007. Badenian evolution of the Central Paratethys Sea: paleogeography, climate and eustatic sea-level changes. Geologia Carpathica 58 (6), 579–606.
 
 Lenkey, L. et al., 2002. Geothermics of the Pannonian basin and its bearing on the neotectonics. Stephan Mueller Special Publication Series (3), 29–40.
 
-Lexa, J. et al., 2010. Neogene-Quaternary Volcanic forms in the Carpathian-Pannonian Region: A review. Open Geosciences 2 (3), 15. doi:10.2478/v10085-010-0024-5.
+Lexa, J. et al., 2010. Neogene-Quaternary Volcanic forms in the Carpathian-Pannonian Region: A review. Open Geosciences 2 (3), 15.
 
 Pécskay, Z. et al., 1995. Space and time distribution of Neogene-Quaternary volcanism in the Carpatho-Pannonian region. Acta Vulcanologica (7 (2)), 15–28.
 
-Toth, J., Almasi, I., 2001. Interpretation of observed fluid potential patterns in a deep sedimentary basin under tectonic compression: Hungarian Great Plain, Pannonian Basin. Geofluids 1 (1), 11–36. doi:10.1046/j.1468-8123.2001.11004.x.
+Toth, J., Almasi, I., 2001. Interpretation of observed fluid potential patterns in a deep sedimentary basin under tectonic compression: Hungarian Great Plain, Pannonian Basin. Geofluids 1 (1), 11–36.
 
+\end{localsize}
+
+\end{multicols}
 
 \end{document}
