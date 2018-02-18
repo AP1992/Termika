@@ -4,15 +4,9 @@
 \contentsline {subsection}{\numberline {1.2.1}Wypi\IeC {\k e}trzenie Karpat}{2}
 \contentsline {subsection}{\numberline {1.2.2}Powstanie systemu ryft\IeC {\'o}w na kontynencie europejskim}{2}
 \contentsline {subsection}{\numberline {1.2.3}Wulkanizm}{2}
-\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{2}
-\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Oh\v {r}y}{4}
-\contentsline {subsection}{\numberline {1.2.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{5}
-\contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{5}
-\contentsline {subsubsection}{Zapadlisko przedkarpackie}{7}
-\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski -- historia bada\IeC {\'n}}{8}
-\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{9}
-\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{10}
-\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{11}
-\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{12}
-\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{13}
-\contentsline {chapter}{Bibliografia}{14}
+\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{3}
+\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{5}
+\contentsline {subsection}{\numberline {1.2.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{6}
+\contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{6}
+\contentsline {subsubsection}{Zapadlisko przedkarpackie}{8}
+\contentsline {chapter}{Bibliografia}{9}
