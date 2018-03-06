@@ -8,5 +8,7 @@
 \contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{5}
 \contentsline {subsection}{\numberline {1.2.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{7}
 \contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{7}
-\contentsline {subsubsection}{Zapadlisko przedkarpackie}{9}
-\contentsline {chapter}{Bibliografia}{10}
+\contentsline {subsubsection}{Zapadlisko przedkarpackie}{10}
+\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski -- historia bada\IeC {\'n}}{11}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{12}
+\contentsline {chapter}{Bibliografia}{13}
