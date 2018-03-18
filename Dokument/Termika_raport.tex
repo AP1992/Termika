@@ -34,19 +34,7 @@
 
 \usepackage{multicol} %kolumny
 
-\newenvironment{localsize}[1] %tworzenie środowiska localsize (lokalna zmiana wielkości czcionki)
-{%
-	\clearpage
-	\let\orignewcommand\newcommand
-	\let\newcommand\renewcommand
-	\makeatletter
-	\input{bk#1.clo}%
-	\makeatother
-	\let\newcommand\orignewcommand
-}
-{%
-	\clearpage
-}
+\usepackage{textcomp} %umożliwia używanie w tekście symboli
 
 %\usepackage[autostyle]{csquotes}
 %\addbibresource{biblatex-examples.bib}
@@ -61,7 +49,7 @@
 	
 	\chapter{Kenozoiczna historia termiczna centralnej Europy}
 	
-W czasie mezozoiku i kenozoiku górna skorupa Europy zachowała układ scalonych bloków, utworzony podczas orogenez: kaledońskiej i waryscyjskiej. Dolna skorupa i płaszcz litosferyczny uległy zaś znacznemu przeobrażeniu i, w konsekwencji, odmłodzeniu. Od pó\'{z}nej kredy (ok. 80 mln lat temu), granica litosfery i astenosfery pod Europą centralną migrowała ku powierzchni ziemi (Fig. 1). 
+W czasie mezozoiku i kenozoiku górna skorupa Europy zachowała układ scalonych bloków, utworzony podczas orogenez: kaledońskiej i waryscyjskiej. Dolna skorupa i płaszcz litosferyczny uległy zaś znacznemu przeobrażeniu i, w konsekwencji, odmłodzeniu. Od pó\'{z}nej kredy (ok. 80 mln lat temu), granica litosfery i astenosfery pod Europą centralną migrowała ku powierzchni ziemi (Meier et al., 2016; Fig. 1). 
 
 \begin{figure}[h]
 	\centering
@@ -89,15 +77,19 @@ Wykształcenie się w kenozoiku systemu ryftów na kontynencie europejskim (ang.
 
 Aktywność tektoniczna związana z ryftowaniem oraz wulkanizm w rowach należących do ECRIS wygasały w różnym czasie. Rowy Masywu Centralnego i Rodanu stały się nieaktywne z początkiem miocenu, podczas gdy system rowów reńskich wykazuje aktywność do dzisiaj (D\`{e}zes et al., 2004). Ryft Egeru powstał w fazie ekstensji, która dotknęła Masyw Czeski na przełomie eocenu i miocenu. Rozmieszczenie intruzji magmowych świadczy o postępującym ku wschodowi rozwoju ryftu. Ostatni etap rozwoju ryftu przypadł na 24-16(?) mln lat temu i był to czas kształtowania się współcześnie obserwowanej struktury rowu ograniczonego przez uskoki (Adamovič i Coubal, 1999) -- od południa przez strefę uskokową Czeskiego Średniogórza, a od północy przez strefę uskokową Rudaw (Cajz i Valečka, 2010).
 
+	\subsection{Wynoszenie masywów waryscyjskich}
+	
+W kenozoiku, oprócz ryftowania, dochodziło na kontynencie europejskim do powstawania kopułowatych wyniesień waryscyjskiego podłoża. Na obszarze Europy centralnej najbliższą jednostką tego typu jest Masyw Czeski, którego wschodnią częścią jest znajdująca się na terenie Polski kopuła orlicko-śnieżnicka (Cymerman, 2016). 
+
 %sprawdzić te nazwy stref uskokowych po polsku
 	
 	\subsection{Wulkanizm}
 	
-Zjawiska wulkaniczne są zarówno bezpośrednią przyczyną podwyższenia lokalnej charakterystyki termicznej, jak i przejawem regionalnych fenomenów natury litosferycznej czy płaszczowej (odpowiedzialnych za wulkanizm), wpływających na wartości parametrów termicznych na danym obszarze. Bepośredni wpływ wulkanizmu na temperaturę litosfery wyraża się w powstawaniu aureoli termicznych wokół ciał magmowych intrudujących w skały górotworu. Dokładna ilościowa ocena wpływu termicznego intruzji na otaczający górotwór musi uwzględniać wiele czynników, m. in. geometrię ciała magmowego, różnice w przewodności cieplnej ośrodków, konwekcję w magmie, możliwość zainstnienia konwekcji wód porowych w skałach otoczenia; w mniejszym stopniu reakcje metamorficzne (dehydratacja, rozkład węglanów i inne) czy wolatylizację wód porowych (Annen, 2017). Grubość aureoli wokół intruzji odzwierciedla dynamikę tworzenia intruzji -- w wyniku pojedynczego zdarzenia bąd\'{z} na drodze wieloetapowego procesu (Galushkin, 1997). Wpływ termiczny intruzji na skały otoczenia może być ewaluowany w badaniach refleksyjności witrynitu (jako miernika przetworzenia termicznego materii organicznej; np. Annen, 2017; Fjeldskaar et al., 2008). 
+Zjawiska wulkaniczne są zarówno bezpośrednią przyczyną podwyższenia lokalnej charakterystyki termicznej, jak i przejawem regionalnych fenomenów natury litosferycznej czy płaszczowej (odpowiedzialnych za wulkanizm), wpływających na wartości parametrów termicznych na danym obszarze. Bepośredni wpływ wulkanizmu na temperaturę litosfery wyraża się w powstawaniu aureoli termicznych wokół ciał magmowych intrudujących w skały górotworu. Dokładna ilościowa ocena wpływu termicznego intruzji na otaczający górotwór musi uwzględniać wiele czynników, m. in. geometrię ciała magmowego, różnice w przewodności cieplnej ośrodków, konwekcję w magmie, możliwość zainstnienia konwekcji wód porowych w skałach otoczenia; w mniejszym stopniu reakcje metamorficzne (dehydratacja, rozkład węglanów i inne) czy wolatylizację wód porowych (Annen, 2017). Grubość aureoli wokół intruzji odzwierciedla dynamikę tworzenia intruzji -- w wyniku pojedynczego zdarzenia bąd\'{z} na drodze wieloetapowego procesu (Galushkin, 1997). Wpływ termiczny intruzji na skały otoczenia może być ewaluowany w badaniach refleksyjności witrynitu (jako miernika przetworzenia termicznego materii organicznej; np. Annen, 2017; Fjeldskaar et al., 2008). Warunki termiczne panujące w \'{z}ródle, gdzie generowana jest magma (płaszczowe bąd\'{z} skorupowe) oraz tempo migracji magmy mogą być oceniane na podstawie badań inkuzji (np. gęstość CO$_{2}$, Ladenberger et al., 2009) lub składu chemicznego minerałów w ksenolitach (zrodlo). Stosunki zawartości pierwiastków w różnych minerałach, np. w dwóch piroksenach (termometr piroksen-piroksen??), mogą posłużyć do obliczenia temperatur zamknięcia systemu (zrodlo).
 
 	\subsubsection{Wulkanizm karpacki i panoński}
 
-Na obszarze poddanym przekształceniom podczas orogenzey alpejskiej pojawiły się w kenozoiku związane genetycznie z procesami górotwórczymi zjawiska wulkaniczne. Alpejskie wydarzenia orogeniczne kredy i paleogenu, kiedy miało miejsce skracanie litosfery oceanicznej Oceanu Tetydy na drodze subdukcji, nie skutkowały w tym czasie zjawiskami wulkanicznymi. Przyczyną tego był panujący wówczas w domenie karpacko-panońskiej reżim kompresyjny oraz znaczna grubość litosfery, niepoddanej jeszcze wówczas ekstensji. Jednakże, zaistniała wówczas metasomatyzacja płaszcza, możliwa dzięki dehydratacji subdukowanych fragmentów litosfery. Uwodnienie płaszcza pozwoliło na zmniejszenie temperatury generacji stopu, który zaczął migrować ku powierzchni wraz z rozpoczęciem etapu ekstensji we wczesnym miocenie, około 20 mln lat temu. Stopy płaszczowe, docierając do skorupy, powodowały jej topnienie i tworzenie magm krustalnych. W etapie ekstensji generacja magm płaszczowych podtrzymywana była przez mechanizm wytapiania dekompresyjnego, a dalsza subdukcja wpływała na skład magm (Haragi i Lenkey, 2007).
+Na obszarze poddanym przekształceniom podczas orogenzey alpejskiej pojawiły się w kenozoiku związane genetycznie z procesami górotwórczymi zjawiska wulkaniczne. Alpejskie wydarzenia orogeniczne kredy i paleogenu, kiedy miało miejsce skracanie litosfery oceanicznej Oceanu Tetydy na drodze subdukcji, nie skutkowały w tym czasie zjawiskami wulkanicznymi w domenie karpacko-panońskiej. Przyczyną tego był panujący wówczas na tym obszarze reżim kompresyjny oraz znaczna grubość litosfery, niepoddanej jeszcze wówczas ekstensji. Jednakże, zaistniała wówczas metasomatyzacja płaszcza, możliwa dzięki dehydratacji subdukowanych fragmentów litosfery. Uwodnienie płaszcza pozwoliło na zmniejszenie temperatury generacji stopu, który zaczął migrować ku powierzchni wraz z rozpoczęciem etapu ekstensji we wczesnym miocenie, około 20 mln lat temu. Stopy płaszczowe, docierając do skorupy, powodowały jej topnienie i tworzenie magm krustalnych. W etapie ekstensji generacja magm płaszczowych podtrzymywana była przez mechanizm wytapiania dekompresyjnego, a dalsza subdukcja wpływała na skład magm (Harangi i Lenkey, 2007). Oprócz wulkanizmu związanego z subdukcją (orogenicznego), w domenie karpacko-panońskiej występowały lokalnie pó\'{z}niejsze zjawiska wulkaniczne natury anorogenicznej (Wilson i Downes, 2006).
 
 %zob. Konecny et al., 2002   
 
@@ -111,7 +103,7 @@ Na obszarze Polski kenozoiczna aktywność wulkaniczna domeny karpacko-panoński
 
 	\subsubsection{Wulkanizm sudecki i ryftu Egeru}
 
-Kenozoiczne zjawiska wulkaniczne Sudetów odpowiedzialne były za powstanie na obszarze Polski dolnośląskiej formacji bazaltowej. Genetycznie wulkanizm sudecki jest zbliżony (spośród formacji środkowoeuropejskich) do pól wulkanicznych w Niemczech i Czechach związanych z rowem Egeru (Oh\v{r}y), a także, w mniejszym stopniu, ze strefą uskokową Łaby i Odry (Puziewicz et al., 2011). Do formacji tych należą: wulkanity niecki żytawskiej na terenie Niemiec (B\"{u}chner et al., 2015), na obszarze Czech: Czeskie Średniogórze, Doupovské hory, południowo-zachodni kraniec rowu Egeru na pograniczu Czech i Górnego Palatynatu (Fig. 1). Formacje te zaliczane są do środkowoeuropejskiej prowincji wulkanicznej -- rozciągajacej się na przedpolu Alpidów (od pasma Eifel po Śląsk) strefy występowania śródpłytowych pól wulkanicznych. Według Kopeck\'{y}'ego (zrodlo?), rozwój zjawisk wulkanicznych na tym obszarze jest związany z rozległą strefą ryftową, rozciągającą się od Renu, przez Niemcy i Czechy, po zachodnią Polskę (\textit{ECRIS} -- \textit{European Cenozoic Rift System}). Aktywność wulkaniczna w obrębie środkowoeuropejskiej prowincji wulkanicznej rozpoczęła się pod koniec kredy, z początkiem riftingu (melilitytowy kompleks Osečná na przecięciu głównego uskoku łużyckiego i rowu Egeru, 68-59 mln lat temu; Ulrych et al., 2008; Ulrych et al., 2000) i trwała do czwartorzędu (Eifel, Masyw Centralny i zachodni kraniec rowu Egeru). Według Meier et al. (2016), ryfty tworzące ECRIS miały od poczatku charakter pasywny i wystepowanie wulkanizmu na ich obszarze jest raczej zjawiskiem wtórnym, związanym ze ścienieniem litosfery. Przeto, należy domniemywać, że wulkanizm ECRIS i kenozoiczne uniesienie LAB w środkowej Europie jest skutkiem procesów płaszczowych (Meier et al., 2016).
+Kenozoiczne zjawiska wulkaniczne Sudetów odpowiedzialne były za powstanie na obszarze Polski dolnośląskiej formacji bazaltowej. Genetycznie wulkanizm sudecki jest zbliżony (spośród formacji środkowoeuropejskich) do pól wulkanicznych w Niemczech i Czechach związanych z rowem Egeru (Oh\v{r}y), a także, w mniejszym stopniu, ze strefą uskokową Łaby i Odry (Puziewicz et al., 2011). Do formacji tych należą: wulkanity niecki żytawskiej (ryft Żytawa-Bogatynia, będący kontynuacją ryftu Egeru ku wschodowi) na terenie Niemiec i Polski (B\"{u}chner et al., 2015; Szymkowiak i Panasiuk, 1985), na obszarze Czech: Czeskie Średniogórze, Doupovské hory, południowo-zachodni kraniec rowu Egeru na pograniczu Czech i Górnego Palatynatu (Fig. 1). Formacje te zaliczane są do środkowoeuropejskiej prowincji wulkanicznej -- rozciągajacej się na przedpolu Alpidów (od pasma Eifel po Śląsk) strefy występowania śródpłytowych pól wulkanicznych. Według Kopeck\'{y}'ego (zrodlo?), rozwój zjawisk wulkanicznych na tym obszarze jest związany z rozległą strefą ryftową, rozciągającą się od Renu, przez Niemcy i Czechy, po zachodnią Polskę (\textit{ECRIS} -- \textit{European Cenozoic Rift System}). Aktywność wulkaniczna w obrębie środkowoeuropejskiej prowincji wulkanicznej rozpoczęła się pod koniec kredy, z początkiem riftingu (melilitytowy kompleks Osečná na przecięciu głównego uskoku łużyckiego i rowu Egeru, 68-59 mln lat temu; Ulrych et al., 2008; Ulrych et al., 2000) i trwała do czwartorzędu (Eifel, Masyw Centralny i zachodni kraniec rowu Egeru). Według Meier et al. (2016), ryfty tworzące ECRIS miały od poczatku charakter pasywny i wystepowanie wulkanizmu na ich obszarze jest raczej zjawiskiem wtórnym, związanym ze ścienieniem litosfery. Przeto, należy domniemywać, że wulkanizm ECRIS i kenozoiczne uniesienie LAB w środkowej Europie jest skutkiem procesów płaszczowych (Meier et al., 2016).
 
 \begin{figure}[h]
 	\centering
@@ -122,9 +114,19 @@ Kenozoiczne zjawiska wulkaniczne Sudetów odpowiedzialne były za powstanie na o
 
 W opinii wielu badaczy (jakich?), pola wulkaniczne środkowoeuropejskiej prowincji wulkanicznej reprezentują śródpłytowy typ wulkanizmu. Według Lebedev et al. (2006), ten typ wulkanizmu występuje w miejscach, gdzie głębokość do astenosfery jest mniejsza niż na pobliskim obszarze kratonicznym. Zgodnie z tą hipotezą, w takich warunkach w astenosferze wytwarza się subhoryzontalny przepływ, a w miejscu, gdzie litosfera jest ścieniona, dochodzi do dekompresyjnego wytapiania i, w konsekwencji, do pojawienia się wulkanizmu. Charakterystyczne dla wulkanizmu typu śródpłytowego są: monogenetyczność stopów, ich niewielka objętość i krótki okres aktywności wulkanów. Stopy (na ogół bazaltowe; alkaliczne bąd\'{z} pośrednie) są zazwyczaj generowane w płaszczu (w stosunkowo krótkim czasie), przy czym w czasie migracji przez skorupę może następować mixing bąd\'{z} dyferencjacja. Erupcja wulkanów śródpłytowych następuje na skutek wzrostu ciśnienia w ciele magmowym ponad wartość ciśnienia litostatycznego (Kereszturi i Németh, 2013). Występowanie pól wulkanicznych w obrębie ECRIS koreluje z obszarem kenozoicznego ścienienia litosfery. Dzięki ekstensji możliwa była wysokotemperaturowa, efektywna pod względem stopnia wytopienia skał generacja stopów o wysokiej zawartości krzemionki (Meier et al., 2016).
 
-Kenozoiczny wulkanizm na Dolnym Śląsku związany był z wschodnim krańcem ryftu Egeru (Krzemińska i Awdankiewicz, 2011). W obrębie dolnośląskiej formacji bazaltowej wulkanity występują w kilku głównych centrach: 1) blok przedsudecki; 2) przy krawędzi Sudetów Środkowych; 3) w zachodniej części Sudetów (związane z północną częścią ryftu Egeru), a ponadto na terenie depresji kredy opolskiej oraz jako pojedyncze wystąpienia w Karkonoszach i Górach Złotych. Aktywność wulkaniczna miała miejsce przede wszystkim w oligocenie i miocenie (31-4 mln lat temu; Badura i Przybylski, 2004).
+Kenozoiczny wulkanizm na Dolnym Śląsku związany był z wschodnim krańcem ryftu Egeru (Krzemińska i Awdankiewicz, 2011). W obrębie dolnośląskiej formacji bazaltowej wulkanity występują w kilku głównych centrach: 1) blok przedsudecki; 2) przy krawędzi Sudetów Środkowych; 3) w zachodniej części Sudetów (związane z północną częścią ryftu Egeru), a ponadto na terenie depresji kredy opolskiej oraz jako pojedyncze wystąpienia w Karkonoszach i Górach Złotych. Większość ze znanych stanowisk znajduje się na bloku przedsudeckim, po obu stronach uskoku sudeckiego brzeżnego (okolice Jawora, Legnicy i Złotoryi oraz Niemczy, Kowalskich-Żelowic, Targowicy i Ziębic -- Badura et al., 2005) i w zachodniej części Sudetów. Aktywność wulkaniczna miała miejsce przede wszystkim w oligocenie i miocenie (31-14 mln lat temu; Badura i Przybylski, 2004), ogółem trwała od 31 do 4 mln lat temu. W pobliskim Masywie Czeskim (Kopecky, 1978 - znalezc!!) wyróżnia się trzy fazy wulkanizmu trzeciorzędowego: 1) oligocen-miocen dolny (35-17 mln lat temu) -- ruchy fazy sawskiej i styryjskiej; 2) pliocen (9-6,39 mln lat temu) -- ruchy fazy wołowskiej; 3) pliocen-plejstocen (2,7-0,86 mln lat temu), oraz najwcześniejszą fazę wulkanizmu inicjalnego w paleogenie (64,7-60 mln lat temu; Szymkowiak i Panasiuk, 1985).
 
-Ogółem, na Dolnym Śląsku znajduje się około 300 stanowisk występowania wulkanitów kenozoicznych (Badura et al., 2005) -- są to głównie niewielkie żyły i kominy, fragmenty potoków lawowych i piroklastyki. Sporadycznie występują dobrze zachowane stożki wulkaniczne, np. w Graczach k. Opola i w Targowicy k. Strzelina (Krzemińska i Awdankiewicz, 2011). Obserwowane w badaniach grawimetrycznych i magnetycznych anomalie bazaltowe mogą świadczyć o znacznym zasięgu utworów wulkanicznych występujących płytko przy powierzchni skorupy ziemskiej (Badura i Przybylski, 2004). Pod względem litologicznym, w obrębie kenozoicznych wulkanitów Sudetów polskich najpowszechniej występują bazanity, nefelinity i bazalty alkaliczne. Badania geochemiczne tych skał wskazują, że stopy, z których powstały, miały pochodzenie astenosferyczne lub/i litosferyczne i były produktem wytapiania perydotytów granatonośnych i spinelowych bąd\'{z} wytworzyły się w efekcie topnienia w strefie przejściowej między tymi facjami (Puziewicz et al., 2011).
+%They erupted within the time interval from 30 to 4 Ma (K-Ar dating), and represent three main volcanic episodes (around 28, 18 and 4 Ma; Birkenmajer et al., 2002).
+
+Ogółem, na Dolnym Śląsku znajduje się około 300 stanowisk występowania wulkanitów kenozoicznych (Badura et al., 2005; Fig. 1) -- są to głównie niewielkie żyły i kominy, fragmenty potoków lawowych i piroklastyki. Sporadycznie występują dobrze zachowane stożki wulkaniczne, np. w Graczach k. Opola i w Targowicy k. Strzelina (Krzemińska i Awdankiewicz, 2011). Obserwowane w badaniach grawimetrycznych i magnetycznych anomalie bazaltowe mogą świadczyć o znacznym zasięgu utworów wulkanicznych występujących płytko przy powierzchni skorupy ziemskiej (Badura i Przybylski, 2004). Pod względem litologicznym, w obrębie kenozoicznych wulkanitów Sudetów polskich najpowszechniej występują bazanity, nefelinity i bazalty alkaliczne. Powstanie takich law mogło być wynikiem frakcjonalnej dyferencjacji (asymilacji ksenolitów, dyfuzji składników ze skał otoczenia) pierwotnego stopu bazaltowego, który dostał się do skorupy w inicjalnej, paleogeńskiej fazie wulkanizmu (Szymkowiak i Panasiuk, 1985). Badania geochemiczne tych skał wskazują, że stopy, z których powstały, miały pochodzenie astenosferyczne lub/i litosferyczne i były produktem wytapiania perydotytów granatonośnych i spinelowych bąd\'{z} wytworzyły się w efekcie topnienia w strefie przejściowej między tymi facjami (Puziewicz et al., 2011). Wulkanity Dolnego Śląska są silnie wzbogacone w pierwiastki niedopasowane oraz wykazują znaczne negatywne anomalie zawartości potasu i ołowiu, charakterystyczne dla bazaltów typu OIB (ang. \textit{oceanic island basalt}; Ladenberger et al., 2009), a także wykazują cechy typu HIMU (ang. \textit{high $\mu$}, gdzie $\mu$=$^{238}$U/$^{204}$Pb; Wilson i Downes, 1990). W obrębie magm znajdowano ksenolity płaszczowe i skorupowe -- obecność tych pierwszych świadczy o tym, że pierwotne magmy nie były skontaminowane materią skorupową i szybko migrowały ku powierzchni ze \'{z}ródła płaszczowego. Skład izotopowy ksenolitów płaszczowych wskazuje na ich pochodzenie ze zubożonego płaszcza, stosunkowo niedawno zmetasomatyzowanego (Ladenberger et al., 2009). Według Ladenberger et al. (2009), temperatura skały płaszczowej, z której generowany był stop, mogła sięgać 1200 \textcelsius.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../Termika/dslwulkanity}
+	\caption{Rozmieszczenie stanowisk występowania wulkanitów na Dolnym Śląsku; \textit{czarny} bazaltoidy i skały piroklastyczne, \textit{szary} podłoże krystaliczne (Badura et al., 2005).}
+	\label{Fig.}
+\end{figure}
+
 
 %Lanberger et al 2006  
 
@@ -167,11 +169,11 @@ Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesie
  
  Wysokie ciśnienia i temperatury panujące w obrębie skał niższego systemu wodonośnego, w połączeniu z dużą porowatością tych utworów, umożliwiają rozwój konwekcyjnego przepływu wód (Horv\'{a}th et al., 2015). 
  
- \subsubsection{Zapadlisko przedkarpackie}
+% \subsubsection{Zapadlisko przedkarpackie}
  
- 	\chapter{Modele termiczne dla obszaru Polski -- historia badań}
+% 	\chapter{Modele termiczne dla obszaru Polski -- historia badań}
  
-	\chapter{Rozpoznanie strumienia cieplnego na obszarze Polski}
+%	\chapter{Rozpoznanie strumienia cieplnego na obszarze Polski}
  
 % 	\chapter{Teoretyczne podstawy modelowania stanu termicznego litosfery}
  
@@ -193,42 +195,79 @@ Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesie
 
 \begin{multicols}{3} %kolumny
 	
-\begin{localsize}{10}
-	
-\parindent=0pt
+%\parindent=10pt
 \parskip=\smallskipamount
+\setlength\parindent{0pt}
 
-Annen, C., 2017. Factors Affecting the Thickness of Thermal Aureoles. Front. Earth Sci. 5, 1614.
+\begingroup
+\footnotesize
 
-Békési, E. et al., 2017. Subsurface temperature model of the Hungarian part of the Pannonian Basin. Global and Planetary Change.
+\uppercase{AdamoviČ, J., Coubal, M., 1999.} Intrusive geometries and Cenozoic stress history of the northern part of the Bohemian massif. Geolines , 9, 5–14.
 
-Boldizsár, T., 1964. Terrestrial heat flow in the Carpathians. J. Geophys. Res. 69 (24), 5269–5275.
+\uppercase{Annen, C., 2017.} Factors Affecting the Thickness of Thermal Aureoles. Front. Earth Sci. 5, 1614. 
 
-Csontos, L., Vörös, A., 2004. Mesozoic plate tectonic reconstruction of the Carpathian region. Palaeogeography, Palaeoclimatology, Palaeoecology 210 (1), 1–56.
+\uppercase{Badura, J. et al., 2005}. New age and petrological constraints on Lower Silesian basaltoids, SW Poland. Acta Geodyn. Geomater., 2, 3 (139), 7-15.
 
-Fjeldskaar, W. et al., 2008. Thermal modelling of magmatic intrusions in the Gjallar Ridge, Norwegian Sea: implications for vitrinite reflectance and hydrocarbon maturation. Basin Research (20), 143–159. 
+\uppercase{Badura, J., Przybylski, B., 2004.} Dolnośląska formacja bazaltowa. [W:] Budowa geologiczna Polski. Tom I. Stratygrafia. Część 3a. Kenozoik, Paleogen. Neogen. Peryt T. M., Piwocki M. (red.). Państowy Instytut Geologiczny, Warszawa, 161–168.
 
-Fodor, L. et al., 1999. Tertiary tectonic evolution of the Pannonian Basin system and neighbouring orogens: A new synthesis of palaeostress data. Geological Society, London, Special Publications 156 (1), 295–334. 
+\uppercase{B\'{E}k\'{E}si, E. et al., 2017.} Subsurface temperature model of the Hungarian part of the Pannonian Basin. Global and Planetary Change. doi:10.1016/j.gloplacha.2017.09.020.
 
-Galushkin, Y., 1997. Thermal effects of igneous intrusions on maturity of organic matter: A possible mechanism of intrusion. Organic Geochemistry 26 (11-12), 645–658. 
+\uppercase{Birkenmajer K. et al., 2011.} Radiometric dating of the tertiary volcanics in Lower Silesia, Poland. VI. K-Ar and palaeomagnetic data from basaltic rocks of the West Sudety Mountains and their northern foreland. Annales Societatis Geologorum Poloniae, 81 (2), 115–131.
 
-Harangi, S., Lenkey, L., 2002. Genesis of the Neogene to Quaternary volcanism in the Carpathian-Pannonian region: Role of subduction, extension, and mantle plume. Geological Society of America (Special Paper 418), 67–92.
+\uppercase{Boldizs\'{A}r, T., 1964.} Terrestrial heat flow in the Carpathians. J. Geophys. Res. 69 (24), 5269–5275. 
 
-Horváth, F., Cloetingh, S., 1996. Stress-induced late-stage subsidence anomalies in the Pannonian basin. Tectonophysics 266 (1-4), 287–300. 
+\uppercase{B\"{U}chner, J. et al.,, 2015.} Volcanology, geochemistry and age of the Lausitz Volcanic Field. Int. J. Earth Sci. (Geol. Rundsch.), 104 (8), 2057–2083. 
 
-Horváth, F. et al., 2015. Evolution of the Pannonian basin and its geothermal resources. Geothermics 53, 328–352. 
+\uppercase{Cajz, V., ValeČka, J., 2012.} Tectonic setting of the Ohře/Eger Graben between the central part of the České středohoří Mts. and the Most Basin, a regional study. Jour. Geosci., 201–215. 
 
-Kováč, M. et al., 2007. Badenian evolution of the Central Paratethys Sea: paleogeography, climate and eustatic sea-level changes. Geologia Carpathica 58 (6), 579–606.
+\uppercase{Csontos, L., Vörös, A., 2004.} Mesozoic plate tectonic reconstruction of the Carpathian region. Palaeogeogr. Palaeoclimatol. Palaeoecol. 210 (1), 1–56. 
+
+\uppercase{D\`{E}zes, P. et al., 2004.} Evolution of the European Cenozoic Rift System: Interaction of the Alpine and Pyrenean orogens with their foreland lithosphere. Tectonophysics 389 (1-2), 1–33.
+
+\uppercase{Fjeldskaar, W. et al., 2008.} Thermal modelling of magmatic intrusions in the Gjallar Ridge, Norwegian Sea: implications for vitrinite reflectance and hydrocarbon maturation. Basin Research (20), 143–159. 
+
+\uppercase{Fodor, L. et al., 1999.} Tertiary tectonic evolution of the Pannonian Basin system and neighbouring orogens: A new synthesis of palaeostress data. Geological Society, London, Special Publications 156 (1), 295–334. 
+
+\uppercase{Galushkin, Y., 1997.} Thermal effects of igneous intrusions on maturity of organic matter: A possible mechanism of intrusion. Organic Geochemistry 26 (11-12), 645–658. 
+
+\uppercase{Grad M., Guterch A., 2010.} Struktura litosfery i geodynamika Europy Centralnej w świetle eksperymentów sejsmicznych POLONAISE’97, CELEBRATION 2000, ALP 2002 i SUDETES 2003. KAPITAŁ LUDZKI, Unia Europejska, Europejski Fundusz Społeczny, Gliwice.
+
+\uppercase{Harangi, S., Lenkey, L., 2002.} Genesis of the Neogene to Quaternary volcanism in the Carpathian-Pannonian region: Role of subduction, extension, and mantle plume. Geological Society of America (Special Paper 418), 67–92.
+
+\uppercase{Horv\'{A}th, F., Cloetingh, S., 1996.} Stress-induced late-stage subsidence anomalies in the Pannonian basin. Tectonophysics 266 (1-4), 287–300.
+
+\uppercase{Horv\'{A}th, F. et al., 2015.} Evolution of the Pannonian basin and its geothermal resources. Geothermics 53, 328–352. 
+
+\uppercase{Kereszturi, G., N\'{E}meth, K., 2013.} Monogenetic Basaltic Volcanoes: Genetic Classification, Growth, Geomorphology and Degradation. [W:] Németh, K. (red.), Updates in volcanology. New advances in understanding volcanic systems. InTech, Rijeka, Croatia.
+
+\uppercase{Kovac, M. et al., 2007.} Badenian evolution of the Central Paratethys Sea: paleogeography, climate and eustatic sea-level changes. Geologia Carpathica 58 (6), 579–606.
+
+\uppercase{Krzemi\'{N}ska, E., Awdankiewicz, M., 2011.} Historia geologiczna aktywności wulkanicznej na obszarze Polski. Kosmos 60 (3-4), 261–276.
+
+Ladenberger, A. et al., 2009. CO$_2$ fluid inclusions in mantle xenoliths from Lower Silesia (SW Poland): Formation conditions and decompression history. Eur. J. Mineral. 21 (4), 751–761.
 
 Lenkey, L. et al., 2002. Geothermics of the Pannonian basin and its bearing on the neotectonics. Stephan Mueller Special Publication Series (3), 29–40.
 
 Lexa, J. et al., 2010. Neogene-Quaternary Volcanic forms in the Carpathian-Pannonian Region: A review. Open Geosciences 2 (3), 15.
 
-Pécskay, Z. et al., 1995. Space and time distribution of Neogene-Quaternary volcanism in the Carpatho-Pannonian region. Acta Vulcanologica (7 (2)), 15–28.
+Meier, T. et al., 2016. Mesozoic and Cenozoic evolution of the Central European lithosphere. Tectonophysics 692, 58–73.
 
-Toth, J., Almasi, I., 2001. Interpretation of observed fluid potential patterns in a deep sedimentary basin under tectonic compression: Hungarian Great Plain, Pannonian Basin. Geofluids 1 (1), 11–36.
+Németh, K. (red.), 2013. Updates in volcanology: New advances in understanding volcanic systems. InTech, Rijeka, Croatia, ix, 267.
 
-\end{localsize}
+Pécskay, Z. et al., 1995. Space and time distribution of Neogene-Quaternary volcanism in the Carpatho-Pannonian region. Acta Vulcanologica 7 (2), 15–28.
+
+Puziewicz, J. et al., 2011. Górny płaszcz Ziemi pod SW Polską: źródło kenozoicznego wulkanizmu alkalicznego. [W:] Żelażniewicz, A., Wojewoda, J., Ciężkowski, W., [red.] – Mezozoik i Kenozoik Dolnego Śląska, 37-43, WIND, Wrocław.
+Puziewicz, J. et al., 2015. Subcontinental lithospheric mantle beneath Central Europe. Int. J. Earth Sci. (Geol. Rundsch.) 104 (8), 1913–1924. 
+
+Toth, J., Almasi, I., 2001. Interpretation of observed fluid potential patterns in a deep sedimentary basin under tectonic compression: Hungarian Great Plain, Pannonian Basin. Geofluids 1 (1), 11–36. 
+
+Ulrych, J., 2000. Upper-mantle xenoliths in melilitic rocks of the Osecna Complex, North Bohemia. Journal of the Czech Geological Society 45 (1-2), 79-83.
+
+Ulrych, J. et al., 2002. The source of Cenozoic volcanism in the České středohoří Mts., Bohemian Massif. N. Jb. Miner. Abh. 177 (2), 133–162. 
+
+Ulrych, J. et al., 2008. Late Cretaceous to Paleocene melilitic rocks of the Ohře/Eger Rift in northern Bohemia, Czech Republic: Insights into the initial stages of continental rifting. Lithos 101 
+
+\endgroup
 
 \end{multicols}
 
