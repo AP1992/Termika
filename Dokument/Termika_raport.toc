@@ -1,12 +1,35 @@
-\contentsline {chapter}{\numberline {1}Kenozoiczna historia termiczna centralnej Europy}{2}
-\contentsline {section}{\numberline {1.1}Zlodowacenia plejstoce\IeC {\'n}skie}{2}
-\contentsline {section}{\numberline {1.2}Orogeneza alpejska}{2}
-\contentsline {subsection}{\numberline {1.2.1}Wypi\IeC {\k e}trzenie Karpat}{2}
-\contentsline {subsection}{\numberline {1.2.2}Powstanie systemu ryft\IeC {\'o}w na kontynencie europejskim}{2}
-\contentsline {subsection}{\numberline {1.2.3}Wynoszenie masyw\IeC {\'o}w waryscyjskich}{3}
-\contentsline {subsection}{\numberline {1.2.4}Wulkanizm}{4}
-\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{4}
-\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{5}
-\contentsline {subsection}{\numberline {1.2.5}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{8}
-\contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{8}
-\contentsline {chapter}{Bibliografia}{12}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Kenozoiczna historia termiczna centralnej Europy}{3}
+\contentsline {section}{\numberline {1.1}Wsp\IeC {\'o}\IeC {\l }czesny strumie\IeC {\'n} cieplny w Europie centralnej}{3}
+\contentsline {section}{\numberline {1.2}Zlodowacenia plejstoce\IeC {\'n}skie}{3}
+\contentsline {section}{\numberline {1.3}Orogeneza alpejska}{5}
+\contentsline {subsection}{\numberline {1.3.1}Wypi\IeC {\k e}trzenie Karpat}{6}
+\contentsline {subsection}{\numberline {1.3.2}Powstanie systemu ryft\IeC {\'o}w na kontynencie europejskim}{6}
+\contentsline {subsubsection}{Ryft Egeru}{7}
+\contentsline {subsection}{\numberline {1.3.3}Wynoszenie masyw\IeC {\'o}w waryscyjskich}{8}
+\contentsline {subsubsection}{Masyw Czeski}{9}
+\contentsline {subsection}{\numberline {1.3.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{9}
+\contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{10}
+\contentsline {paragraph}{Basen wiede\IeC {\'n}ski}{12}
+\contentsline {subsubsection}{Zapadlisko przedkarpackie}{12}
+\contentsline {subsubsection}{Alpejski basen molasowy}{12}
+\contentsline {section}{\numberline {1.4}Wulkanizm}{12}
+\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{13}
+\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{14}
+\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{18}
+\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{18}
+\contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{18}
+\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{19}
+\contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci gradientu/stopnia geotermicznego\\ dla ziem polskich}{19}
+\contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{19}
+\contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{19}
+\contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{19}
+\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{20}
+\contentsline {subsubsection}{Prace Majorowicza (lata 70. XX w.)}{20}
+\contentsline {subsubsection}{Lata 90. XX w.}{20}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{21}
+\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{22}
+\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{23}
+\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{24}
+\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{25}
