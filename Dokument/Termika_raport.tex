@@ -18,6 +18,7 @@
 \usepackage{titlesec}
 \usepackage{chngcntr}
 \counterwithout{figure}{chapter} %ustawia jedno numerowanie figur w całym dokumencie
+\counterwithout{table}{chapter}
 \setlength{\belowcaptionskip}{-5pt} %zmienia odległość między podpisem figury a tekstem
 \usepackage[font=small,labelfont=bf]{caption} %formatowanie podpisów figur: mała czcionka, "Fig." boldem
 \setlength{\parindent}{1.5em}
@@ -25,6 +26,7 @@
 %\usepackage{multicol} %kolumny
 \usepackage{textcomp} %umożliwia używanie w tekście symboli
 \usepackage{siunitx} %używanie w tekście jednostek SI
+\sisetup{scientific-notation=true}
 
 \addto\captionsenglish{ %zmienia etykietowanie z "Figure" na Fig. (babel english)
 	\renewcommand{\figurename}{Fig.}
@@ -34,6 +36,11 @@
 \addto\captionsenglish{ %zmienia tytuł Spisu treści (babel english)
 	\renewcommand{\contentsname}
 	{Spis treści}
+}
+
+\addto\captionsenglish{ %zmienia etykietowanie tabel
+	\renewcommand{\tablename}
+	{Tab.}
 }
 
 \usepackage{lipsum} %usuwa "Rozdział" z nazwy rozdziału
@@ -87,7 +94,15 @@ natbib=true]{
 
 \newcommand{\ct}[1]{\ignorespaces} %wprowadzenie komendy 'komentarz'
 
-%\usepackage{xcolor}
+\usepackage{amsmath,amssymb} %zdefiniowanie 'kalorii'
+\DeclareSIUnit{\calorie}{cal}
+\sisetup{per-mode=symbol}
+
+\usepackage{multirow}
+\usepackage{rotating}
+
+\usepackage{booktabs}
+\usepackage[table,xcdraw]{xcolor}
 %\definecolor{titlepagecolor}{cmyk}{0,5.8,29.6,4.7}
 %
 \begin{document}
@@ -140,7 +155,14 @@ Liczba glacjałów i interglacjałów wyznaczanych na obszarze Polski jest dysku
 
 Zlodowacenia miały znaczny wpływ na litosferę, zwłaszcza w płytszych jej warstwach (zrodlo). Masy lodu zalegające na kontynencie europejskim powodowały znaczne obciążenie statyczne. Ciężar lądolodu, którego grubość na obszarze Polski w maksimum ostatniego zlodowacenia przekraczała 1 km \parencite{Svendsen.2004} (zrodlo), był kompensowany przez izostatyczne ugięcie skorupy na obszarze tarczy bałtyckiej (zrodlo). Śladem obciążenia litosfery przez lądolód jest [+/-] anomalia grawimetryczna, współcześnie notowana na zajmowanych przezeń w przeszłości geologicznej terenach (zrodla). Obserwuje się, zwłaszcza na Półwyspie Skandynawskim, postglacjalne wynoszenie terenu, związane z ustąpieniem lądolodu (zrodlo).
 
+\iffalse
+[...] ziemia zachowuje się jak [...] ciała plastyczne. W ciałach plastycznych deformacya nie znika razem z ciśnieniem, ale pozostaje i zanika powoli w sposób asymptotyczny. -- Rudzki, 1909 - Fizyka ziemi
+\fi
+
+
 Kolejnym skutkiem zlodowaceń czwartorzędowych było glacitektoniczne przeobrażenie osadów starszych oraz zdeponowanie miąższych osadów polodowcowych, tworzących charakterystyczne glacjalne formy rzeźby terenu. Grubość pokrywy osadowej ma wpływ na kształtowanie strumienia ciepła docierającego do powierzchni ziemi. Topografia terenu oraz układ warstw o różnych parametrach hydrologicznych mają zaś znaczenie dla warunków hydrologicznych – adwekcyjny i konwekcyjny transport ciepła w obrębie litosfery może zachodzić za pośrednictwem wód podziemnych.
+
+Od samych początków współczesnych badąń geotermicznych (pierwsze dekady XX w.) zauważano (np. \cite{Stenz.1936,Rudzki.1909}) wpływ klimatu na temperaturę przypowierzchniowych warstw Ziemi. Stenz (\citeyear{Stenz.1936}) sądził, że sezonowe wahania temperatury atmosferycznej oddziałują na temperaturę gruntu do 10 m w głąb.  
 
 Wreszcie, zlodowacenia wiązały się z przemrożeniem gruntu pod powierzchnią lodu i na obszarach tundrowych (ze względu na chłodny, surowy klimat), do głębokości kilkuset metrów pod powierzchnią gruntu, czyli z powstaniem wiecznej zmarzliny. Jako że dyfuzja termiczna w skałach odbywa się powoli, wieczna zmarzlina wciąż utrzymuje się w formie reliktowej – na kontynencie eurazjatyckim głównie na obszarze wschodniej Syberii. Reliktowy poziom wiecznej zmarzliny na obszarze Polski został udokumentowany przez badania w otworze Udryń PIG 1 w okolicy Suwałk (w roku 2010). Strop przemarzniętego poziomu znajdował się na głębokości 357 m pod poziomem gruntu. Odkrycie to jest przyczynkiem do twierdzenia, że reliktowa wieczna zmarzlina może być obecna w innych miejscach Europy środkowej i wschodniej \parencite{Szewczyk.2017}. 
 
@@ -161,7 +183,12 @@ were locally glaciated, both by mountain-type glaciers (Karkonosze
 Mts., Hrubý Jeseník) as well as by a Scandinavian ice sheet advancing
 from the north (Partsch, 1894; Prosová, 1973; Badura and Przybylski,
 1998).
+
+Plewa,1966: "Gdyby tak na naszych terenach zlodowacenie plejstoceńskie doszło do głębokości 300 m, to i tak w okresie kilku tysięcy lat, jakie nas dzieli od tego okresu, winna się ustalić już równowaga cieplna."
+
 \fi
+	
+	
 	
 	\section{Orogeneza alpejska}
 	
@@ -401,6 +428,8 @@ Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesie
   	%http://engine.brgm.fr/web-offlines/Geothermal%20Field%20of%20The%20Baltic%20Region/index.html
   	
   	%https://www.sciencedirect.com/science/article/pii/004019519400215U
+  	
+Na terenie zachodniej Litwy notowane są anomalnie wysokie (a tle regionu) wartości strumienia cieplnego, \parencite{Sliaupa.2012}, sięgające 100 \si{\milli\watt\per\meter\squared} \parencite{Puura.2003}. Anomalia ta występuje na obszarze kratonu wschodnioeuropejskiego --- jednostki tego wieku typowo charakteryzują się niskimi wartościami parametrów termicznych \ct{zrodlo}.
 
 	\section{Diapiryzm płaszcza}
 
@@ -413,18 +442,48 @@ Hipoteza piórpuszy (diapirów) płaszcza jest współcześnie często przyjmowa
 
 \chapter{Modele termiczne dla obszaru Polski --- historia badań}
 
-\section{Pierwsze oznaczenia wartości gradientu/stopnia geotermicznego\\ dla ziem polskich}
+\section{Pierwsze oznaczenia wartości parametrów geotermicznych dla ziem polskich}
 
-Pierwsze pomiary parametrów geotermicznych na terenach polskich wykonywane były w związku z działalnością górniczą. Pionierskie prace na tym polu podejmowano w początkach XX w. --- na Śląsku (badacze niemieccy, np. \cite{Michael.1910}) i na Podkarpaciu (ośrodek lwowski). 
+Pierwsze pomiary parametrów geotermicznych w otworach wiertniczych (temperatury, T, gradientu, dT/dz, i stopnia geotermicznego, dz/dT) na terenach polskich wykonywane były przez badaczy niemieckich na Górnym Śląsku w początkach XX w. W \citeyear{Henrich.1904} r. opublikowane zostały wyniki obserwacji termicznych Henricha poczynionych na odwiercie Paruschowitz V (w literaturze polskiej: Paruszowiec lub Paruszowice; np. \cite{Plewa.1966,Stenz.1936}) w Rybniku, będącym do końca XIX w. najgłębszym szybem na świecie \parencite{Stenz.1936,Henrich.1904}. Uzyskano wówczas (po przyjęciu poprawek) gradient termiczny 31,8 m/{\textcelsius}. Jest to jednak wynik wysoce niepewny, gdyż mierzono temperaturę rdzeni skalnych wydobytych na powierzchnię \parencite{Maj.2010,Rudzki.1909,Henrich.1904}. Michael i Quitzow (\citeyear{Michael.1910}) prowadzili badania na otworze Czuchów (dziś w dzielnicy Czerwionki--Leszczyn), który pozostawał najgłębszym w świecie do czasów I wojny światowej \parencite{Stenz.1936}. Temperatury mierzono przy użyciu termometrów zapuszczanych do otworów \parencite{Michael.1910}. W latach 20. XX w. licznymi badaniami na polu geoftermiki zaznaczył się ośrodek lwowski pod wodzą prof. H. Arctowskiego \parencite{Plewa.1966,Maj.2010}. Po II wojnie światowej badania geofizyczne w otworach wiertniczych, a wśród nich badania termiczne, znalazły się w fazie intensywnego rozwoju \parencite{Plewa.1994}. Pomiary temperatur w odwiertach przeprowadzane były również w pó\'{z}niejszch dekadach, m. in. w latach 50. i 60. przez E. Stenza, St. Pawłowskiego, St. Plewę, St. Depowskiego i L. Romana \parencite{Plewa.1966,Roman.1962,Stenz.1936}. \ct{dopisac gdzie były badania} Punktowe oznaczenia strumienia cieplnego wykonywali: Stenz \ct{\citeyear{Stenz.1954}} (1,23 \si[sticky-per]{\micro\calorie.cm^{-2}.s^{-1}} dla otworu Ciechocinek) oraz Plewa \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965,Plewa.1966}}. Pierwszą pracą, w której przedstawiono zestawienie wartości strumienia cieplnego w różnych miejscach Polski była publikacja Plewy z \citeyear{Plewa.1966} r.
 	
 \subsubsection{Prace Arctowskiego i in. (lata 20. XX w.)}
 
-W latach 20. XX w. H. Arctowski, profesor Uniwersytetu Jana Kazimierza we Lwowie, koordynował prace badawcze z zakresu geotermii na ok. 150 otworach wiertniczych ropy naftowej na Podkarpaciu \parencite{Maj.2010}. Wyniki owych pomiarów, jak i opisy procedury pomiarowej były wielokrotnie publikowane \parencite{Arctowski.1924,Arctowski.1923b,Arctowski.1923a}. Badacz ten samodzielnie opracował technikę pomiaru temperatur w otworach, eksperymentował z wykorzystaniem różnych termometrów, w tym termometrów medycznych. Arctowski rozważał możliwe czynniki zakłócające pomiar, takie jak: temperatura na powierzchni, wpływ cyrkulacji wód podziemnych itp. S. Zych i J. Moniak, należący do współpracowników H. Arctowskiego, również prowadzili w końcu lat 20. prace geotermiczne, m. in. przy poszukiwaniu gorących solanek w Ciechocinku \parencite{Maj.2010}.
+W latach 20. XX w. H. Arctowski, profesor Uniwersytetu Jana Kazimierza we Lwowie, koordynował prace badawcze z zakresu geotermii na ok. 150 otworach wiertniczych ropy naftowej na Podkarpaciu \parencite{Maj.2010}. Wyniki owych pomiarów, jak i opisy procedury pomiarowej były wielokrotnie publikowane (m. in. \cite{Arctowski.1923c,Arctowski.1923b,Arctowski.1923a}). Arctowski samodzielnie opracował technikę pomiaru temperatur w otworach, eksperymentował z wykorzystaniem różnych termometrów, w tym termometrów medycznych. Badacz ten rozważał możliwe czynniki zakłócające pomiar, takie jak: temperatura na powierzchni, wpływ cyrkulacji wód podziemnych itp. S. Zych i J. Moniak, należący do współpracowników H. Arctowskiego, również prowadzili w końcu lat 20. prace geotermiczne, m. in. przy poszukiwaniu gorących solanek w Ciechocinku \parencite{Maj.2010}.
+
+\begin{sidewaystable}[h]
+	\centering
+	\caption{Wartości parametrów geotermicznych wyznaczone w pracach Arctowskiego (\citeyear{Arctowski.1923b,Arctowski.1923a}); \textit{Z} --- głębokość otworu, \textit{z} --- głębokość pomiaru, \textit{H} --- stopień geotermiczny, \textit{b.d.} --- brak danych}
+	\label{my-label}
+	\renewcommand\arraystretch{2} % increase spacing between rows
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{@{}ccccp{4.5cm}lllll@{}}
+			\toprule
+			Źródło & Miejsce & Data & Odwiert & Stan odwiertu & {Z [m]} & {\begin{tabular}{@{}p{4.5cm}@{}}Czas pozostawienia \newline termometru w otworze [h]\end{tabular}} & {z [m]} & {Temperatura [\textcelsius]} & {H [m/\textcelsius]} \\ \midrule
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}8,3 & \cellcolor[HTML]{EFEFEF} \\
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}200 & \cellcolor[HTML]{EFEFEF}12,1 & \cellcolor[HTML]{EFEFEF} \\
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}750 & \cellcolor[HTML]{EFEFEF}22,3 & \cellcolor[HTML]{EFEFEF} \\
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}880 & \cellcolor[HTML]{EFEFEF}25,6 & \cellcolor[HTML]{EFEFEF} \\
+			& \cellcolor[HTML]{EFEFEF} & \multirow{-5}{*}{5.01.1923} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}Prezydent No 1.} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}W trakcie wiercenia} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}926} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}7} & \cellcolor[HTML]{EFEFEF}921 & \cellcolor[HTML]{EFEFEF}24,7 & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}\begin{tabular}{p{4cm}}53,9 (750--200 m), \newline 48,0 (880--50 m), \newline 39,4 (220--50 m \newline i 880--750 m)\end{tabular}} \\
+			& \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}5.01.1923 & Mougeot No 2. & 2--tyg. stójka & 772 & 19 & 50 & 7,9 & b.d. \\
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}7,5 & \cellcolor[HTML]{EFEFEF} \\
+			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}250 & \cellcolor[HTML]{EFEFEF}11,0 & \cellcolor[HTML]{EFEFEF} \\
+			\multirow{-9}{*}{Arctowski, 1923a} & \multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}Bitków} & \multirow{-3}{*}{7.01.1923} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}Valotte No 3.} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}\begin{tabular}{p{4.5cm}}W trakcie wiercenia \newline (praca przerwana)\end{tabular}} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}407} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}21} & \cellcolor[HTML]{EFEFEF}350 & \cellcolor[HTML]{EFEFEF}12,8 & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}56,6} \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 10 & 9,6 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 25 & 9,7 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 70 & 9,7 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 75 & 10,0 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 100 & 10,5 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 150 & 11,6 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 200 & 12,5 &  \\
+			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 250 & 13,6 &  \\
+			\multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}Arctowski, 1923b} & \multirow{-9}{*}{Borysław} & \multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}17--20.04.1923} & \multirow{-9}{*}{Ratoczyn 5} & \multirow{-9}{*}{Otwór opuszczony} & \multirow{-9}{*}{b.d.} & \multirow{-9}{*}{b.d.} & 300 & 14,4 & \multirow{-9}{*}{b.d.} \\ \bottomrule
+	\end{tabular}}
+\end{sidewaystable}
 
 \section{Rys historyczny modelowania termiki obszaru Polski}
 
 \subsubsection{Różycki, 1948. \textit{Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach sąsiednich}} \nocite{Rozycki.1948}
-Notatka z referatu wygłoszonego w 1947 r. zawiera skrótowy opis poglądów Różyckiego na charakterystykę geotermiczną powierzchni kraju. Różycki wskazuje na dużą zmienność wielkości geotermicznych na terenie Polski. Jednocześniej zwraca uwagę na skąpy stan i niepewną wiarygodność dotychczasowych badań dla obszaru Polski (wzmiankowane badania Arctowskiego i jego uczniów; \ct{cite{bibid}}), pozwalający jedynie na wstępną i szkicową syntezę zebranych danych. Autor wyróżnia kilka regionów geotermicznych górnej litosfery w Polsce, zwracając uwagę na ich historię tektoniczną:
+Notatka z referatu wygłoszonego w 1947 r. zawiera skrótowy opis poglądów Różyckiego na charakterystykę geotermiczną powierzchni kraju. Różycki wskazuje na dużą zmienność wielkości geotermicznych na terenie Polski. Jednocześnie zwraca uwagę na skąpy stan i niepewną wiarygodność dotychczasowych badań dla obszaru Polski (wzmiankowane badania Arctowskiego i jego uczniów; \ct{cite{bibid}}), pozwalające jedynie na wstępną i szkicową syntezę zebranych danych. Autor wyróżnia kilka regionów geotermicznych górnej litosfery w Polsce, mając na względzie ich historię tektoniczną (określenia w cudzysłowach za \cite{Rozycki.1948}):
  \begin{itemize}[nolistsep]
  	\item Polska północno-wschodnia --- region ,,chłodny'' (stopień geotermiczny: 40--100 m); obszar kratoniczny;
  	\item Polska południowa i południowo--zachodnia --- region ,,przeciętnie ciepły'' (średni stopień geotermiczny: 30--40 m); strefa fałdowań hercyjskich i kimeryjskich oraz zapadlisko przedkarpackie;
@@ -433,12 +492,30 @@ Notatka z referatu wygłoszonego w 1947 r. zawiera skrótowy opis poglądów Ró
  	\item strefy wulkanizmu trzeciorzędowego i związane z nimi ,,lokalne ocieplenia'';
  	\item zaplecze Karpat --- region ,,ciepły''; strefa ,,głębokich rozdarć tektonicznych w wewnętrznej części łuku Karpat''.
  \end{itemize}
-Ponadto, Różycki zwraca uwagę na odzwierciedlenie przebiegu strefy Teisseyre'a--Tornquista w rozmieszczeniu izolinii średniego stopnia geotermicznego na obszarze Polski, wskazując na róznice wieku obszarów leżących po obu stronach tej granicy tektonicznej.
+Ponadto, Różycki podkreśla, że przebieg strefy Teisseyre'a--Tornquista (będącej granicą między obszarami o różnym wieku) znajduje odzwierciedlenie w rozmieszczeniu izolinii średniego stopnia geotermicznego na obszarze Polski.
  
 W zbiorze opublikowano szkicową mapę rozmieszczenia średniego stopnia geotermicznego w Polsce wraz z miejscami i wartościami pomiarów z ważniejszych wierceń (Fig. 1). Została ona opracowana na podstawie danych z otworów: Łeba, Pisz, Szubin, Aleksandrów, Paruszowiec i Krosno, oraz wartości pomierzonych w odwiertach w krajach ościennych \parencite{Plewa.1966}.
 	
 \subsubsection{Plewa, 1966. \textit{Regionalny obraz parametrów geotermicznych obszaru Polski}}
-Praca Plewy z 1966 r. zawiera opracowanie danych geotermicznych (strumienia cieplnego i gradientu geotermicznego) dla 15 \ct{??} pomiarów otworowych z Polski. Publikowane pomiary były zbierane od 1953 r.; autor wykonywał również w ramach swoich wcześniejszych prac oznaczenia stopnia geotermicznego i strumienia cieplnego w wybranych miejscach Polski oraz badania własności termicznych skał \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965}}. W publikacji przedstawiono wartości powierzchniowego strumienia cieplnego ziemi dla 6 punktów z obszaru Polski, na podstawie oznaczonych w wierceniach wartości gradientu geotermicznego i oporności cieplnej skał pobranych z rdzeni. Zamieszczono mapę rozkładu gradientu geotermicznego na obszarze Polski, opracowaną z wykorzystaniem rachunku całkowego \ct{??}. Na przestrzeni kolejnych dekad wydanych zostało wiele innych publikacji tego autora w temacie termiki litosfery Polski, bardziej zaawansowanych w stanie badań i zebranej wiedzy \ct{, m. in. parencite{Plewa.1994}}.
+Praca Plewy z 1966 r. zawiera zestawienie danych geotermicznych (stopnia i gradientu geotermicznego) dla 27 otworów, w tym 11 opisanych we wcześniejszej literaturze. Publikowane pomiary były zbierane od 1953 r.; autor wykonywał również w ramach swoich wcześniejszych prac oznaczenia stopnia geotermicznego i strumienia cieplnego w wybranych miejscach Polski oraz badania własności termicznych skał \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965}}. Zamieszczono mapę rozkładu gradientu geotermicznego na obszarze Polski, opracowaną z wykorzystaniem wielomianów 1., 2. i 3. stopnia. Obliczenia wykonano w Katedrze Geodezji Wyższej i Obliczeń Geodezyjnych Akademii Górniczo-Hutniczej na matematycznej maszynie cyfrowej, dla różnych przedziałów głębokości. Autor stwierdził ogólną zgodność swoich wyników (dla modelu uzyskanego w oparciu o wielomian 3. stopnia) z mapą Różyckiego \citeyear{Rozycki.1948}. 
+
+W publikacji przedstawiono wartości powierzchniowego strumienia cieplnego ziemi dla 6 otworów wiertniczych z obszaru Polski (Tab. 1, Fig. 1), na podstawie oznaczonych w wierceniach wartości gradientu geotermicznego i oporności cieplnej skał pobranych z rdzeni. W pracy znajdują się również rozdziały poświęcone teorii i praktyce pomiarów geotermicznych w otworach i na próbkach rdzeni. 
+
+\begin{table}[h]
+	\centering
+	\caption{Średnie wartości gęstości strumienia cieplnego dla otworów opisanych w pracy \cite{Plewa.1966}; * --- brak stabilności termicznej podczas pomiaru \parencite{Plewa.1994}, ** --- G i $\lambda$ zmienne z głębokością \parencite{Plewa.1966}}
+	\label{my-label}
+	\begin{tabular}{@{}lllll@{}}
+		\toprule
+		Lp. & Nazwa otworu     & G    & $\lambda$ & q    \\ \midrule
+		1   & Bartoszyce IG--1 & 1,54 & 0,0052                 & 0,80 \\
+		2   & Mielnik IG--1*    & 1,64 & 0,0054                 & 0,89 \\
+		3   & Wschowa 1        & 3,05 & 0,0056                 & 1,71 \\
+		4   & Ostrzeszów 1     & 2,22 & 0,0060                 & 1,33 \\
+		5   & Żółcza 1         & 3,45 & 0,0032?                & 1,10 \\
+		6   & Zakopane IG--1   & **    & **                      & 1,33 \\ \bottomrule
+	\end{tabular}
+\end{table}
 
 \subsubsection{Prace Majorowicza (lata 70. XX w.)}
 
@@ -473,11 +550,15 @@ CAG Pañstw. Inst. Geol., nr 060 21/98
 
 \subsubsection{Lata 90. XX w.}
 
+\subsubsection{Obszar Polski w pracach dotyczących rozkładu gęstości strumienia cieplnego w Europie}
+
 \chapter{Rozpoznanie strumienia cieplnego na obszarze Polski}
 
 \chapter{Teoretyczne podstawy modelowania stanu termicznego litosfery}
 
 \chapter{Parametry materiałowe skał}
+
+%Plewa, 1994
 
 \chapter{Rozpoznanie struktury litosfery na obszarze Polski}
 

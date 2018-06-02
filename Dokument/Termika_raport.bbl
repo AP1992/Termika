@@ -1,0 +1,4176 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Adamovic.1999}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0b2796d84e39ebe5d6acc407154d5d7e}{%
+           family={Adamovi{č}},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=32a8f55b6d9c9e188facdbdb40ee8994}{%
+           family={Coubal},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d83364d4820ccac9ded5f9a91cb34211}
+      \strng{fullhash}{d83364d4820ccac9ded5f9a91cb34211}
+      \strng{bibnamehash}{d83364d4820ccac9ded5f9a91cb34211}
+      \strng{authorbibnamehash}{d83364d4820ccac9ded5f9a91cb34211}
+      \strng{authornamehash}{d83364d4820ccac9ded5f9a91cb34211}
+      \strng{authorfullhash}{d83364d4820ccac9ded5f9a91cb34211}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geolines}
+      \field{number}{9}
+      \field{title}{Intrusive geometries and {C}enozoic stress history of the northern part of the {B}ohemian {M}assif}
+      \field{year}{1999}
+      \field{pages}{5\bibrangedash 14}
+      \range{pages}{10}
+      \keyw{Masyw Czeski;Napr{ę}{ż}enia tektoniczne;Ryft {E}geru;Wulkanizm}
+    \endentry
+    \entry{Advokaat.2014}{article}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,uniquepart=base,hash=3ca5d1467e2acf645fe38c34568a608e}{%
+           family={Advokaat},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f1a696ff268d41935f5434963d1ec8dc}{%
+           family={{van Hinsbergen}},
+           familyi={v\bibinitperiod},
+           given={D.\bibnamedelimi J.J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=667ac9ada4395eb03bfe66e9da5648af}{%
+           family={Maffione},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7bc9c63420cc092acdb7bc45c04e5201}{%
+           family={Langereis},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=468208657925da72c5481108043ea3f6}{%
+           family={Vissers},
+           familyi={V\bibinitperiod},
+           given={R.\bibnamedelimi L.M.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e8f48f49ab2771805a496685ba67d9d}{%
+           family={Cherchi},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a2d5176c3d89d89e0937c371df8e08f}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e61146c14cb392be15a3c7e8cbce5ebe}{%
+           family={Madani},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6332b0cb01e6e2e4c326adc91842ad3c}{%
+           family={Columbu},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f7639027cd9e4d4aaba82d38a7ae3cd}
+      \strng{fullhash}{0978bbc7755281fa72d8083dc9ed3a58}
+      \strng{bibnamehash}{0978bbc7755281fa72d8083dc9ed3a58}
+      \strng{authorbibnamehash}{0978bbc7755281fa72d8083dc9ed3a58}
+      \strng{authornamehash}{9f7639027cd9e4d4aaba82d38a7ae3cd}
+      \strng{authorfullhash}{0978bbc7755281fa72d8083dc9ed3a58}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{title}{Eocene rotation of {S}ardinia, and the paleogeography of the western {M}editerranean region}
+      \field{volume}{401}
+      \field{year}{2014}
+      \field{pages}{183\bibrangedash 195}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.epsl.2014.06.012
+      \endverb
+      \keyw{ECRIS;Orogeneza alpejska;Rotacja p{ł}yt}
+    \endentry
+    \entry{Annen.2017}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2c8854811a9a28523606ef16a59b1dde}{%
+           family={Annen},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c8854811a9a28523606ef16a59b1dde}
+      \strng{fullhash}{2c8854811a9a28523606ef16a59b1dde}
+      \strng{bibnamehash}{2c8854811a9a28523606ef16a59b1dde}
+      \strng{authorbibnamehash}{2c8854811a9a28523606ef16a59b1dde}
+      \strng{authornamehash}{2c8854811a9a28523606ef16a59b1dde}
+      \strng{authorfullhash}{2c8854811a9a28523606ef16a59b1dde}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2296-6463}
+      \field{journaltitle}{Frontiers in Earth Science}
+      \field{title}{Factors affecting the thickness of thermal aureoles}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.3389/feart.2017.00082
+      \endverb
+      \keyw{Aureola termiczna;Modelowanie;Wulkanizm}
+    \endentry
+    \entry{Arctowski.1923a}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ac809fc3aaad206cc72cd2e7f24d2402}{%
+           family={Arctowski},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lwów}%
+      }
+      \strng{namehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{fullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{bibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorbibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authornamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorfullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Komunikaty Instytutu Geofizyki i Meteorologii UJK we Lwowie}
+      \field{title}{{Sur le degré géothermique dans quelques puits à pétrole en cours de forage à Bitków}}
+      \field{volume}{4}
+      \field{year}{1923a}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{Arctowski.1923b}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ac809fc3aaad206cc72cd2e7f24d2402}{%
+           family={Arctowski},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lwów}%
+      }
+      \strng{namehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{fullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{bibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorbibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authornamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorfullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Komunikaty Instytutu Geofizyki i Meteorologii UJK we Lwowie}
+      \field{title}{{Essais de détermination du degré géothermique dans le puits Ratoczyn 5 à Borysław}}
+      \field{volume}{5}
+      \field{year}{1923b}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{Arctowski.1923c}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ac809fc3aaad206cc72cd2e7f24d2402}{%
+           family={Arctowski},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lwów}%
+      }
+      \list{publisher}{1}{%
+        {Komunikaty Instytutu Geofizyki i Meteorologii UJK we Lwowie}%
+      }
+      \strng{namehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{fullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{bibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorbibnamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authornamehash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \strng{authorfullhash}{ac809fc3aaad206cc72cd2e7f24d2402}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Nouvelles recherches sur les gradients thermiques dans les puits à pétrole de Borysław, Krosno et Bitków}}
+      \field{volume}{7}
+      \field{year}{1923c}
+      \field{pages}{1\bibrangedash 45}
+      \range{pages}{45}
+    \endentry
+    \entry{Babuska.2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=4a1208d97528388996a0998ece3a5e89}{%
+           family={Babu{š}ka},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7e150e94ad55b93b3db697ea8dfc74a1}{%
+           family={Plomerov{á}},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ec89a1abdb008f257bc99946940512a}
+      \strng{fullhash}{2ec89a1abdb008f257bc99946940512a}
+      \strng{bibnamehash}{2ec89a1abdb008f257bc99946940512a}
+      \strng{authorbibnamehash}{2ec89a1abdb008f257bc99946940512a}
+      \strng{authornamehash}{2ec89a1abdb008f257bc99946940512a}
+      \strng{authorfullhash}{2ec89a1abdb008f257bc99946940512a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00401951}
+      \field{journaltitle}{Tectonophysics}
+      \field{number}{1--2}
+      \field{title}{Subcrustal lithosphere around the {S}axothuringian-{M}oldanubian {S}uture {Z}one --- a model derived from anisotropy of seismic wave velocities}
+      \field{volume}{332}
+      \field{year}{2001}
+      \field{pages}{185\bibrangedash 199}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/S0040-1951(00)00255-9
+      \endverb
+      \keyw{Litosfera;Masyw Czeski;Masywy waryscyjskie;Sejsmika}
+    \endentry
+    \entry{Badura.2005}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=b5ce39018003fbe2e6de948a79359a10}{%
+           family={Badura},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c67e7a7511686f3a57d170e92515a8f}{%
+           family={P{é}cskay},
+           familyi={P\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f7b9bc2a6763de8342ea8c140dd3197c}{%
+           family={Koszowska},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ecc312c5ceb108fc37b63a0d1010c14}{%
+           family={Wolska},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=695ec87e2af8333aece68104bf3d58e4}{%
+           family={Zuchiewicz},
+           familyi={Z\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc7115349587fe52c3bfc98e35b893a5}{%
+           family={Przybylski},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{069815705d503ed60acff67c9f9d1727}
+      \strng{fullhash}{35af46932260e8f982967103b6c27353}
+      \strng{bibnamehash}{35af46932260e8f982967103b6c27353}
+      \strng{authorbibnamehash}{35af46932260e8f982967103b6c27353}
+      \strng{authornamehash}{069815705d503ed60acff67c9f9d1727}
+      \strng{authorfullhash}{35af46932260e8f982967103b6c27353}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Geodyn. Geomater.}
+      \field{number}{3(139)}
+      \field{title}{New age and petrological constraints on lower {S}ilesian basaltoids, {SW} {P}oland}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{7\bibrangedash 15}
+      \range{pages}{9}
+      \keyw{Datowanie;Masyw Czeski;Ryft {E}geru;Sudety;Wulkanizm}
+    \endentry
+    \entry{Badura.2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b5ce39018003fbe2e6de948a79359a10}{%
+           family={Badura},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc7115349587fe52c3bfc98e35b893a5}{%
+           family={Przybylski},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \strng{fullhash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \strng{bibnamehash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \strng{authorbibnamehash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \strng{authornamehash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \strng{authorfullhash}{dfb273aa9d3235654e2ff62e729ef2de}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dolno{ś}l{ą}ska formacja bazaltowa. [W:] Budowa geologiczna {P}olski. Tom I. Stratygrafia. Cz{ę}{ś}{ć} 3a. {K}enozoik. {P}aleogen, {N}eogen. Peryt T. M., Piwocki M. (red.). {P}a{ń}stowy {I}nstytut {G}eologiczny, {W}arszawa}
+      \field{year}{2004}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \keyw{CEVP;ECRIS;Sudety;Wulkanizm}
+    \endentry
+    \entry{Bekesi.2017}{article}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=b289f84dc7cbe298a43e1c3a67c729fe}{%
+           family={Békési},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a2769dff9da80a2fab015bf50eed38a}{%
+           family={Lenkey},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=620d3aca1ff06e625fbbf4279482a731}{%
+           family={Limberger},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1ecc381cb217ba69a3a32a49363b80af}{%
+           family={Porkoláb},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e4f1e37740c49700cc8ea20f70247ad}{%
+           family={Balázs},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6eb80295a6ea7a5811f005a39fba5e07}{%
+           family={Bonté},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=45195a190d6a3658d0426a0979e7e9d1}{%
+           family={Vrijlandt},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2e5905364cc9a193f3064306e9162ba}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b797bc275cf1658f3fc25adc933d61aa}{%
+           family={Cloetingh},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5070b87a1e8de1d6e0dae195288c3cdc}{%
+           family={{van Wees}},
+           familyi={v\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a70f8791c6b21d8440158b25e420fd8c}
+      \strng{fullhash}{96ddb994311300e617e3e5bb25186fc1}
+      \strng{bibnamehash}{96ddb994311300e617e3e5bb25186fc1}
+      \strng{authorbibnamehash}{96ddb994311300e617e3e5bb25186fc1}
+      \strng{authornamehash}{a70f8791c6b21d8440158b25e420fd8c}
+      \strng{authorfullhash}{96ddb994311300e617e3e5bb25186fc1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09218181}
+      \field{journaltitle}{Global and Planetary Change}
+      \field{title}{Subsurface temperature model of the {H}ungarian part of the {P}annonian {B}asin}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1016/j.gloplacha.2017.09.020
+      \endverb
+      \keyw{Basen pano{ń}ski;Hydrogeologia;Modelowanie 3D}
+    \endentry
+    \entry{Bijwaard.1999}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=eb8d00dd80ce3ef8d4c7d1ff543bbb19}{%
+           family={Bijwaard},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3b65321ffa645c3c0b77c6aa2ff8b4dc}{%
+           family={Spakman},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93f3c43c848f743e04cc641516f8c16d}
+      \strng{fullhash}{93f3c43c848f743e04cc641516f8c16d}
+      \strng{bibnamehash}{93f3c43c848f743e04cc641516f8c16d}
+      \strng{authorbibnamehash}{93f3c43c848f743e04cc641516f8c16d}
+      \strng{authornamehash}{93f3c43c848f743e04cc641516f8c16d}
+      \strng{authorfullhash}{93f3c43c848f743e04cc641516f8c16d}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{number}{3--4}
+      \field{title}{Tomographic evidence for a narrow whole mantle plume below {I}celand}
+      \field{volume}{166}
+      \field{year}{1999}
+      \field{pages}{121\bibrangedash 126}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0012-821X(99)00004-7
+      \endverb
+      \keyw{CEVP;Pi{ó}ropusze p{ł}aszcza;P{ł}aszcz;Sejsmika;Wulkanizm}
+    \endentry
+    \entry{Boldizsar.1964}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e905567c8d70e1d97bf5a12d83ddd52}{%
+           family={Boldizs{á}r},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \strng{fullhash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \strng{bibnamehash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \strng{authorbibnamehash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \strng{authornamehash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \strng{authorfullhash}{7e905567c8d70e1d97bf5a12d83ddd52}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01480227}
+      \field{journaltitle}{Journal of Geophysical Research}
+      \field{number}{24}
+      \field{title}{Terrestrial heat flow in the {C}arpathians}
+      \field{volume}{69}
+      \field{year}{1964}
+      \field{pages}{5269\bibrangedash 5275}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1029/JZ069i024p05269
+      \endverb
+      \keyw{Basen pano{ń}ski;Strumie{ń} cieplny}
+    \endentry
+    \entry{Buchner.2015}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=6fc39c2fb9b3ae64f13a40ca8d824d45}{%
+           family={B{ü}chner},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37c179ce9e631849cab331b7c98985b4}{%
+           family={Tietz},
+           familyi={T\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f99e256c39f66cbcf9cc42aaeb383c5e}{%
+           family={Viereck},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c735f499922abd9084e6916beece1e2a}{%
+           family={Suhr},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ecd5c7d60b0aaca3c1e32d30ec05331d}{%
+           family={Abratis},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3779b4e5332047e1b537b18c5faf12d8}
+      \strng{fullhash}{5e76bea3d473db74b2225d5db65780c3}
+      \strng{bibnamehash}{5e76bea3d473db74b2225d5db65780c3}
+      \strng{authorbibnamehash}{5e76bea3d473db74b2225d5db65780c3}
+      \strng{authornamehash}{3779b4e5332047e1b537b18c5faf12d8}
+      \strng{authorfullhash}{5e76bea3d473db74b2225d5db65780c3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1437-3254}
+      \field{journaltitle}{International Journal of Earth Sciences}
+      \field{number}{8}
+      \field{title}{Volcanology, geochemistry and age of the {L}ausitz {V}olcanic {F}ield}
+      \field{volume}{104}
+      \field{year}{2015}
+      \field{pages}{2057\bibrangedash 2083}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1007/s00531-015-1165-3
+      \endverb
+      \keyw{CEVP;Geochemia;Masywy waryscyjskie;Ryft {E}geru;Sudety;Wulkanizm}
+    \endentry
+    \entry{Cajz.2009}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=4ac12f38e7cbe88fe47355992b825255}{%
+           family={Cajz},
+           familyi={C\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e1a7f8c44307670056ee9333abc1ba7}{%
+           family={Rapprich},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80630622270d2d9474b1fd7d27c7fbcf}{%
+           family={Erban},
+           familyi={E\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c67e7a7511686f3a57d170e92515a8f}{%
+           family={P{é}cskay},
+           familyi={P\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4361cec9b52ce0edb1a4204027418f29}{%
+           family={Rado{ň}},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96fe8581a3f0765244728e67f03fdbc8}
+      \strng{fullhash}{26ecee6f7781b30c6630279b75c53601}
+      \strng{bibnamehash}{26ecee6f7781b30c6630279b75c53601}
+      \strng{authorbibnamehash}{26ecee6f7781b30c6630279b75c53601}
+      \strng{authornamehash}{96fe8581a3f0765244728e67f03fdbc8}
+      \strng{authorfullhash}{26ecee6f7781b30c6630279b75c53601}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1336-8052}
+      \field{journaltitle}{Geologica Carpathica}
+      \field{number}{6}
+      \field{title}{Late {M}iocene volcanic activity in the {Č}esk{é} st{ř}edoho{ř}{í} {M}ountains ({O}h{ř}e/{E}ger Graben, northern {B}ohemia)}
+      \field{volume}{60}
+      \field{year}{2009}
+      \field{pages}{277}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2478/v10096-009-0038-8
+      \endverb
+      \keyw{CEVP;Datowanie;Ekstensja;Geochemia;Masyw Czeski;Ryft {E}geru;Wulkanizm}
+    \endentry
+    \entry{Cajz.2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=4ac12f38e7cbe88fe47355992b825255}{%
+           family={Cajz},
+           familyi={C\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7b9ed097bbb9042804635c495729ea5}{%
+           family={Vale{č}ka},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4d2346aad9d39195b5e8627210f3f585}
+      \strng{fullhash}{4d2346aad9d39195b5e8627210f3f585}
+      \strng{bibnamehash}{4d2346aad9d39195b5e8627210f3f585}
+      \strng{authorbibnamehash}{4d2346aad9d39195b5e8627210f3f585}
+      \strng{authornamehash}{4d2346aad9d39195b5e8627210f3f585}
+      \strng{authorfullhash}{4d2346aad9d39195b5e8627210f3f585}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18031943}
+      \field{journaltitle}{Journal of GEOsciences}
+      \field{title}{Tectonic setting of the {O}h{ř}e/{E}ger Graben between the central part of the {{Č}esk{é}} st{ř}edoho{ř}{í} {M}ts. and the {M}ost {B}asin, a regional study}
+      \field{year}{2012}
+      \field{pages}{201\bibrangedash 215}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3190/jgeosci.075
+      \endverb
+      \keyw{CEVP;Ekstensja;Masyw Czeski;Napr{ę}{ż}enia tektoniczne;Ryft {E}geru;Wulkanizm}
+    \endentry
+    \entry{Carry.2009}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=f16c841e22790f613c2692f65e2d4427}{%
+           family={Carry},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d09925fe00630645bfbf5be2d96230dc}{%
+           family={Gueydan},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e884ef610bf6de306e2d5b6a7285086a}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0fb12e3c4c3148f444f7e3e3f7291690}{%
+           family={Marquer},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23ee8e2aa161e2988560fd53a6fad0b0}
+      \strng{fullhash}{69a9c0864b70e308567590158224f6ca}
+      \strng{bibnamehash}{69a9c0864b70e308567590158224f6ca}
+      \strng{authorbibnamehash}{69a9c0864b70e308567590158224f6ca}
+      \strng{authornamehash}{23ee8e2aa161e2988560fd53a6fad0b0}
+      \strng{authorfullhash}{69a9c0864b70e308567590158224f6ca}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth Planet. Sci. Let.}
+      \field{title}{Mechanical decoupling of high-pressure crustal units during continental subduction}
+      \field{volume}{278}
+      \field{year}{2009}
+      \field{pages}{13\bibrangedash 25}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.epsl.2008.11.019
+      \endverb
+    \endentry
+    \entry{Ceriani.2001}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=cdc91894fd838957453c2f428793b503}{%
+           family={Ceriani},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f81d8b6f6f0f5fc144f1b796aacc8239}{%
+           family={Fügenschuh},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3960cbe6f72e170bde3654e760de16c4}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20633ffc339aa2c345f352c690a00092}
+      \strng{fullhash}{9c7a3f3cdf8a37a5a30266d216c8c4ee}
+      \strng{bibnamehash}{9c7a3f3cdf8a37a5a30266d216c8c4ee}
+      \strng{authorbibnamehash}{9c7a3f3cdf8a37a5a30266d216c8c4ee}
+      \strng{authornamehash}{20633ffc339aa2c345f352c690a00092}
+      \strng{authorfullhash}{9c7a3f3cdf8a37a5a30266d216c8c4ee}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Earth Sci. (Geol. Rundsch)}
+      \field{title}{{Multi-stage thrusting at the "Penninic Front" in the Western Alps between Mont Blanc and Pelvoux massifs}}
+      \field{volume}{90}
+      \field{year}{2001}
+      \field{pages}{685\bibrangedash 702}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s005310000188
+      \endverb
+    \endentry
+    \entry{Csontos.2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=203802f3944b83c46b80bf1ccf2e2b47}{%
+           family={Csontos},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5688c2b043f577afa40c902f62fa45af}{%
+           family={V{ö}r{ö}s},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \strng{fullhash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \strng{bibnamehash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \strng{authorbibnamehash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \strng{authornamehash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \strng{authorfullhash}{2a9bbf7ba86bdc575a55cc94f1e1d6ab}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00310182}
+      \field{journaltitle}{Palaeogeography, Palaeoclimatology, Palaeoecology}
+      \field{number}{1}
+      \field{title}{Mesozoic plate tectonic reconstruction of the {C}arpathian region}
+      \field{volume}{210}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 56}
+      \range{pages}{56}
+      \verb{doi}
+      \verb 10.1016/j.palaeo.2004.02.033
+      \endverb
+      \keyw{Basen pano{ń}ski;Ekstensja;Karpaty;Litosfera;Rotacja p{ł}yt;Tektonika napr{ę}{ż}e{ń};Tektonika p{ł}yt}
+    \endentry
+    \entry{Cymerman.2016}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e82c64b113fa6807d6312e3919904bf0}{%
+           family={Cymerman},
+           familyi={C\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e82c64b113fa6807d6312e3919904bf0}
+      \strng{fullhash}{e82c64b113fa6807d6312e3919904bf0}
+      \strng{bibnamehash}{e82c64b113fa6807d6312e3919904bf0}
+      \strng{authorbibnamehash}{e82c64b113fa6807d6312e3919904bf0}
+      \strng{authornamehash}{e82c64b113fa6807d6312e3919904bf0}
+      \strng{authorfullhash}{e82c64b113fa6807d6312e3919904bf0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Przegl{ą}d Geologiczny}
+      \field{number}{10}
+      \field{title}{Kopu{ł}a orlicko-{ś}nie{ż}nicka w {ś}wietle rozwa{ż}a{ń} tektonicznych}
+      \field{volume}{64}
+      \field{year}{2016}
+      \field{pages}{814\bibrangedash 830}
+      \range{pages}{17}
+      \keyw{Masyw Czeski;Masywy waryscyjskie;Napr{ę}{ż}enia tektoniczne;Sudety;Tektonika p{ł}yt}
+    \endentry
+    \entry{Dewey.1989}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=a8f6be9c0bab21b222df0123b775a5d2}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=757c87ac0ebf0dd90e12a3aadc78cdc6}{%
+           family={Helman},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4333cbf9034aba146e257a7398d6894a}{%
+           family={Knott},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d33588f144960af6f30476af69f90ca}{%
+           family={Turco},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5fb51795e629222a0f503be906819b05}{%
+           family={Hutton},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi H.\bibnamedelimi W.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{839c410c2319aca6162e6a7ddafacf6c}
+      \strng{fullhash}{f05cd8af248ee736da4ea3ab63795b9a}
+      \strng{bibnamehash}{f05cd8af248ee736da4ea3ab63795b9a}
+      \strng{authorbibnamehash}{f05cd8af248ee736da4ea3ab63795b9a}
+      \strng{authornamehash}{839c410c2319aca6162e6a7ddafacf6c}
+      \strng{authorfullhash}{f05cd8af248ee736da4ea3ab63795b9a}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Geological Society, London, Special Publications}
+      \field{month}{01}
+      \field{title}{{Kinematics of the western Mediterranean}}
+      \field{volume}{45}
+      \field{year}{1989}
+      \field{pages}{265\bibrangedash 283}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1144/GSL.SP.1989.045.01.15
+      \endverb
+    \endentry
+    \entry{Dezes.2004}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=2fd8d86d6f8234b8159aab4386445585}{%
+           family={D{è}zes},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3960cbe6f72e170bde3654e760de16c4}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6fa6e43c41d7ccaccc717c783bc614e}{%
+           family={Ziegler},
+           familyi={Z\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16f42a389fb3783078dc8328a1a488aa}
+      \strng{fullhash}{0a8cd0f24ca025a4d605dcce393e84b8}
+      \strng{bibnamehash}{0a8cd0f24ca025a4d605dcce393e84b8}
+      \strng{authorbibnamehash}{0a8cd0f24ca025a4d605dcce393e84b8}
+      \strng{authornamehash}{16f42a389fb3783078dc8328a1a488aa}
+      \strng{authorfullhash}{0a8cd0f24ca025a4d605dcce393e84b8}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00401951}
+      \field{journaltitle}{Tectonophysics}
+      \field{number}{1--2}
+      \field{title}{Evolution of the {E}uropean {C}enozoic {R}ift {S}ystem: {I}nteraction of the {A}lpine and {P}yrenean orogens with their foreland lithosphere}
+      \field{volume}{389}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1016/j.tecto.2004.06.011
+      \endverb
+      \keyw{Alpy;ECRIS;Ekstensja;Litosfera;Masywy waryscyjskie;Napr{ę}{ż}enia tektoniczne;P{ł}aszcz;Subdukcja;Tektonika p{ł}yt}
+    \endentry
+    \entry{Driscoll.1998}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dcc41c11bacff5e9d4eccdb36d94641f}{%
+           family={Driscoll},
+           familyi={D\bibinitperiod},
+           given={N.\bibnamedelimi W.},
+           giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \strng{fullhash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \strng{bibnamehash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \strng{authorbibnamehash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \strng{authornamehash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \strng{authorfullhash}{dcc41c11bacff5e9d4eccdb36d94641f}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5388}
+      \field{title}{A short circuit in thermohaline circulation: {A} cause for northern hemisphere glaciation?}
+      \field{volume}{282}
+      \field{year}{1998}
+      \field{pages}{436\bibrangedash 438}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.282.5388.436
+      \endverb
+      \keyw{Zlodowacenie}
+    \endentry
+    \entry{Duncan.1972}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=eaf7a397095c40424684e100533f8824}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b9bcb32ae83022e7dbf46a5808e86a5}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=619f33f3b1439bb0512b495c4f19c8d6}{%
+           family={Hargraves},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca7702332314d763e5f5f9c5108f91df}
+      \strng{fullhash}{1b2268b284358f008cf36a0d0354e0d3}
+      \strng{bibnamehash}{1b2268b284358f008cf36a0d0354e0d3}
+      \strng{authorbibnamehash}{1b2268b284358f008cf36a0d0354e0d3}
+      \strng{authornamehash}{ca7702332314d763e5f5f9c5108f91df}
+      \strng{authorfullhash}{1b2268b284358f008cf36a0d0354e0d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{5367}
+      \field{title}{Mantle plumes, movement of the {E}uropean plate and polar wandering}
+      \field{volume}{239}
+      \field{year}{1972}
+      \field{pages}{82\bibrangedash 86}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/239082a0
+      \endverb
+      \keyw{CEVP;Litosfera;Pi{ó}ropusze p{ł}aszcza;P{ł}aszcz;Wulkanizm}
+    \endentry
+    \entry{Ehlers.2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=acc39107a5fd71a3ce64a2e4d8bd29af}{%
+           family={Ehlers},
+           familyi={E\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=295ea76b3aa977f9301902635bb39fd9}{%
+           family={Gibbard},
+           familyi={G\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b148acc08154c3fd62e1634455c8f10}
+      \strng{fullhash}{6b148acc08154c3fd62e1634455c8f10}
+      \strng{bibnamehash}{6b148acc08154c3fd62e1634455c8f10}
+      \strng{authorbibnamehash}{6b148acc08154c3fd62e1634455c8f10}
+      \strng{authornamehash}{6b148acc08154c3fd62e1634455c8f10}
+      \strng{authorfullhash}{6b148acc08154c3fd62e1634455c8f10}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quaternary International}
+      \field{title}{{The extent and chronology of Cenozoic Global Glaciation}}
+      \field{volume}{164--165}
+      \field{year}{2007}
+      \field{pages}{6\bibrangedash 20}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.quaint.2006.10.008
+      \endverb
+    \endentry
+    \entry{Filippelli.2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2a0c8f6ff67975c63dfe546fc56482fe}{%
+           family={Filippelli},
+           familyi={F\bibinitperiod},
+           given={G.\bibnamedelimi M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9f9faf1059f96a0fef5575ac6424e825}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{291f11e0907df05a12bf80c35373b552}
+      \strng{fullhash}{291f11e0907df05a12bf80c35373b552}
+      \strng{bibnamehash}{291f11e0907df05a12bf80c35373b552}
+      \strng{authorbibnamehash}{291f11e0907df05a12bf80c35373b552}
+      \strng{authornamehash}{291f11e0907df05a12bf80c35373b552}
+      \strng{authorfullhash}{291f11e0907df05a12bf80c35373b552}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geology}
+      \field{number}{10}
+      \field{title}{{From the warm Pliocene to the cold Pleistocene: A tale of two oceans}}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{959\bibrangedash 960}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1130/focus102009.1
+      \endverb
+    \endentry
+    \entry{Fjeldskaar.2008}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=31c4afa205fb97a2b644da60a2f3b19f}{%
+           family={Fjeldskaar},
+           familyi={F\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=116ffc2942dd096e2b4f6b12bcc7b68a}{%
+           family={Helset},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=261538aeccdb39cc5dede7eccf41ccc0}{%
+           family={Johansen},
+           familyi={J\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c47cb50d08ad69838e48a103d9e866a}{%
+           family={Grunnaleite},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68126f51f9e253a2946f1f58112cdf6c}{%
+           family={Horstad},
+           familyi={H\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4f88a4f1a32b4af85fd8319b7030355d}
+      \strng{fullhash}{d3ff3f3bc353d3b25f1fec19758b9632}
+      \strng{bibnamehash}{d3ff3f3bc353d3b25f1fec19758b9632}
+      \strng{authorbibnamehash}{d3ff3f3bc353d3b25f1fec19758b9632}
+      \strng{authornamehash}{4f88a4f1a32b4af85fd8319b7030355d}
+      \strng{authorfullhash}{d3ff3f3bc353d3b25f1fec19758b9632}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Basin Research}
+      \field{number}{20}
+      \field{title}{Thermal modelling of magmatic intrusions in the {G}jallar {R}idge, {N}orwegian {S}ea: implications for vitrinite reflectance and hydrocarbon maturation}
+      \field{year}{2008}
+      \field{pages}{143\bibrangedash 159}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/j.1365-2117.2007.00347.x
+      \endverb
+      \keyw{Gradient termiczny;Modelowanie 3D;Wulkanizm}
+    \endentry
+    \entry{Fodor.1999}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=7fddc18be12a3e0d4f58d72f7bbf73e6}{%
+           family={Fodor},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=203802f3944b83c46b80bf1ccf2e2b47}{%
+           family={Csontos},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1976218b1301d66bc86dde1cbeab63de}{%
+           family={Bada},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5a01e0cc3946f3597714f412bc0fd131}{%
+           family={Györfi},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ca6de919a7f7c400cead765cbca4f93}{%
+           family={Benkovics},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c03dcae7f8b6d4683bd48579e0d0be0b}
+      \strng{fullhash}{76168927e40902773d3a1eef68471ca4}
+      \strng{bibnamehash}{76168927e40902773d3a1eef68471ca4}
+      \strng{authorbibnamehash}{76168927e40902773d3a1eef68471ca4}
+      \strng{authornamehash}{c03dcae7f8b6d4683bd48579e0d0be0b}
+      \strng{authorfullhash}{76168927e40902773d3a1eef68471ca4}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0305-8719}
+      \field{journaltitle}{Geological Society, London, Special Publications}
+      \field{number}{1}
+      \field{title}{Tertiary tectonic evolution of the {P}annonian {B}asin system and neighbouring orogens: {A} new synthesis of palaeostress data}
+      \field{volume}{156}
+      \field{year}{1999}
+      \field{pages}{295\bibrangedash 334}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1144/GSL.SP.1999.156.01.15
+      \endverb
+      \keyw{Basen pano{ń}ski;Ekstensja;Karpaty;Napr{ę}{ż}enia tektoniczne;Sejsmika;Tektonika p{ł}yt}
+    \endentry
+    \entry{Galushkin.1997}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dcc825737f86867e13f5ae8dfaf859b7}{%
+           family={Galushkin},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \strng{fullhash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \strng{bibnamehash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \strng{authorbibnamehash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \strng{authornamehash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \strng{authorfullhash}{dcc825737f86867e13f5ae8dfaf859b7}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01466380}
+      \field{journaltitle}{Organic Geochemistry}
+      \field{number}{11--12}
+      \field{title}{Thermal effects of igneous intrusions on maturity of organic matter: {A} possible mechanism of intrusion}
+      \field{volume}{26}
+      \field{year}{1997}
+      \field{pages}{645\bibrangedash 658}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0146-6380(97)00030-2
+      \endverb
+      \keyw{Gradient termiczny;Wulkanizm}
+    \endentry
+    \entry{Goes.1999}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7495e28c874a9bcf92376dfd6d734e2e}{%
+           family={Goes},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3b65321ffa645c3c0b77c6aa2ff8b4dc}{%
+           family={Spakman},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eb8d00dd80ce3ef8d4c7d1ff543bbb19}{%
+           family={Bijwaard},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b12722501b1c8e3465f60669089db000}
+      \strng{fullhash}{d5f0979c97eb8d50557eecc727a98724}
+      \strng{bibnamehash}{d5f0979c97eb8d50557eecc727a98724}
+      \strng{authorbibnamehash}{d5f0979c97eb8d50557eecc727a98724}
+      \strng{authornamehash}{b12722501b1c8e3465f60669089db000}
+      \strng{authorfullhash}{d5f0979c97eb8d50557eecc727a98724}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{C}enozoic rifting and volcanism in {E}urope have been associated with either passive or active mantle upwellings. Tomographic images show a low velocity structure between 660- and 2000-kilometer depth, which we propose to represent a lower mantle upwelling under central {E}urope that may feed smaller upper-mantle plumes. The position of the rift zones in the foreland of the Alpine belts and the relatively weak volcanism compared to other regions with plume-associated volcanism are probably the result of the past and present subduction under southern {E}urope.}
+      \field{journaltitle}{Science}
+      \field{number}{5446}
+      \field{title}{A lower mantle source for {C}entral {E}uropean volcanism}
+      \field{volume}{286}
+      \field{year}{1999}
+      \field{pages}{1928\bibrangedash 1931}
+      \range{pages}{4}
+    \endentry
+    \entry{Granet.1995}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=417703fc58ac19a69c1e130a8259cf01}{%
+           family={Granet},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7083b68ad3527acd654b2a472f04e542}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=454d038ebc2ec38228c01de316da62e5}{%
+           family={Achauer},
+           familyi={A\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84c2895f7f97d806768b23f1bdf6714e}
+      \strng{fullhash}{ff51f55248a6dd899ea01d91876314d7}
+      \strng{bibnamehash}{ff51f55248a6dd899ea01d91876314d7}
+      \strng{authorbibnamehash}{ff51f55248a6dd899ea01d91876314d7}
+      \strng{authornamehash}{84c2895f7f97d806768b23f1bdf6714e}
+      \strng{authorfullhash}{ff51f55248a6dd899ea01d91876314d7}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{number}{3--4}
+      \field{title}{Imaging a mantle plume beneath the {F}rench {M}assif {C}entral}
+      \field{volume}{136}
+      \field{year}{1995}
+      \field{pages}{281\bibrangedash 296}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/0012-821X(95)00174-B
+      \endverb
+    \endentry
+    \entry{Grygar.2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9c3da6925155e47badc152040a398e35}{%
+           family={Grygar},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d04398cae5e932e33fb6b5a3232e8448}{%
+           family={P{á}nek},
+           familyi={P\bibinitperiod},
+           given={Tom{á}{š}},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1c1be85275da1fc865a75ead877967c3}{%
+           family={Hradeck{ý}},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{9c3da6925155e47badc152040a398e35}
+      \strng{fullhash}{9c3da6925155e47badc152040a398e35}
+      \strng{bibnamehash}{9c3da6925155e47badc152040a398e35}
+      \strng{authorbibnamehash}{9c3da6925155e47badc152040a398e35}
+      \strng{authornamehash}{9c3da6925155e47badc152040a398e35}
+      \strng{authorfullhash}{9c3da6925155e47badc152040a398e35}
+      \strng{editorbibnamehash}{049a55779133d628f7180f69e860cfc8}
+      \strng{editornamehash}{049a55779133d628f7180f69e860cfc8}
+      \strng{editorfullhash}{049a55779133d628f7180f69e860cfc8}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Landscapes and Landforms of the Czech Republic}
+      \field{isbn}{978-3-319-27536-9}
+      \field{series}{World Geomorphological Landscapes}
+      \field{title}{Geology and tectonic development of the {C}zech {R}epublic}
+      \field{year}{2016}
+      \field{pages}{7\bibrangedash 18}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-27537-6
+      \endverb
+    \endentry
+    \entry{Haloda.2012}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=9966212049a05016c631a6c1c213e08e}{%
+           family={Haloda},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e1a7f8c44307670056ee9333abc1ba7}{%
+           family={Rapprich},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b7830493964d6b22942d04b94c88fd6b}{%
+           family={Holub},
+           familyi={H\bibinitperiod},
+           given={F.\bibnamedelimi V.},
+           giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c37b8b190b1a2d09dbc2290331fdf85f}{%
+           family={Halodov{á}},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5733b19829f27c0a68e0529fe0037d94}{%
+           family={Vaculovi{č}},
+           familyi={V\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a54f5ed6585e27b51b9fcea299e66e19}
+      \strng{fullhash}{b9785a6a63f88f22b6a39ca1df73682c}
+      \strng{bibnamehash}{b9785a6a63f88f22b6a39ca1df73682c}
+      \strng{authorbibnamehash}{b9785a6a63f88f22b6a39ca1df73682c}
+      \strng{authornamehash}{a54f5ed6585e27b51b9fcea299e66e19}
+      \strng{authorfullhash}{b9785a6a63f88f22b6a39ca1df73682c}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18031943}
+      \field{journaltitle}{Journal of GEOsciences}
+      \field{title}{Crystallization history of {O}ligocene ijolitic rocks from the {D}oupovsk{é} hory {V}olcanic {C}omplex ({C}zech {R}epublic)}
+      \field{year}{2012}
+      \field{pages}{279\bibrangedash 297}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.3190/jgeosci.076
+      \endverb
+    \endentry
+    \entry{Harangi.2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=8e72b838ea063e8b0919cf6c73bac271}{%
+           family={Harangi},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a2769dff9da80a2fab015bf50eed38a}{%
+           family={Lenkey},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a795684ba00acd95ae5eddb2f930c71f}
+      \strng{fullhash}{a795684ba00acd95ae5eddb2f930c71f}
+      \strng{bibnamehash}{a795684ba00acd95ae5eddb2f930c71f}
+      \strng{authorbibnamehash}{a795684ba00acd95ae5eddb2f930c71f}
+      \strng{authornamehash}{a795684ba00acd95ae5eddb2f930c71f}
+      \strng{authorfullhash}{a795684ba00acd95ae5eddb2f930c71f}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geological Society of America}
+      \field{number}{Special Paper 418}
+      \field{title}{Genesis of the {N}eogene to {Q}uaternary volcanism in the {C}arpathian-{P}annonian region: {R}ole of subduction, extension, and mantle plume}
+      \field{year}{2007}
+      \field{pages}{67\bibrangedash 92}
+      \range{pages}{26}
+    \endentry
+    \entry{Head.2008}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=5bcca7175fd20293183dca25a9bb751a}{%
+           family={Head},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bba7b879cff097688e434335170ca1d2}{%
+           family={Pillans},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d72f31f4ad8dbb895612550ee0374ae5}{%
+           family={Farquhar},
+           familyi={F\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f45f7deadfb4b4a8cf4c4f9b99656a6}
+      \strng{fullhash}{5d99159572cb6e3ffa32c0a8ba4a7d4e}
+      \strng{bibnamehash}{5d99159572cb6e3ffa32c0a8ba4a7d4e}
+      \strng{authorbibnamehash}{5d99159572cb6e3ffa32c0a8ba4a7d4e}
+      \strng{authornamehash}{0f45f7deadfb4b4a8cf4c4f9b99656a6}
+      \strng{authorfullhash}{5d99159572cb6e3ffa32c0a8ba4a7d4e}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Episodes}
+      \field{number}{2}
+      \field{title}{{The Early–Middle Pleistocene Transition: Characterization and proposed guide for the defining boundary}}
+      \field{volume}{31}
+      \field{year}{2008}
+      \field{pages}{255\bibrangedash 259}
+      \range{pages}{5}
+    \endentry
+    \entry{Helffrich.2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=410150aa5f5d39c97e473b80fb587756}{%
+           family={Helffrich},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99c1b195c16bbec0c16c83c349890956}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc4a41ec2497c23d727714e83e30cefa}
+      \strng{fullhash}{bc4a41ec2497c23d727714e83e30cefa}
+      \strng{bibnamehash}{bc4a41ec2497c23d727714e83e30cefa}
+      \strng{authorbibnamehash}{bc4a41ec2497c23d727714e83e30cefa}
+      \strng{authornamehash}{bc4a41ec2497c23d727714e83e30cefa}
+      \strng{authorfullhash}{bc4a41ec2497c23d727714e83e30cefa}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{{The Earth's mantle}}
+      \field{volume}{412}
+      \field{year}{2001}
+      \field{pages}{501\bibrangedash 507}
+      \range{pages}{7}
+    \endentry
+    \entry{Henrich.1904}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=51038b9208f18a3cafa50dda9567a84b}{%
+           family={Henrich},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51038b9208f18a3cafa50dda9567a84b}
+      \strng{fullhash}{51038b9208f18a3cafa50dda9567a84b}
+      \strng{bibnamehash}{51038b9208f18a3cafa50dda9567a84b}
+      \strng{authorbibnamehash}{51038b9208f18a3cafa50dda9567a84b}
+      \strng{authornamehash}{51038b9208f18a3cafa50dda9567a84b}
+      \strng{authorfullhash}{51038b9208f18a3cafa50dda9567a84b}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für praktische Geologie}
+      \field{title}{{Über die Temperaturverhältnisse in dem Bohrloch Paruschowitz V.}}
+      \field{volume}{12}
+      \field{year}{1904}
+      \field{pages}{316\bibrangedash 320}
+      \range{pages}{5}
+    \endentry
+    \entry{Horvath.1996}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=1d9c978577cb32a5cfb095e06e664992}{%
+           family={Horv{á}th},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b797bc275cf1658f3fc25adc933d61aa}{%
+           family={Cloetingh},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18516e3828c21317b383cfad523e53e0}
+      \strng{fullhash}{18516e3828c21317b383cfad523e53e0}
+      \strng{bibnamehash}{18516e3828c21317b383cfad523e53e0}
+      \strng{authorbibnamehash}{18516e3828c21317b383cfad523e53e0}
+      \strng{authornamehash}{18516e3828c21317b383cfad523e53e0}
+      \strng{authorfullhash}{18516e3828c21317b383cfad523e53e0}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00401951}
+      \field{journaltitle}{Tectonophysics}
+      \field{number}{1--4}
+      \field{title}{Stress-induced late-stage subsidence anomalies in the {P}annonian basin}
+      \field{volume}{266}
+      \field{year}{1996}
+      \field{pages}{287\bibrangedash 300}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0040-1951(96)00194-1
+      \endverb
+    \endentry
+    \entry{Horvath.2015}{article}{}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=f2e5905364cc9a193f3064306e9162ba}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ad31994db0e6f4fb25dbcedae119aba4}{%
+           family={Musitz},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e4f1e37740c49700cc8ea20f70247ad}{%
+           family={Balázs},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a289940a4c28984d3677bcab1efaa888}{%
+           family={Végh},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2379e39403fddcf6722e749c0cd3875a}{%
+           family={Uhrin},
+           familyi={U\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1df5019889b779866d03c3211748c859}{%
+           family={Nádor},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7887952919ac470fb5ce8404a318658c}{%
+           family={Koroknai},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=286fff054171ed03e1de3a330f601e41}{%
+           family={Pap},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=79c8e72b56473d4e0a3ada13515c7626}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e3a5f489d4d0af37d9555ee5299676f8}{%
+           family={Wórum},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2235a829b856ce0d3836d474b2f14c26}
+      \strng{fullhash}{a886174a68b15e3b8aa4cae786f0f3ca}
+      \strng{bibnamehash}{a886174a68b15e3b8aa4cae786f0f3ca}
+      \strng{authorbibnamehash}{a886174a68b15e3b8aa4cae786f0f3ca}
+      \strng{authornamehash}{2235a829b856ce0d3836d474b2f14c26}
+      \strng{authorfullhash}{a886174a68b15e3b8aa4cae786f0f3ca}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{03756505}
+      \field{journaltitle}{Geothermics}
+      \field{title}{Evolution of the {P}annonian basin and its geothermal resources}
+      \field{volume}{53}
+      \field{year}{2015}
+      \field{pages}{328\bibrangedash 352}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.geothermics.2014.07.009
+      \endverb
+    \endentry
+    \entry{Kereszturi.2013}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=21c49ff2d232923f8a898b5c07164956}{%
+           family={Kereszturi},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d6041cb2bde84e106ee2e12d7359aac}{%
+           family={N{é}meth},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bfb3e960c6d59e58070323a26e615af2}{%
+           family={N{é}meth},
+           familyi={N\bibinitperiod},
+           given={K{á}roly},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rijeka, Croatia}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{fullhash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{bibnamehash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{authorbibnamehash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{authornamehash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{authorfullhash}{b09de13f9f850cab2822bc6f8d51893c}
+      \strng{editorbibnamehash}{bfb3e960c6d59e58070323a26e615af2}
+      \strng{editornamehash}{bfb3e960c6d59e58070323a26e615af2}
+      \strng{editorfullhash}{bfb3e960c6d59e58070323a26e615af2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Updates in volcanology}
+      \field{isbn}{978-953-51-0915-0}
+      \field{title}{Monogenetic basaltic volcanoes: {G}enetic classification, growth, geomorphology and degradation}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.5772/51387
+      \endverb
+    \endentry
+    \entry{Konecny.2002}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9bb5ca42f9d2923d5f76bbeed784c250}{%
+           family={Kone{č}n{ý}},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3226208d6983c2bc2b205854da6639b5}{%
+           family={Kovac},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfb5f5a0c624784889f446916005d11c}{%
+           family={Lexa},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cdff4bba9e9a5605529f997e97c1fffd}{%
+           family={{Š}efara},
+           familyi={Š\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eafeb1adb86532b8be49770464cf2aa4}
+      \strng{fullhash}{769d095527fea84af31c072fe29e371f}
+      \strng{bibnamehash}{769d095527fea84af31c072fe29e371f}
+      \strng{authorbibnamehash}{769d095527fea84af31c072fe29e371f}
+      \strng{authornamehash}{eafeb1adb86532b8be49770464cf2aa4}
+      \strng{authorfullhash}{769d095527fea84af31c072fe29e371f}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EGU Stephan Mueller Spec. Publ. Ser.}
+      \field{number}{1}
+      \field{title}{Neogene evolution of the Carpatho-{P}annonian region: {A}n interplay of subduction and back-arc diapiric uprise in the mantle}
+      \field{year}{2002}
+      \field{pages}{165\bibrangedash 194}
+      \range{pages}{30}
+    \endentry
+    \entry{Kovac.2007}{article}{}
+      \name{author}{14}{}{%
+        {{uniquename=0,uniquepart=base,hash=3226208d6983c2bc2b205854da6639b5}{%
+           family={Kovac},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=682add719d467a7795fe308f2ae113e7}{%
+           family={Andreyeva-Grigorovich},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0fefb910be6e912e75c960d6d1e7b2d9}{%
+           family={Bajraktarevic},
+           familyi={B\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d33d1df6dcf82c5ab724dddb2a40eca7}{%
+           family={Brzobohaty},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61ac53b429cad988ce2070b96b14ed29}{%
+           family={Filipescu},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7fddc18be12a3e0d4f58d72f7bbf73e6}{%
+           family={Fodor},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=42e855b40c034864bed42ae32684c520}{%
+           family={Harzhauser},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a976d7b4fe36f04e617024ded8114fbc}{%
+           family={Nagymarosy},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4338c85e20df3de89cfcf6a62362d07c}{%
+           family={Oszczypko},
+           familyi={O\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6845cab52ea23099e80060b979879622}{%
+           family={Pavelico},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=13a8c05394a0a685a13ba19f06ad8989}{%
+           family={Rogl},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=87abc839751ea66a0803e5786de9a550}{%
+           family={Saftico},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b3854d979c70b23b58666bebcbd57752}{%
+           family={Sliva},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d1717cd7d08e34aae409ff3628800323}{%
+           family={Studencka},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6d5e438f5b0ce3aba805a60158b7f96}
+      \strng{fullhash}{8a019dffaf12877096c85a6b781aabe6}
+      \strng{bibnamehash}{8a019dffaf12877096c85a6b781aabe6}
+      \strng{authorbibnamehash}{8a019dffaf12877096c85a6b781aabe6}
+      \strng{authornamehash}{d6d5e438f5b0ce3aba805a60158b7f96}
+      \strng{authorfullhash}{8a019dffaf12877096c85a6b781aabe6}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geologia Carpathica}
+      \field{number}{6}
+      \field{title}{{Badenian evolution of the Central Paratethys Sea: paleogeography, climate and eustatic sea-level changes}}
+      \field{volume}{58}
+      \field{year}{2007}
+      \field{pages}{579\bibrangedash 606}
+      \range{pages}{28}
+    \endentry
+    \entry{Krochert.2009}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=358c04b7e9c51d4574593d695b684276}{%
+           family={Kr{ö}chert},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a113af67a1c0a319252f137f4596108}{%
+           family={Schmieder},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cad5df9c901fdfbd48b61f576bfb72e1}{%
+           family={Theye},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d130e239bb5e08101e279d6bd0cc0ea}{%
+           family={Buchner},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e94fb282c61c4897335a7b5dbf0aa632}
+      \strng{fullhash}{71b57357dc4d19e3262035941e7cb082}
+      \strng{bibnamehash}{71b57357dc4d19e3262035941e7cb082}
+      \strng{authorbibnamehash}{71b57357dc4d19e3262035941e7cb082}
+      \strng{authornamehash}{e94fb282c61c4897335a7b5dbf0aa632}
+      \strng{authorfullhash}{71b57357dc4d19e3262035941e7cb082}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18601804}
+      \field{journaltitle}{Zeitschrift der Deutschen Gesellschaft f{ü}r Geowissenschaften}
+      \field{number}{4}
+      \field{title}{{Considerations on the age of the Urach volcanic field (Southwest Germany)}}
+      \field{volume}{160}
+      \field{year}{2009}
+      \field{pages}{325\bibrangedash 331}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1127/1860-1804/2009/0160-0325
+      \endverb
+    \endentry
+    \entry{Krzeminska.2011}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc5a06cbbbce2657c38b5428f458f7de}{%
+           family={Krzemi{ń}ska},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=217da8277dc064bfcb06ae0ddf9827bb}{%
+           family={Awdankiewicz},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \strng{fullhash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \strng{bibnamehash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \strng{authorbibnamehash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \strng{authornamehash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \strng{authorfullhash}{cfd1fbf5f15ccaf4aa47900b8cd66184}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kosmos}
+      \field{number}{3--4}
+      \field{title}{{Historia geologiczna aktywno{ś}ci wulkanicznej na obszarze Polski}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{261\bibrangedash 276}
+      \range{pages}{16}
+    \endentry
+    \entry{Ladenberger.2009}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=2106dcbbbd6627dac3214e1fe551e9b3}{%
+           family={Ladenberger},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6c7480cef7993f09aac5733b7dc145ae}{%
+           family={Lazor},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=12b710b2337c72c2c28a9340f4fe4a6f}{%
+           family={Michalik},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{183d806249266959289b027b12174cec}
+      \strng{fullhash}{c942188b57a86cb968309f6fe6fa7586}
+      \strng{bibnamehash}{c942188b57a86cb968309f6fe6fa7586}
+      \strng{authorbibnamehash}{c942188b57a86cb968309f6fe6fa7586}
+      \strng{authornamehash}{183d806249266959289b027b12174cec}
+      \strng{authorfullhash}{c942188b57a86cb968309f6fe6fa7586}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09351221}
+      \field{journaltitle}{{E}uropean Journal of Mineralogy}
+      \field{number}{4}
+      \field{title}{{CO$_2$ fluid inclusions in mantle xenoliths from Lower {S}ilesia (SW {P}oland): Formation conditions and decompression history}}
+      \field{volume}{21}
+      \field{year}{2009}
+      \field{pages}{751\bibrangedash 761}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1127/0935-1221/2009/0021-1930
+      \endverb
+    \endentry
+    \entry{Lebedev.2006}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=fd562e8d0e4dc7baef0ffceb585a2a74}{%
+           family={Lebedev},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=502a197f7de0a6aad6fad21f2fcfe8ed}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6056e6a06cb7553db3d6576bd7fd982}{%
+           family={{van der Hilst}},
+           familyi={v\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55a858d75089df4169cbb243d9b41365}
+      \strng{fullhash}{e720b4df038c9c6a6c227851e950dfc1}
+      \strng{bibnamehash}{e720b4df038c9c6a6c227851e950dfc1}
+      \strng{authorbibnamehash}{e720b4df038c9c6a6c227851e950dfc1}
+      \strng{authornamehash}{55a858d75089df4169cbb243d9b41365}
+      \strng{authorfullhash}{e720b4df038c9c6a6c227851e950dfc1}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{number}{3--4}
+      \field{title}{{Asthenospheric flow and origin of volcanism in the Baikal Rift area}}
+      \field{volume}{249}
+      \field{year}{2006}
+      \field{pages}{415\bibrangedash 424}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.epsl.2006.07.007
+      \endverb
+    \endentry
+    \entry{Lee.2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2f420f89e154442b65b4203d271b514e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=13c1e9ace744cf0aadfdbc392885921f}{%
+           family={Sejrup},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi S.\bibnamedelimi Busschers\bibnamedelimb H.\bibnamedelimi P.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e734ab6e09df4c7112f91ebb490a1112}
+      \strng{fullhash}{e734ab6e09df4c7112f91ebb490a1112}
+      \strng{bibnamehash}{e734ab6e09df4c7112f91ebb490a1112}
+      \strng{authorbibnamehash}{e734ab6e09df4c7112f91ebb490a1112}
+      \strng{authornamehash}{e734ab6e09df4c7112f91ebb490a1112}
+      \strng{authorfullhash}{e734ab6e09df4c7112f91ebb490a1112}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{title}{{Pre--Weichselian Quaternary glaciations of the British Isles, The Netherlands, Norway and adjacent marine areas south of 68 °N: implications for long--term ice sheet development in northern Europe}}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{213\bibrangedash 228}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.quascirev.2010.02.027
+      \endverb
+    \endentry
+    \entry{Lenkey.2002}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=1a2769dff9da80a2fab015bf50eed38a}{%
+           family={Lenkey},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=212922c9a05e6cd9cc81fa80b03712c9}{%
+           family={Dovenyi},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e63004dd77d9d89a040051813eeb516b}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c066d11c98b568416784c34243bfb013}{%
+           family={Cloetingh},
+           familyi={C\bibinitperiod},
+           given={S.A.P.L.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b0239e4247e4eacf31caba72e11deb7}
+      \strng{fullhash}{c33fa771dbf3c78023f00a584d98acd5}
+      \strng{bibnamehash}{c33fa771dbf3c78023f00a584d98acd5}
+      \strng{authorbibnamehash}{c33fa771dbf3c78023f00a584d98acd5}
+      \strng{authornamehash}{8b0239e4247e4eacf31caba72e11deb7}
+      \strng{authorfullhash}{c33fa771dbf3c78023f00a584d98acd5}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stephan Mueller Special Publication Series}
+      \field{number}{3}
+      \field{title}{Geothermics of the {P}annonian basin and its bearing on the neotectonics}
+      \field{year}{2002}
+      \field{pages}{29\bibrangedash 40}
+      \range{pages}{12}
+    \endentry
+    \entry{Lenkey.2017}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=1a2769dff9da80a2fab015bf50eed38a}{%
+           family={Lenkey},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2f026c0d9bf3efe1d4749022e4cba0ec}{%
+           family={Ra{á}b},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=96d930f6a7efd5443ac702b558612642}{%
+           family={Goetzl},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cce4872f83987da019ce655bf9c1b651}{%
+           family={Lapanje},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c662f483fa750baf4b5b7bfd0bb6223}{%
+           family={N{á}dor},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f68a09ba37b7894741821402df3e5b09}{%
+           family={Rajver},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=722d2dffe6764bbcb4c081f604195b21}{%
+           family={Rot{á}r-Szalkai},
+           familyi={R\bibinithyphendelim S\bibinitperiod},
+           given={{Á}.},
+           giveni={Á\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e688f1ab97314318cf84572942c292ec}{%
+           family={Svasta},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=17c38bb1e7e5945a6d98d3e0acaec1a9}{%
+           family={Zekiri},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{179ad8e0227a0f73a2ae71942b985996}
+      \strng{fullhash}{2a36cf2385fd3860504e8f77763d4755}
+      \strng{bibnamehash}{2a36cf2385fd3860504e8f77763d4755}
+      \strng{authorbibnamehash}{2a36cf2385fd3860504e8f77763d4755}
+      \strng{authornamehash}{179ad8e0227a0f73a2ae71942b985996}
+      \strng{authorfullhash}{2a36cf2385fd3860504e8f77763d4755}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2213-5812}
+      \field{journaltitle}{Acta Geodaetica et Geophysica}
+      \field{number}{2}
+      \field{title}{{Lithospheric scale 3D thermal model of the Alpine-{P}annonian transition zone}}
+      \field{volume}{52}
+      \field{year}{2017}
+      \field{pages}{161\bibrangedash 182}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s40328-017-0194-8
+      \endverb
+    \endentry
+    \entry{Lexa.2010}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=dfb5f5a0c624784889f446916005d11c}{%
+           family={Lexa},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53345df6cd8451cc9d0da0014ee79aa0}{%
+           family={Seghedi},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80a860b0e55a1fd1d8c5ad42562273a2}{%
+           family={Németh},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=be991b87f140a8eaaecc2fddf30180b8}{%
+           family={Szakács},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=009e858187d579fba190a043e1417af1}{%
+           family={Konečny},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5132578cbfdbd810b9dae83841daaba2}{%
+           family={Pécskay},
+           familyi={P\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bee544db830f9ce8651a78522020a851}{%
+           family={Fülöp},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=795907b8c69e2c99b366f0e7832de182}{%
+           family={Kovacs},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b24b40d395a89b43152ecbdea110bab}
+      \strng{fullhash}{6faad5bf263bb8df315c13ffda110ee6}
+      \strng{bibnamehash}{6faad5bf263bb8df315c13ffda110ee6}
+      \strng{authorbibnamehash}{6faad5bf263bb8df315c13ffda110ee6}
+      \strng{authornamehash}{5b24b40d395a89b43152ecbdea110bab}
+      \strng{authorfullhash}{6faad5bf263bb8df315c13ffda110ee6}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2391-5447}
+      \field{journaltitle}{Open Geosciences}
+      \field{number}{3}
+      \field{title}{{Neogene-Quaternary Volcanic forms in the Carpathian-{P}annonian Region: A review}}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{207\bibrangedash 270}
+      \range{pages}{64}
+      \verb{doi}
+      \verb 10.2478/v10085-010-0024-5
+      \endverb
+    \endentry
+    \entry{Lindner.2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d70bd95484d7b79484fbfed89a14e75e}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d70bd95484d7b79484fbfed89a14e75e}
+      \strng{fullhash}{d70bd95484d7b79484fbfed89a14e75e}
+      \strng{bibnamehash}{d70bd95484d7b79484fbfed89a14e75e}
+      \strng{authorbibnamehash}{d70bd95484d7b79484fbfed89a14e75e}
+      \strng{authornamehash}{d70bd95484d7b79484fbfed89a14e75e}
+      \strng{authorfullhash}{d70bd95484d7b79484fbfed89a14e75e}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Prz. Geol.}
+      \field{number}{9}
+      \field{title}{{Problem wieku i zasi{ê}gu l$^1$dolod{ó}w skandynawskich u brzegu polskich Karpat}}
+      \field{volume}{49}
+      \field{year}{2001}
+      \field{pages}{819\bibrangedash 821}
+      \range{pages}{3}
+    \endentry
+    \entry{Lindner.1994}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d70bd95484d7b79484fbfed89a14e75e}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=86856dcf47d7175635ec246cb701807a}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a5b672abf48c97f69140c40aa843204}
+      \strng{fullhash}{4a5b672abf48c97f69140c40aa843204}
+      \strng{bibnamehash}{4a5b672abf48c97f69140c40aa843204}
+      \strng{authorbibnamehash}{4a5b672abf48c97f69140c40aa843204}
+      \strng{authornamehash}{4a5b672abf48c97f69140c40aa843204}
+      \strng{authorfullhash}{4a5b672abf48c97f69140c40aa843204}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Geologica Polonica}
+      \field{number}{1--2}
+      \field{title}{{Pleistocene glaciations and interglacials in the Vistula, the Oder, and the Elbe drainage basins (Central European Lowland)}}
+      \field{volume}{44}
+      \field{year}{1994}
+      \field{pages}{153\bibrangedash 165}
+      \range{pages}{13}
+    \endentry
+    \entry{Lisiecki.2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d0877839ef624308e9406dd0577da9f0}{%
+           family={Lisiecki},
+           familyi={L\bibinitperiod},
+           given={L.E.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54d2b9c770b08ba5af54072ccb113057}{%
+           family={Raymo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \strng{fullhash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \strng{bibnamehash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \strng{authorbibnamehash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \strng{authornamehash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \strng{authorfullhash}{e5f562b8dc8eb20cda5921b076372d6e}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{title}{{Plio–Pleistocene climate evolution: trends and transitions in glacial cycle dynamics}}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{56\bibrangedash 69}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.quascirev.2006.09.005
+      \endverb
+    \endentry
+    \entry{Maj.2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=970c021638f1eabdc1e163b53b871700}{%
+           family={Maj},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{970c021638f1eabdc1e163b53b871700}
+      \strng{fullhash}{970c021638f1eabdc1e163b53b871700}
+      \strng{bibnamehash}{970c021638f1eabdc1e163b53b871700}
+      \strng{authorbibnamehash}{970c021638f1eabdc1e163b53b871700}
+      \strng{authornamehash}{970c021638f1eabdc1e163b53b871700}
+      \strng{authorfullhash}{970c021638f1eabdc1e163b53b871700}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Prz. Geof.}
+      \field{number}{1--2}
+      \field{title}{{Geotermika w pracach Instytutu Geofizyki i Meteorologii Uniwersytetu Jana Kazimierza we Lwowie (1918--1939)}}
+      \field{volume}{LV}
+      \field{year}{2010}
+      \field{pages}{77\bibrangedash 82}
+      \range{pages}{6}
+    \endentry
+    \entry{Maluski.1995}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=d73f194e388ddf973ae7048fb44d6b41}{%
+           family={Maluski},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aafdbcb074e988d08b83a2d4222b0ecf}{%
+           family={Rajlich},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6ccb1373968657a4feff50af10c649d}{%
+           family={Soucek},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9b1368f92a1faddcd1928542bf5f00f}
+      \strng{fullhash}{c0cb2ed75906d2664df6f180f4a0570b}
+      \strng{bibnamehash}{c0cb2ed75906d2664df6f180f4a0570b}
+      \strng{authorbibnamehash}{c0cb2ed75906d2664df6f180f4a0570b}
+      \strng{authornamehash}{f9b1368f92a1faddcd1928542bf5f00f}
+      \strng{authorfullhash}{c0cb2ed75906d2664df6f180f4a0570b}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0016-7835}
+      \field{journaltitle}{Geologische Rundschau}
+      \field{number}{2}
+      \field{title}{{Pre-variscan, Variscan and Early Alpine thermo-tectonic history of the north-eastern {B}ohemian Massif: An $^40$Ar/$^39$Ar study}}
+      \field{volume}{84}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1007/BF00260445
+      \endverb
+    \endentry
+    \entry{Mazur.2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0828f068c30f53f317d5f33cf7755809}{%
+           family={Mazur},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc9640882221e895eeb07dd6f6e4bd46}{%
+           family={Aleksandrowski},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \strng{fullhash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \strng{bibnamehash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \strng{authorbibnamehash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \strng{authornamehash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \strng{authorfullhash}{f0d0b9c4ff8140274f645daf9dc73998}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1437-3254}
+      \field{journaltitle}{International Journal of Earth Sciences}
+      \field{number}{2}
+      \field{title}{{The Tepla(?)/Saxothuringian suture in the Karkonosze-Izera massif, western Sudetes, central {E}uropean Variscides}}
+      \field{volume}{90}
+      \field{year}{2001}
+      \field{pages}{341\bibrangedash 360}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s005310000146
+      \endverb
+    \endentry
+    \entry{Meier.2016}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=502a197f7de0a6aad6fad21f2fcfe8ed}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7635ffb89ad5263fff579b9ee541ef9}{%
+           family={Soomro},
+           familyi={S\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f99e256c39f66cbcf9cc42aaeb383c5e}{%
+           family={Viereck},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fd562e8d0e4dc7baef0ffceb585a2a74}{%
+           family={Lebedev},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e0850bf651689cc3d7ff3b5c1bb97754}{%
+           family={Behrmann},
+           familyi={B\bibinitperiod},
+           given={J.H.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=316e67f02f06fe189fab1a19398bf0aa}{%
+           family={Weidle},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d55e681427ab77a0b8a9a83368390fcd}{%
+           family={Cristiano},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=15c8eabda594c502ce8b4fec15760f25}{%
+           family={Hanemann},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9485d111f97c40bf87c3bbc7ad205fe}
+      \strng{fullhash}{c67c17c196b71a4d75fba144b5705c1e}
+      \strng{bibnamehash}{c67c17c196b71a4d75fba144b5705c1e}
+      \strng{authorbibnamehash}{c67c17c196b71a4d75fba144b5705c1e}
+      \strng{authornamehash}{b9485d111f97c40bf87c3bbc7ad205fe}
+      \strng{authorfullhash}{c67c17c196b71a4d75fba144b5705c1e}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00401951}
+      \field{journaltitle}{Tectonophysics}
+      \field{title}{{Mesozoic and {C}enozoic evolution of the Central {E}uropean lithosphere}}
+      \field{volume}{692}
+      \field{year}{2016}
+      \field{pages}{58\bibrangedash 73}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.tecto.2016.09.016
+      \endverb
+    \endentry
+    \entry{Michael.1910}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=de6c4c822eb392ad8378a7f2b5dfe827}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3a21e88a30d95ee3ab665e5255a4a016}{%
+           family={Quitzow},
+           familyi={Q\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \strng{fullhash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \strng{bibnamehash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \strng{authorbibnamehash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \strng{authornamehash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \strng{authorfullhash}{3ecbd27dfe02dd76852f3f54c3a11903}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jahrbuch der Königlich Preussischen Geologischen Landesanstalt und Bergakademie zu Berlin}
+      \field{number}{II}
+      \field{title}{{Die Temperaturmessungen im Tiefbolirloch Czuchow in Oberschlesien}}
+      \field{volume}{31}
+      \field{year}{1910}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+    \endentry
+    \entry{Mlcoch.2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a906de7d7e8051f1aee8794e8f65b65e}{%
+           family={Ml{č}och},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=93fb3fd4733d51ff5bb522066fe09073}{%
+           family={Konop{á}sek},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{740282393ce018341c7b63aaf168236c}
+      \strng{fullhash}{740282393ce018341c7b63aaf168236c}
+      \strng{bibnamehash}{740282393ce018341c7b63aaf168236c}
+      \strng{authorbibnamehash}{740282393ce018341c7b63aaf168236c}
+      \strng{authornamehash}{740282393ce018341c7b63aaf168236c}
+      \strng{authorfullhash}{740282393ce018341c7b63aaf168236c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18031943}
+      \field{journaltitle}{Journal of GEOsciences}
+      \field{title}{{Pre-Late Carboniferous geology along the contact of the Saxothuringian and Tepl{á}-Barrandian zones in the area covered by younger sediments and volcanics (western {B}ohemian Massif, Czech Republic)}}
+      \field{year}{2012}
+      \field{pages}{81\bibrangedash 94}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.3190/jgeosci.068
+      \endverb
+    \endentry
+    \entry{Nielsen.2007}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=4431d51e7786bcbce5aec2b8cd1d5ed3}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9630bd4904286c8b390bfb1f03490683}{%
+           family={Stephenson},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e89ad3f630964c1fec988b3d8e341664}{%
+           family={Thomsen},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{346a48071de77206e645309a36db81f9}
+      \strng{fullhash}{6e86176c476255b357687757ff684c07}
+      \strng{bibnamehash}{6e86176c476255b357687757ff684c07}
+      \strng{authorbibnamehash}{6e86176c476255b357687757ff684c07}
+      \strng{authornamehash}{346a48071de77206e645309a36db81f9}
+      \strng{authorfullhash}{6e86176c476255b357687757ff684c07}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{{Dynamics of Mid-Palaeocene North Atlantic rifting linked with European intra-plate deformations}}
+      \field{volume}{450}
+      \field{year}{2007}
+      \field{pages}{1071\bibrangedash 1074}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature06379
+      \endverb
+    \endentry
+    \entry{Panasiuk.1980}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8d099f1ce7178c6091fa3d7bbe0ccacf}{%
+           family={Panasiuk},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \strng{fullhash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \strng{bibnamehash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \strng{authorbibnamehash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \strng{authornamehash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \strng{authorfullhash}{8d099f1ce7178c6091fa3d7bbe0ccacf}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geol. Quart.}
+      \field{number}{4}
+      \field{title}{{O pozycji tektonicznej wulkanit{ó}w trzeciorz{ę}dowych z po{ł}udniowo-zachodniego obrze{ż}enia niecki {ż}ytawskiej}}
+      \field{volume}{24}
+      \field{year}{1980}
+      \field{pages}{827\bibrangedash 840}
+      \range{pages}{14}
+    \endentry
+    \entry{Pecskay.1995}{article}{}
+      \name{author}{15}{}{%
+        {{uniquename=0,uniquepart=base,hash=5132578cbfdbd810b9dae83841daaba2}{%
+           family={Pécskay},
+           familyi={P\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfb5f5a0c624784889f446916005d11c}{%
+           family={Lexa},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=be991b87f140a8eaaecc2fddf30180b8}{%
+           family={Szakács},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8236b2616d94153118a138d2db7de388}{%
+           family={Balogh},
+           familyi={B\bibinitperiod},
+           given={Kad.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53345df6cd8451cc9d0da0014ee79aa0}{%
+           family={Seghedi},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5bf4f1f1c4783ca58bd272ceb091e5f1}{%
+           family={Konečný},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=feaec98e250ca8e3930fae9b6096981d}{%
+           family={Kovács},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=05281deb74a2bb6e4801364d9ea7ba92}{%
+           family={Márton},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5723e225fb17eec845b705176d870ef2}{%
+           family={Kaličiak},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ad3df87e1f4bdacd81222a82632ae7a2}{%
+           family={Széky-Fux},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f8c8a8f6272a38fc5810e72ee84ec23a}{%
+           family={Póka},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25437f2b1f23728d140ecc8658003288}{%
+           family={Gyarmati},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ffd85ea83185ceb1ae967b1519315969}{%
+           family={Edelstein},
+           familyi={E\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d338ca85b6dd4de87fdc92b176fb1bac}{%
+           family={Rosu},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b234f31cd8a1972cc18d90d2a08d0ff0}{%
+           family={Žec},
+           familyi={Ž\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44204295761fbc029f1284b7936db2f5}
+      \strng{fullhash}{52eeda292b1ba989da69b40b78e59803}
+      \strng{bibnamehash}{52eeda292b1ba989da69b40b78e59803}
+      \strng{authorbibnamehash}{52eeda292b1ba989da69b40b78e59803}
+      \strng{authornamehash}{44204295761fbc029f1284b7936db2f5}
+      \strng{authorfullhash}{52eeda292b1ba989da69b40b78e59803}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Vulcanologica}
+      \field{number}{2}
+      \field{title}{{Space and time distribution of Neogene-Quaternary volcanism in the Carpatho-{P}annonian region}}
+      \field{volume}{7}
+      \field{year}{1995}
+      \field{pages}{15\bibrangedash 28}
+      \range{pages}{14}
+    \endentry
+    \entry{Piatkowska.2000}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=ed396178e737d547f6fcb3b7932ccd86}{%
+           family={Pi{ą}tkowska},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b8087b997473e7ffede19b71f22b52f3}{%
+           family={Kasi{ń}ski},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d491cbc3bd1c3f668fb9dc4a31485df7}{%
+           family={Graniczny},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c1a39afc9fdee85ece01d62d2e8cacf}
+      \strng{fullhash}{767e8037b92f321e228c4ffe453c6396}
+      \strng{bibnamehash}{767e8037b92f321e228c4ffe453c6396}
+      \strng{authorbibnamehash}{767e8037b92f321e228c4ffe453c6396}
+      \strng{authornamehash}{1c1a39afc9fdee85ece01d62d2e8cacf}
+      \strng{authorfullhash}{767e8037b92f321e228c4ffe453c6396}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Przegl{ą}d Geologiczny}
+      \field{number}{11}
+      \field{title}{{Analiza zintegrowanych danych teledetekcyjnych i tektonicznych Obni{ż}enia {Ż}ytawsko-Zgorzeleckiego}}
+      \field{volume}{48}
+      \field{year}{2000}
+      \field{pages}{991\bibrangedash 999}
+      \range{pages}{9}
+    \endentry
+    \entry{Plewa.1966}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8bc88e53dee5dc5fab5176f6b0563d8}{%
+           family={Plewa},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Wyd. Geofizyka i Geologia Naftowa}%
+      }
+      \strng{namehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{fullhash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{bibnamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authorbibnamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authornamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authorfullhash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Prace Geofizyczne i Geologiczne}
+      \field{title}{{Regionalny obraz parametrów geotermicznych obszaru Polski}}
+      \field{volume}{1}
+      \field{year}{1966}
+    \endentry
+    \entry{Plewa.1994}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8bc88e53dee5dc5fab5176f6b0563d8}{%
+           family={Plewa},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Wydaw. Centrum Podstawowych Problemów Gospodarki Surowcami Mineralnymi i Energią PAN}%
+      }
+      \strng{namehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{fullhash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{bibnamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authorbibnamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authornamehash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \strng{authorfullhash}{e8bc88e53dee5dc5fab5176f6b0563d8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Rozkład parametrów geotermalnych na obszarze Polski}}
+      \field{year}{1994}
+    \endentry
+    \entry{Plomerova.2007}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e150e94ad55b93b3db697ea8dfc74a1}{%
+           family={Plomerov{á}},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=454d038ebc2ec38228c01de316da62e5}{%
+           family={Achauer},
+           familyi={A\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4a1208d97528388996a0998ece3a5e89}{%
+           family={Babu{š}ka},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=850ecae767be3ec369f8b67ad56f0e4c}{%
+           family={Vecsey},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5889bd5107b0b6c55d459105852e38f4}
+      \strng{fullhash}{cf49f3647270771aae5e947f6e76c92a}
+      \strng{bibnamehash}{cf49f3647270771aae5e947f6e76c92a}
+      \strng{authorbibnamehash}{cf49f3647270771aae5e947f6e76c92a}
+      \strng{authornamehash}{5889bd5107b0b6c55d459105852e38f4}
+      \strng{authorfullhash}{cf49f3647270771aae5e947f6e76c92a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Journal International}
+      \field{number}{2}
+      \field{title}{{Upper mantle beneath the {E}ger Rift (Central {E}urope): Plume or asthenosphere upwelling?}}
+      \field{volume}{169}
+      \field{year}{2007}
+      \field{pages}{675\bibrangedash 682}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/j.1365-246X.2007.03361.x
+      \endverb
+    \endentry
+    \entry{Puura.2003}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3961a61a1094b4d0853093e264e7c7f7}{%
+           family={Puura},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6147c41cc5d1fab38d1bb1de178c5f17}{%
+           family={Floden},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7da301e0721e347c02470ecb08eb61f8}{%
+           family={Mokrik},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85f98e46f89d4ca5a6d7b34dcd55299d}
+      \strng{fullhash}{d218a62cd01947c00c9bd8aafe2a503a}
+      \strng{bibnamehash}{d218a62cd01947c00c9bd8aafe2a503a}
+      \strng{authorbibnamehash}{d218a62cd01947c00c9bd8aafe2a503a}
+      \strng{authornamehash}{85f98e46f89d4ca5a6d7b34dcd55299d}
+      \strng{authorfullhash}{d218a62cd01947c00c9bd8aafe2a503a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Litosfera/Lithosphere}
+      \field{title}{{The Baltic Sea basin in the geology of Fennoscandia and Baltic region}}
+      \field{volume}{7}
+      \field{year}{2003}
+      \field{pages}{134\bibrangedash 137}
+      \range{pages}{4}
+    \endentry
+    \entry{Puziewicz.2011}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=afb92c3d85a7111ca7ebd037dc26d3a9}{%
+           family={Puziewicz},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9df2de07e63fc61210bfa577428dc047}{%
+           family={Matusiak-Ma{ł}ek},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b34f6c654467a55d7c5b6ce6ab95d7c}{%
+           family={Ntaflos},
+           familyi={N\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3a27d6c7eab1aa8ffa5264c9e478f0c}{%
+           family={Gr{é}goire},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{acfc2f8b7ffecfca7f82ddf1b27e44a2}
+      \strng{fullhash}{17a434c9f3a8736b7575ab0a0220d4d0}
+      \strng{bibnamehash}{17a434c9f3a8736b7575ab0a0220d4d0}
+      \strng{authorbibnamehash}{17a434c9f3a8736b7575ab0a0220d4d0}
+      \strng{authornamehash}{acfc2f8b7ffecfca7f82ddf1b27e44a2}
+      \strng{authorfullhash}{17a434c9f3a8736b7575ab0a0220d4d0}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{G{ó}rny p{ł}aszcz Ziemi pod SW Polsk{ą}: {ź}r{ó}d{ł}o kenozoicznego wulkanizmu alkalicznego}}
+      \field{year}{2011}
+      \field{pages}{W: {Ż}ela{ż}niewicz\bibrangessep A.\bibrangessep Wojewoda\bibrangessep J.\bibrangessep Cie{ż}kowski\bibrangessep W.\bibrangessep (red.)\bibrangedash Mezozoik i Kenozoik Dolnego Sl{ą}ska\bibrangessep 37\bibrangedash 43\bibrangessep WIND\bibrangessep Wroc{ł}aw}
+      \range{pages}{-1}
+    \endentry
+    \entry{Ritter.2001}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=7eaa69e946ef7ac83c3e64ee840d57e3}{%
+           family={Ritter},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi R.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7fd484be47dd44e58daa3bbcc2f4dd16}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5873e59c9c4778cd7fad1f42e3f80062}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={U.\bibnamedelimi R.},
+           giveni={U\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=454d038ebc2ec38228c01de316da62e5}{%
+           family={Achauer},
+           familyi={A\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90cee54db52950653068f38c1994a7d9}
+      \strng{fullhash}{26929c9a3527344800f205fca9b25ff7}
+      \strng{bibnamehash}{26929c9a3527344800f205fca9b25ff7}
+      \strng{authorbibnamehash}{26929c9a3527344800f205fca9b25ff7}
+      \strng{authornamehash}{90cee54db52950653068f38c1994a7d9}
+      \strng{authorfullhash}{26929c9a3527344800f205fca9b25ff7}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{number}{1}
+      \field{title}{{A mantle plume below the Eifel volcanic fields, Germany}}
+      \field{volume}{186}
+      \field{year}{2001}
+      \field{pages}{7\bibrangedash 14}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/S0012-821X(01)00226-6
+      \endverb
+    \endentry
+    \entry{Roman.1962}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=65e0c3dc82dbd09aad1512f34bd6765e}{%
+           family={Roman},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \strng{fullhash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \strng{bibnamehash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \strng{authorbibnamehash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \strng{authornamehash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \strng{authorfullhash}{65e0c3dc82dbd09aad1512f34bd6765e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geol. Quart.}
+      \field{number}{2}
+      \field{title}{{Pomiary temperatury w otworze Magnuszew}}
+      \field{volume}{6}
+      \field{year}{1962}
+      \field{pages}{350\bibrangedash 359}
+      \range{pages}{10}
+    \endentry
+    \entry{Rosenbaum.2002}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=27ce3ba64f3e0d3ddd90de9705d12a14}{%
+           family={Rosenbaum},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b960f79b8eff97c1fe0aa17192dd06cd}{%
+           family={Lister},
+           familyi={L\bibinitperiod},
+           given={G.\bibnamedelimi S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30891bd08adf9ce3781e82cd21558b8f}{%
+           family={Duboz},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce906292fc4e864326ba762990ef3bde}
+      \strng{fullhash}{76b02ed3ad1270a85248b9449b4e6220}
+      \strng{bibnamehash}{76b02ed3ad1270a85248b9449b4e6220}
+      \strng{authorbibnamehash}{76b02ed3ad1270a85248b9449b4e6220}
+      \strng{authornamehash}{ce906292fc4e864326ba762990ef3bde}
+      \strng{authorfullhash}{76b02ed3ad1270a85248b9449b4e6220}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tectonophysics}
+      \field{title}{{Relative motions of Africa, Iberia and Europe during Alpine orogeny}}
+      \field{volume}{359}
+      \field{year}{2002}
+      \field{pages}{117\bibrangedash 129}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0040-1951(02)00442-0
+      \endverb
+    \endentry
+    \entry{Rozycki.1948}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc61f0c519430943a38a259f7ad50725}{%
+           family={Różycki},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi Z.},
+           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc61f0c519430943a38a259f7ad50725}
+      \strng{fullhash}{fc61f0c519430943a38a259f7ad50725}
+      \strng{bibnamehash}{fc61f0c519430943a38a259f7ad50725}
+      \strng{authorbibnamehash}{fc61f0c519430943a38a259f7ad50725}
+      \strng{authornamehash}{fc61f0c519430943a38a259f7ad50725}
+      \strng{authorfullhash}{fc61f0c519430943a38a259f7ad50725}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i krajach sąsiednich. [W:] Spraw. Tow. Nauk. Warszawskiego, Wydz. III, Rok 1947, Warszawa}}
+      \field{year}{1948}
+    \endentry
+    \entry{Rudzki.1909}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f423e4f13652f84a51a7bd00f779f61e}{%
+           family={Rudzki},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kraków}%
+      }
+      \list{publisher}{1}{%
+        {Akademia Umiejętności}%
+      }
+      \strng{namehash}{f423e4f13652f84a51a7bd00f779f61e}
+      \strng{fullhash}{f423e4f13652f84a51a7bd00f779f61e}
+      \strng{bibnamehash}{f423e4f13652f84a51a7bd00f779f61e}
+      \strng{authorbibnamehash}{f423e4f13652f84a51a7bd00f779f61e}
+      \strng{authornamehash}{f423e4f13652f84a51a7bd00f779f61e}
+      \strng{authorfullhash}{f423e4f13652f84a51a7bd00f779f61e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fizyka Ziemi}
+      \field{year}{1909}
+    \endentry
+    \entry{Seghedi.2004}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=53345df6cd8451cc9d0da0014ee79aa0}{%
+           family={Seghedi},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfafc8297dfe51f80d00efa0b6af1eaf}{%
+           family={Downes},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1cfaf236b818bea5505a842dd493cd1c}{%
+           family={Vaselli},
+           familyi={V\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=997f3744f5ca09cb2f555b266aafa60b}{%
+           family={Szak{á}cs},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f63c8a2f0d32665c2ff3ae0c46c85e5c}{%
+           family={Balogh},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c67e7a7511686f3a57d170e92515a8f}{%
+           family={P{é}cskay},
+           familyi={P\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9b6dfab67cf9a70da368bdb93e6294c}
+      \strng{fullhash}{0c7cf997cb2155c40390b8066683f60c}
+      \strng{bibnamehash}{0c7cf997cb2155c40390b8066683f60c}
+      \strng{authorbibnamehash}{0c7cf997cb2155c40390b8066683f60c}
+      \strng{authornamehash}{d9b6dfab67cf9a70da368bdb93e6294c}
+      \strng{authorfullhash}{0c7cf997cb2155c40390b8066683f60c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00401951}
+      \field{journaltitle}{Tectonophysics}
+      \field{number}{1--4}
+      \field{title}{{Post-collisional Tertiary-Quaternary mafic alkalic magmatism in the Carpathian-{P}annonian region: A review}}
+      \field{volume}{393}
+      \field{year}{2004}
+      \field{pages}{43\bibrangedash 62}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.tecto.2004.07.051
+      \endverb
+    \endentry
+    \entry{Sinclair.1997}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4c1a7f198f24f36fee5fe7577f20bd25}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \strng{fullhash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \strng{bibnamehash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \strng{authorbibnamehash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \strng{authornamehash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \strng{authorfullhash}{4c1a7f198f24f36fee5fe7577f20bd25}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geology}
+      \field{number}{12}
+      \field{title}{{Flysch to molasse transition in peripheral foreland basins: The role of the passive margin versus slab breakoff}}
+      \field{volume}{25}
+      \field{year}{1997}
+      \field{pages}{1123\bibrangedash 1126}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1130/0091-7613(1997)025<1123:FTMTIP>2.3.CO;2
+      \endverb
+    \endentry
+    \entry{Sissingh.2006a}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ab36e162d1c03312475713084fcd1e31}{%
+           family={Sissingh},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ab36e162d1c03312475713084fcd1e31}
+      \strng{fullhash}{ab36e162d1c03312475713084fcd1e31}
+      \strng{bibnamehash}{ab36e162d1c03312475713084fcd1e31}
+      \strng{authorbibnamehash}{ab36e162d1c03312475713084fcd1e31}
+      \strng{authornamehash}{ab36e162d1c03312475713084fcd1e31}
+      \strng{authorfullhash}{ab36e162d1c03312475713084fcd1e31}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Netherlands Journal of Geosciences}
+      \field{number}{2}
+      \field{title}{{Kinematic sequence stratigraphy of the European Cenozoic Rift System and Alpine Foreland Basin: correlation with Mediterranean and Atlantic plate-boundary events}}
+      \field{volume}{85}
+      \field{year}{2006a}
+      \field{pages}{77\bibrangedash 129}
+      \range{pages}{53}
+      \verb{doi}
+      \verb 10.1017/S0016774600077921
+      \endverb
+    \endentry
+    \entry{Skacelova.2009}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=5504b368c702ea83276274c8b294d5d3}{%
+           family={Sk{á}celov{á}},
+           familyi={S\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ff04d73659522365af0d0e13914dd522}{%
+           family={Vladislav},
+           familyi={V\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a906de7d7e8051f1aee8794e8f65b65e}{%
+           family={Ml{č}och},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1431d7612e435312bf658d418c75783a}
+      \strng{fullhash}{cbb4c6278dd3cfbaa5649f0f3fc2f312}
+      \strng{bibnamehash}{cbb4c6278dd3cfbaa5649f0f3fc2f312}
+      \strng{authorbibnamehash}{cbb4c6278dd3cfbaa5649f0f3fc2f312}
+      \strng{authornamehash}{1431d7612e435312bf658d418c75783a}
+      \strng{authorfullhash}{cbb4c6278dd3cfbaa5649f0f3fc2f312}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{03770273}
+      \field{journaltitle}{Journal of Volcanology and Geothermal Research}
+      \field{number}{1--2}
+      \field{title}{{Effect of small potassium-rich dykes on regional gamma-spectrometry image of a potassium-poor volcanic complex: A case from the Doupovsk{é} hory Volcanic Complex, NW Czech Republic}}
+      \field{volume}{187}
+      \field{year}{2009}
+      \field{pages}{26\bibrangedash 32}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jvolgeores.2009.07.018
+      \endverb
+    \endentry
+    \entry{Sliaupa.2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=268d61932c6be1ac1bc7dffcef250f93}{%
+           family={{Š}liaupa},
+           familyi={Š\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=97512a8e65a88e36e74a5cb6cd9323d1}{%
+           family={Ke{ž}un},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \strng{fullhash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \strng{bibnamehash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \strng{authorbibnamehash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \strng{authornamehash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \strng{authorfullhash}{627369d1f2c45fe3b9ae3e9163b0d298}
+      \field{sortinit}{Š}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geologija}
+      \field{number}{2}
+      \field{title}{{Hydrogeothermal resources of Middle Lithuania}}
+      \field{volume}{53}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.6001/geologija.v53i2.1851
+      \endverb
+    \endentry
+    \entry{Sobczyk.2015}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b224fb05470fb6faafb5eff98706e0de}{%
+           family={Sobczyk},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9bf578561dfe2e9a8d31669551dd93a5}{%
+           family={Danišík},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc9640882221e895eeb07dd6f6e4bd46}{%
+           family={Aleksandrowski},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c5175b638a1572fc43f0ecf917c909c8}{%
+           family={Anczkiewicz},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2d01dd4a47e82fe281b5605a8728b34}
+      \strng{fullhash}{184a474710315d18c7e38321150564f4}
+      \strng{bibnamehash}{184a474710315d18c7e38321150564f4}
+      \strng{authorbibnamehash}{184a474710315d18c7e38321150564f4}
+      \strng{authornamehash}{a2d01dd4a47e82fe281b5605a8728b34}
+      \strng{authorfullhash}{184a474710315d18c7e38321150564f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tectonophysics}
+      \field{title}{{Post-Variscan cooling history of the central Western Sudetes (NE Bohemian Massif, Poland) constrained by apatite fission-track and zircon (U-Th)/He thermochronology}}
+      \field{volume}{649}
+      \field{year}{2015}
+      \field{pages}{47\bibrangedash 57}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.tecto.2015.02.021
+      \endverb
+    \endentry
+    \entry{Stenz.1936}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=22cf641734b1a0fc3e1b24a5b92659ab}{%
+           family={Stenz},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Warszawa}%
+      }
+      \list{publisher}{1}{%
+        {Mathesis Polska}%
+      }
+      \strng{namehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{fullhash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{bibnamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authorbibnamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authornamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authorfullhash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Z dziedziny nauki i techniki}
+      \field{title}{Ziemia --- fizyka globu, mórz i atmosfery}
+      \field{volume}{XI}
+      \field{year}{1936}
+    \endentry
+    \entry{Svendsen.2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=35e76924e3a62ce36353f7bd1d94936e}{%
+           family={Svendsen},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35e76924e3a62ce36353f7bd1d94936e}
+      \strng{fullhash}{35e76924e3a62ce36353f7bd1d94936e}
+      \strng{bibnamehash}{35e76924e3a62ce36353f7bd1d94936e}
+      \strng{authorbibnamehash}{35e76924e3a62ce36353f7bd1d94936e}
+      \strng{authornamehash}{35e76924e3a62ce36353f7bd1d94936e}
+      \strng{authorfullhash}{35e76924e3a62ce36353f7bd1d94936e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02773791}
+      \field{journaltitle}{Quaternary Science Reviews}
+      \field{number}{11--13}
+      \field{title}{{Late Quaternary ice sheet history of northern Eurasia}}
+      \field{volume}{23}
+      \field{year}{2004}
+      \field{pages}{1229\bibrangedash 1271}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1016/j.quascirev.2003.12.008
+      \endverb
+    \endentry
+    \entry{Szewczyk.2017}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=927c5897ccf74b404160505e4bdef626}{%
+           family={Szewczyk},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{927c5897ccf74b404160505e4bdef626}
+      \strng{fullhash}{927c5897ccf74b404160505e4bdef626}
+      \strng{bibnamehash}{927c5897ccf74b404160505e4bdef626}
+      \strng{authorbibnamehash}{927c5897ccf74b404160505e4bdef626}
+      \strng{authornamehash}{927c5897ccf74b404160505e4bdef626}
+      \strng{authorfullhash}{927c5897ccf74b404160505e4bdef626}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{16417291}
+      \field{journaltitle}{Geological Quarterly}
+      \field{number}{4}
+      \field{title}{{The deep-seated lowland relict permafrost from the Suwa{ł}ki region (NE {P}oland) --- analysis of conditions of its development and preservation}}
+      \field{volume}{61}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.7306/gq.1378
+      \endverb
+    \endentry
+    \entry{Szymkowiak.1985}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e14cfe88e7b27c6de8df944aa729b71b}{%
+           family={Szymkowiak},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d099f1ce7178c6091fa3d7bbe0ccacf}{%
+           family={Panasiuk},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f2af443f80eb03134d2b30e377515e8}
+      \strng{fullhash}{2f2af443f80eb03134d2b30e377515e8}
+      \strng{bibnamehash}{2f2af443f80eb03134d2b30e377515e8}
+      \strng{authorbibnamehash}{2f2af443f80eb03134d2b30e377515e8}
+      \strng{authornamehash}{2f2af443f80eb03134d2b30e377515e8}
+      \strng{authorfullhash}{2f2af443f80eb03134d2b30e377515e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geol. Quart.}
+      \field{number}{3/4}
+      \field{title}{{Charakterystyka petrograficzna i geochemiczna law bazaltoidowych rejonu Bogatyni}}
+      \field{volume}{29}
+      \field{year}{1985}
+      \field{pages}{727\bibrangedash 754}
+      \range{pages}{28}
+    \endentry
+    \entry{Toth.2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2cf22b83c4f4439931e18f610fdab26d}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c29055b47a86484743230a9e5c138a1e}{%
+           family={Almasi},
+           familyi={A\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \strng{fullhash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \strng{bibnamehash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \strng{authorbibnamehash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \strng{authornamehash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \strng{authorfullhash}{afa120821c8ff31b3fb3cb906fe9a92d}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1468-8115}
+      \field{journaltitle}{Geofluids}
+      \field{number}{1}
+      \field{title}{{Interpretation of observed fluid potential patterns in a deep sedimentary basin under tectonic compression: Hungarian Great Plain, {P}annonian Basin}}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{pages}{11\bibrangedash 36}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1046/j.1468-8123.2001.11004.x
+      \endverb
+    \endentry
+    \entry{Ulrych.2000}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7b27b68b0e98bfaec5029e67e1f245f7}{%
+           family={Ulrych},
+           familyi={U\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \strng{fullhash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \strng{bibnamehash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \strng{authorbibnamehash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \strng{authornamehash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \strng{authorfullhash}{7b27b68b0e98bfaec5029e67e1f245f7}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Czech Geological Society}
+      \field{number}{1--2}
+      \field{title}{{Upper-mantle xenoliths in melilitic rocks of the Osecna Complex, North Bohemia}}
+      \field{volume}{45}
+      \field{year}{2000}
+      \field{pages}{79\bibrangedash 83}
+      \range{pages}{5}
+    \endentry
+    \entry{Ulrych.2008}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=7b27b68b0e98bfaec5029e67e1f245f7}{%
+           family={Ulrych},
+           familyi={U\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2cbe9f0044d8b3c8fbf67cef90d77f80}{%
+           family={Dostal},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82aeb6a35fe6b8be52d9fcda9ce0e0fe}{%
+           family={Hegner},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f63c8a2f0d32665c2ff3ae0c46c85e5c}{%
+           family={Balogh},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=993fe850a9214b487071b14dba65dfa3}{%
+           family={Ackerman},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1763eaaebd5b36dfd8b84fdccb7e291}
+      \strng{fullhash}{ab6525d1d132d0c3bdb87cacb4dd7f4a}
+      \strng{bibnamehash}{ab6525d1d132d0c3bdb87cacb4dd7f4a}
+      \strng{authorbibnamehash}{ab6525d1d132d0c3bdb87cacb4dd7f4a}
+      \strng{authornamehash}{e1763eaaebd5b36dfd8b84fdccb7e291}
+      \strng{authorfullhash}{ab6525d1d132d0c3bdb87cacb4dd7f4a}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00244937}
+      \field{journaltitle}{Lithos}
+      \field{number}{1--2}
+      \field{title}{{Late Cretaceous to Paleocene melilitic rocks of the Oh{ř}e/{E}ger Rift in northern Bohemia, Czech Republic: Insights into the initial stages of continental rifting}}
+      \field{volume}{101}
+      \field{year}{2008}
+      \field{pages}{141\bibrangedash 161}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.lithos.2007.07.012
+      \endverb
+    \endentry
+    \entry{Ulrych.2002}{article}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=7b27b68b0e98bfaec5029e67e1f245f7}{%
+           family={Ulrych},
+           familyi={U\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=236e84ee1507730b311d0836a3fa2692}{%
+           family={Svobodov{á}},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f63c8a2f0d32665c2ff3ae0c46c85e5c}{%
+           family={Balogh},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6918fc32003a15de8fa1dcc8165a035}
+      \strng{fullhash}{62565b08795c4d78a6379ddaf61669c6}
+      \strng{bibnamehash}{62565b08795c4d78a6379ddaf61669c6}
+      \strng{authorbibnamehash}{62565b08795c4d78a6379ddaf61669c6}
+      \strng{authornamehash}{d6918fc32003a15de8fa1dcc8165a035}
+      \strng{authorfullhash}{62565b08795c4d78a6379ddaf61669c6}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00777757}
+      \field{journaltitle}{Neues Jahrbuch f{ü}r Mineralogie - Abhandlungen}
+      \field{number}{2}
+      \field{title}{{The source of {C}enozoic volcanism in the {Č}esk{é} st{ř}edoho{ř}{í} Mts., {B}ohemian Massif}}
+      \field{volume}{177}
+      \field{year}{2002}
+      \field{pages}{133\bibrangedash 162}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1127/0077-7757/2002/0177-0133
+      \endverb
+    \endentry
+    \entry{vonBlackenburg.1995}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c2ae94b01e7aab2b1f5aa023a9583f9b}{%
+           family={{von Blackenburg}},
+           familyi={v\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9963e04610f2bf1a2137feb3b4b5b46f}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b97299d8a61ec9e75058ee1e6577f578}
+      \strng{fullhash}{b97299d8a61ec9e75058ee1e6577f578}
+      \strng{bibnamehash}{b97299d8a61ec9e75058ee1e6577f578}
+      \strng{authorbibnamehash}{b97299d8a61ec9e75058ee1e6577f578}
+      \strng{authornamehash}{b97299d8a61ec9e75058ee1e6577f578}
+      \strng{authorfullhash}{b97299d8a61ec9e75058ee1e6577f578}
+      \field{sortinit}{v}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tectonics}
+      \field{number}{1}
+      \field{title}{{Slab breakoff: A model for syncollisional magmatism and tectonics in the Alps}}
+      \field{volume}{14}
+      \field{year}{1995}
+      \field{pages}{120\bibrangedash 131}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1029/94TC02051
+      \endverb
+    \endentry
+    \entry{Wilson.1991}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7083b68ad3527acd654b2a472f04e542}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfafc8297dfe51f80d00efa0b6af1eaf}{%
+           family={Downes},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{fullhash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{bibnamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authorbibnamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authornamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authorfullhash}{1931619b68fd8215e1a0f05049552c0d}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3530}
+      \field{journaltitle}{Journal of Petrology}
+      \field{number}{4}
+      \field{title}{{Tertiary-Quaternary Extension-Related Alkaline Magmatism in Western and Central {E}urope}}
+      \field{volume}{32}
+      \field{year}{1991}
+      \field{pages}{811\bibrangedash 849}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1093/petrology/32.4.811
+      \endverb
+    \endentry
+    \entry{Wilson.2006}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7083b68ad3527acd654b2a472f04e542}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfafc8297dfe51f80d00efa0b6af1eaf}{%
+           family={Downes},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{fullhash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{bibnamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authorbibnamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authornamehash}{1931619b68fd8215e1a0f05049552c0d}
+      \strng{authorfullhash}{1931619b68fd8215e1a0f05049552c0d}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0435-4052}
+      \field{journaltitle}{Geological Society, London, Memoirs}
+      \field{number}{1}
+      \field{title}{{Tertiary-Quaternary intra-plate magmatism in {E}urope and its relationship to mantle dynamics}}
+      \field{volume}{32}
+      \field{year}{2006}
+      \field{pages}{147\bibrangedash 166}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1144/GSL.MEM.2006.032.01.09
+      \endverb
+    \endentry
+    \entry{Wilson.2001}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7083b68ad3527acd654b2a472f04e542}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3acd7fff446f662cc0de03b41397649c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Geological Society of America}%
+      }
+      \strng{namehash}{a0a9e5a74cc490f44954afc7fc691709}
+      \strng{fullhash}{a0a9e5a74cc490f44954afc7fc691709}
+      \strng{bibnamehash}{a0a9e5a74cc490f44954afc7fc691709}
+      \strng{authorbibnamehash}{a0a9e5a74cc490f44954afc7fc691709}
+      \strng{authornamehash}{a0a9e5a74cc490f44954afc7fc691709}
+      \strng{authorfullhash}{a0a9e5a74cc490f44954afc7fc691709}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Special Paper 352: Mantle plumes: their identification through time}
+      \field{isbn}{0-8137-2352-3}
+      \field{title}{{Intraplate magmatism related to short-wavelength convective instabilities in the upper mantle: Evidence from the Tertiary-Quaternary volcanic province of Western and Central {E}urope}}
+      \field{volume}{352}
+      \field{year}{2001}
+      \field{pages}{37\bibrangedash 58}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1130/0-8137-2352-3.37
+      \endverb
+    \endentry
+    \entry{Woloszyn.2017}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=42c6dd633a8a76ec5ab5178a9fe5be48}{%
+           family={Woloszyn},
+           familyi={W\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ec872f85c41933e9cc71ecdd29b0bd38}{%
+           family={Merkel},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=862db8497867c151b8a1f73508cce7ef}{%
+           family={Stanek},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3662127d602d694123f2395706b49e02}
+      \strng{fullhash}{4900ef69624e2a13b490e3d2fe34951a}
+      \strng{bibnamehash}{4900ef69624e2a13b490e3d2fe34951a}
+      \strng{authorbibnamehash}{4900ef69624e2a13b490e3d2fe34951a}
+      \strng{authornamehash}{3662127d602d694123f2395706b49e02}
+      \strng{authorfullhash}{4900ef69624e2a13b490e3d2fe34951a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1437-3254}
+      \field{journaltitle}{International Journal of Earth Sciences}
+      \field{number}{5}
+      \field{title}{{3D geological modeling of the transboundary Berzdorf-Radomierzyce basin in Upper Lusatia (Germany/{P}oland)}}
+      \field{volume}{106}
+      \field{year}{2017}
+      \field{pages}{1651\bibrangedash 1663}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00531-016-1379-z
+      \endverb
+    \endentry
+    \entry{Ziegler.2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f6fa6e43c41d7ccaccc717c783bc614e}{%
+           family={Ziegler},
+           familyi={Z\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2fd8d86d6f8234b8159aab4386445585}{%
+           family={D{è}zes},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \strng{fullhash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \strng{bibnamehash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \strng{authorbibnamehash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \strng{authornamehash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \strng{authorfullhash}{6e1e24642b07b574d012bc3b4e8c8d03}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09218181}
+      \field{journaltitle}{Global and Planetary Change}
+      \field{number}{1--4}
+      \field{title}{{{C}enozoic uplift of Variscan massifs in the Alpine foreland: Timing and controlling mechanisms}}
+      \field{volume}{58}
+      \field{year}{2007}
+      \field{pages}{237\bibrangedash 269}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1016/j.gloplacha.2006.12.004
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

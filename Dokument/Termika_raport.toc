@@ -7,29 +7,31 @@
 \contentsline {subsection}{\numberline {1.3.1}Wypi\IeC {\k e}trzenie Karpat}{6}
 \contentsline {subsection}{\numberline {1.3.2}Powstanie systemu ryft\IeC {\'o}w na kontynencie europejskim}{6}
 \contentsline {subsubsection}{Ryft Egeru}{7}
-\contentsline {subsection}{\numberline {1.3.3}Wynoszenie masyw\IeC {\'o}w waryscyjskich}{8}
+\contentsline {subsection}{\numberline {1.3.3}Wynoszenie masyw\IeC {\'o}w waryscyjskich}{9}
 \contentsline {subsubsection}{Masyw Czeski}{9}
-\contentsline {subsection}{\numberline {1.3.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{9}
+\contentsline {subsection}{\numberline {1.3.4}Powstanie zapadlisk przed- i \IeC {\'s}r\IeC {\'o}dg\IeC {\'o}rskich}{10}
 \contentsline {subsubsection}{Basen pano\IeC {\'n}ski}{10}
 \contentsline {paragraph}{Basen wiede\IeC {\'n}ski}{12}
 \contentsline {subsubsection}{Zapadlisko przedkarpackie}{12}
 \contentsline {subsubsection}{Alpejski basen molasowy}{12}
-\contentsline {section}{\numberline {1.4}Wulkanizm}{12}
+\contentsline {section}{\numberline {1.4}Wulkanizm}{13}
 \contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{13}
-\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{14}
-\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{18}
-\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{18}
+\contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{15}
+\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{17}
+\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{17}
 \contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{18}
-\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{19}
-\contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci gradientu/stopnia geotermicznego\\ dla ziem polskich}{19}
-\contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{19}
-\contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{19}
-\contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{19}
-\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{20}
-\contentsline {subsubsection}{Prace Majorowicza (lata 70. XX w.)}{20}
-\contentsline {subsubsection}{Lata 90. XX w.}{20}
-\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{21}
-\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{22}
-\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{23}
-\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{24}
-\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{25}
+\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{20}
+\contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci parametr\IeC {\'o}w geotermicznych dla ziem polskich}{20}
+\contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{20}
+\contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{21}
+\contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{21}
+\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{21}
+\contentsline {subsubsection}{Prace Majorowicza (lata 70. XX w.)}{22}
+\contentsline {subsubsection}{Lata 90. XX w.}{22}
+\contentsline {subsubsection}{Obszar Polski w pracach dotycz\IeC {\k a}cych rozk\IeC {\l }adu g\IeC {\k e}sto\IeC {\'s}ci strumienia cieplnego w Europie}{22}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{25}
+\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{26}
+\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{27}
+\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{28}
+\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{29}
+\contentsline {chapter}{Bibliografia}{30}
