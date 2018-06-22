@@ -15,23 +15,27 @@
 \contentsline {subsubsection}{Zapadlisko przedkarpackie}{12}
 \contentsline {subsubsection}{Alpejski basen molasowy}{12}
 \contentsline {section}{\numberline {1.4}Wulkanizm}{13}
-\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{13}
+\contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{14}
 \contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{15}
-\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{17}
-\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{17}
-\contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{18}
+\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{18}
+\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{18}
+\contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{19}
 \contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{20}
 \contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci parametr\IeC {\'o}w geotermicznych dla ziem polskich}{20}
 \contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{20}
 \contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{21}
 \contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{21}
-\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{21}
-\contentsline {subsubsection}{Prace Majorowicza (lata 70. XX w.)}{22}
-\contentsline {subsubsection}{Lata 90. XX w.}{22}
-\contentsline {subsubsection}{Obszar Polski w pracach dotycz\IeC {\k a}cych rozk\IeC {\l }adu g\IeC {\k e}sto\IeC {\'s}ci strumienia cieplnego w Europie}{22}
-\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{25}
-\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{26}
-\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{27}
-\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{28}
-\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{29}
-\contentsline {chapter}{Bibliografia}{30}
+\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{22}
+\contentsline {subsubsection}{Majorowicz, 1971. \textit {Przebieg warto\IeC {\'s}ci stopnia geotermicznego w Polsce w przedziale g\IeC {\l }\IeC {\k e}boko\IeC {\'s}ci 200--2500 m} i p\IeC {\'o}\'{z}niejsze prace Majorowicza}{22}
+\contentsline {subsubsection}{W\IeC {\k e}sierska, 1973. \textit {A study of terrestial heat flux density in Poland}}{23}
+\contentsline {subsubsection}{Motyl-Rakowska i Soko\IeC {\l }owski, 1980. \textit {Temperatures at the base of the Permian-Cainozoic stratum in Poland}}{23}
+\contentsline {subsubsection}{Plewa, \citeyear {Plewa.1994}. \textit {Rozk\IeC {\l }ad parametr\IeC {\'o}w geotermalnych na obszarze Polski} i wcze\IeC {\'s}niejsze prace Plewy}{23}
+\contentsline {subsubsection}{Gordienko i Zavgorodnyaya, 1996. \textit {Estimation of heat flow in Poland}}{23}
+\contentsline {subsubsection}{Karwasiecka i Bruszewska, 1997. \textit {G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}{23}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{26}
+\contentsline {section}{\numberline {3.1}Wielkie eksperymenty sejsmiczne (1997--2003)}{26}
+\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{27}
+\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{28}
+\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{29}
+\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{30}
+\contentsline {chapter}{Bibliografia}{31}

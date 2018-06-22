@@ -2514,6 +2514,36 @@
       \field{pages}{77\bibrangedash 82}
       \range{pages}{6}
     \endentry
+    \entry{Majorowicz.1975}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cba13a441f4f1452e3b4c35176bf38d2}{%
+           family={Majorowicz},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{fullhash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{bibnamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authorbibnamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authornamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authorfullhash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Geoph. Pol.}
+      \field{number}{3}
+      \field{title}{{Heat flow on the Polish Lowland territory}}
+      \field{volume}{23}
+      \field{year}{1975}
+      \field{pages}{259\bibrangedash 276}
+      \range{pages}{18}
+    \endentry
     \entry{Maluski.1995}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=d73f194e388ddf973ae7048fb44d6b41}{%
@@ -2790,6 +2820,36 @@
       \verb{doi}
       \verb 10.1038/nature06379
       \endverb
+    \endentry
+    \entry{Olpinska.1988}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7fad46b4598141db9591dadf1ca7b29f}{%
+           family={Ołpińska-Warzechowa},
+           familyi={O\bibinithyphendelim W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fad46b4598141db9591dadf1ca7b29f}
+      \strng{fullhash}{7fad46b4598141db9591dadf1ca7b29f}
+      \strng{bibnamehash}{7fad46b4598141db9591dadf1ca7b29f}
+      \strng{authorbibnamehash}{7fad46b4598141db9591dadf1ca7b29f}
+      \strng{authornamehash}{7fad46b4598141db9591dadf1ca7b29f}
+      \strng{authorfullhash}{7fad46b4598141db9591dadf1ca7b29f}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Prz. Geof.}
+      \field{number}{1}
+      \field{title}{{Instytut Geofizyki i Meteorologii Uniwersytetu Jana Kazimierza we Lwowie (1920--1939)}}
+      \field{volume}{33}
+      \field{year}{1988}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
     \endentry
     \entry{Panasiuk.1980}{article}{}
       \name{author}{1}{}{%
@@ -3645,13 +3705,41 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{Z dziedziny nauki i techniki}
       \field{title}{Ziemia --- fizyka globu, mórz i atmosfery}
       \field{volume}{XI}
       \field{year}{1936}
+    \endentry
+    \entry{Stenz.1954}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=22cf641734b1a0fc3e1b24a5b92659ab}{%
+           family={Stenz},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{fullhash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{bibnamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authorbibnamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authornamehash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \strng{authorfullhash}{22cf641734b1a0fc3e1b24a5b92659ab}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Geoph. Pol.}
+      \field{number}{4}
+      \field{title}{{Deep-well temperatures and geothermal gradient at Ciechocinek}}
+      \field{volume}{2}
+      \field{year}{1954}
+      \field{pages}{159\bibrangedash 168}
+      \range{pages}{10}
     \endentry
     \entry{Svendsen.2004}{article}{}
       \name{author}{1}{}{%

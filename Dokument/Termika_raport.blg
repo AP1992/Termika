@@ -1,20 +1,20 @@
 [1] Config.pm:302> INFO - This is Biber 2.10
 [2] Config.pm:305> INFO - Logfile is 'Termika_raport.blg'
-[578] biber-MSWIN32:313> INFO - === 
-[943] Biber.pm:371> INFO - Reading 'Termika_raport.bcf'
-[1546] Biber.pm:857> INFO - Found 92 citekeys in bib section 0
-[1773] Biber.pm:3976> INFO - Processing section 0
-[2187] Biber.pm:4136> INFO - Looking for bibtex format file 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib' for section 0
-[2305] bibtex.pm:1490> INFO - LaTeX decoding ...
-[4734] bibtex.pm:1306> INFO - Found BibTeX data source 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib'
-[5182] Utils.pm:193> WARN - year field '2006a' in entry 'Sissingh.2006a' is not an integer - this will probably not sort properly.
-[8297] Utils.pm:193> WARN - year field '1923c' in entry 'Arctowski.1923c' is not an integer - this will probably not sort properly.
-[8317] Utils.pm:193> WARN - year field '1923b' in entry 'Arctowski.1923b' is not an integer - this will probably not sort properly.
-[8345] Utils.pm:193> WARN - year field '1923a' in entry 'Arctowski.1923a' is not an integer - this will probably not sort properly.
-[9531] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[9531] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[9532] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[9532] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[10203] bbl.pm:617> INFO - Writing 'Termika_raport.bbl' with encoding 'UTF-8'
-[10572] bbl.pm:720> INFO - Output to Termika_raport.bbl
-[10577] Biber.pm:110> INFO - WARNINGS: 4
+[546] biber-MSWIN32:313> INFO - === 
+[1155] Biber.pm:371> INFO - Reading 'Termika_raport.bcf'
+[1702] Biber.pm:857> INFO - Found 95 citekeys in bib section 0
+[1863] Biber.pm:3976> INFO - Processing section 0
+[1991] Biber.pm:4136> INFO - Looking for bibtex format file 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib' for section 0
+[2044] bibtex.pm:1490> INFO - LaTeX decoding ...
+[3593] bibtex.pm:1306> INFO - Found BibTeX data source 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib'
+[4029] Utils.pm:193> WARN - year field '2006a' in entry 'Sissingh.2006a' is not an integer - this will probably not sort properly.
+[7078] Utils.pm:193> WARN - year field '1923a' in entry 'Arctowski.1923a' is not an integer - this will probably not sort properly.
+[7153] Utils.pm:193> WARN - year field '1923c' in entry 'Arctowski.1923c' is not an integer - this will probably not sort properly.
+[7171] Utils.pm:193> WARN - year field '1923b' in entry 'Arctowski.1923b' is not an integer - this will probably not sort properly.
+[8156] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[8156] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[8156] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[8157] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[8828] bbl.pm:617> INFO - Writing 'Termika_raport.bbl' with encoding 'UTF-8'
+[9180] bbl.pm:720> INFO - Output to Termika_raport.bbl
+[9181] Biber.pm:110> INFO - WARNINGS: 4

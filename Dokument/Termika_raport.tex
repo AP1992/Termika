@@ -103,6 +103,7 @@ natbib=true]{
 
 \usepackage{booktabs}
 \usepackage[table,xcdraw]{xcolor}
+\usepackage{makecell}
 %\definecolor{titlepagecolor}{cmyk}{0,5.8,29.6,4.7}
 %
 \begin{document}
@@ -124,7 +125,7 @@ natbib=true]{
 	\chapter{Kenozoiczna historia termiczna centralnej Europy}
 	
 Na strumień cieplny w Europie w czasie kenozoiku wpływ miały przede wszystkim:
-\begin{itemize}[nolistsep]
+\begin{itemize}
 	\item \textbf{orogeneza alpejska} oraz powiązane z nią zjawiska: wulkanizm, ryftowanie, wynoszenie fragmentów litosfery przedpola;
 	\item \textbf{zlodowacenia plejstoceńskie};
 	\item \textbf{diapiryzm płaszcza}.
@@ -347,7 +348,24 @@ Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesie
  
  \section{Wulkanizm}
  
- Zjawiska wulkaniczne są zarówno bezpośrednią przyczyną podwyższenia lokalnej charakterystyki termicznej, jak i przejawem regionalnych fenomenów natury litosferycznej czy płaszczowej (odpowiedzialnych za wulkanizm), wpływających na wartości parametrów termicznych na danym obszarze. Bepośredni wpływ wulkanizmu na temperaturę litosfery wyraża się w powstawaniu aureoli termicznych wokół ciał magmowych intrudujących w skały górotworu. Dokładna ilościowa ocena wpływu termicznego intruzji na otaczający górotwór musi uwzględniać wiele czynników, m. in. geometrię ciała magmowego, różnice w przewodności cieplnej ośrodków, konwekcję w magmie, możliwość zainstnienia konwekcji wód porowych w skałach otoczenia; w mniejszym stopniu reakcje metamorficzne (dehydratacja, rozkład węglanów i inne) czy wolatylizację wód porowych \parencite{Annen.2017}. Grubość aureoli wokół intruzji odzwierciedla dynamikę tworzenia intruzji --- w wyniku pojedynczego zdarzenia bąd\'{z} na drodze wieloetapowego procesu \parencite{Galushkin.1997}. Wpływ termiczny intruzji na skały otoczenia może być ewaluowany w badaniach refleksyjności witrynitu (jako miernika przetworzenia termicznego materii organicznej; np. \cite{Annen.2017}; \cite{Fjeldskaar.2008}). Warunki termiczne panujące w \'{z}ródle, gdzie generowana jest magma (płaszczowe bąd\'{z} skorupowe) oraz tempo migracji magmy mogą być oceniane na podstawie badań inkuzji (np. gęstość CO$_{2}$, \cite{Ladenberger.2009}) lub składu chemicznego minerałów w ksenolitach (zrodlo). Stosunki zawartości pierwiastków w różnych minerałach, np. w dwóch piroksenach (termometr piroksen-piroksen??), mogą posłużyć do obliczenia temperatur zamknięcia systemu (zrodlo).
+ Zjawiska wulkaniczne są zarówno bezpośrednią przyczyną podwyższenia lokalnej charakterystyki termicznej, jak i przejawem regionalnych fenomenów natury litosferycznej czy płaszczowej (odpowiedzialnych za wulkanizm), wpływających na wartości parametrów termicznych na danym obszarze. Bepośredni wpływ wulkanizmu na temperaturę litosfery wyraża się w powstawaniu aureoli termicznych wokół ciał magmowych intrudujących w skały górotworu. Dokładna ilościowa ocena wpływu termicznego intruzji na otaczający górotwór musi uwzględniać wiele czynników, m. in. geometrię ciała magmowego, różnice w przewodności cieplnej ośrodków, konwekcję w magmie, możliwość zainstnienia konwekcji wód porowych w skałach otoczenia; w mniejszym stopniu reakcje metamorficzne (dehydratacja, rozkład węglanów i inne) czy wolatylizację wód porowych \parencite{Annen.2017}. Wpływ termiczny intruzji na skały otoczenia zanika w następujący sposób \parencite{Majorowicz.1975}:
+ 
+ \begin{itemize}
+ 	\item dla intruzji o geometrii warstwy grubości \(2d\): \\
+ 	\[\Delta T_{p} = d \Delta T_{0}{(\Pi\kappa{t})}^{-\frac{1}{2}}\] \\
+ 	
+ 	\item dla intruzji o geometrii kulistej i promieniu \(d\):
+ 	\[\Delta T_{p} = \frac{1}{6}\Pi{d^{3}}{\Delta T_{0}}{(\Pi \kappa{t})}^{-\frac{3}{2}}\]\\
+ 	\\
+ 	gdzie: \\
+ 	\(\Delta T_{0}\) --- początkowa różnica temperatur między skałami otoczenia a intruzją, \\
+ 	\(\Delta T_{p}\) --- różnica temperatur między skałami otoczenia a intruzją po czasie t, \\
+ 	\(\kappa = K/\rho{c}\), gdzie: \(K\) --- przewodność cieplna, \(c\) --- pojemność cieplna.
+\end{itemize}
+ 
+\noindent Według powyższych wzorów, intruzja o geometrii płyty wychładza się dziesięciokrotnie w czasie 0,5--0,25 mln lat, a intruzja o geometrii kulistej --- w czasie 0,31 mln lat \parencite{Majorowicz.1975}.	
+ 
+ Grubość aureoli wokół intruzji odzwierciedla dynamikę tworzenia intruzji --- w wyniku pojedynczego zdarzenia bąd\'{z} na drodze wieloetapowego procesu \parencite{Galushkin.1997}. Wpływ termiczny intruzji na skały otoczenia może być ewaluowany w badaniach refleksyjności witrynitu (jako miernika przetworzenia termicznego materii organicznej; np. \cite{Annen.2017}; \cite{Fjeldskaar.2008}). Warunki termiczne panujące w \'{z}ródle, gdzie generowana jest magma (płaszczowe bąd\'{z} skorupowe) oraz tempo migracji magmy mogą być oceniane na podstawie badań inkuzji (np. gęstość CO$_{2}$, \cite{Ladenberger.2009}) lub składu chemicznego minerałów w ksenolitach (zrodlo). Stosunki zawartości pierwiastków w różnych minerałach, np. w dwóch piroksenach (termometr piroksen-piroksen??), mogą posłużyć do obliczenia temperatur zamknięcia systemu (zrodlo). \ct{wszędzie powt. "mogą"}
  
  Wulkanizm kenzoiczny w Europie występuje w dwóch głównych środowiskach geotektonicznych, w odniesieniu do orogenezy alpejskiej: anorogenicznym i orogenicznym \parencite{Wilson.2006}. W Europie środkowej wulkanizm anorogeniczny w kenozoiku przejawia się w miejscach związanych z ECRIS i synchronicznie wyniesionymi masywami waryscyjskimi (Sudety, ryft Egeru, a dalej na zachód, na obszarze Niemiec - m. in. Vogelsberg, depresja północnoheska, Eifel). Wulkanizm typu orogenicznego, współczesny z subdukcją, był w rejonie Europy centralnej obecny na obszarze Karpat (w Polsce: Pieniny; \cite{Badura.2004}) i basenu panońskiego. 
  
@@ -361,7 +379,7 @@ Największe wartości strumienia cieplnego rejestrowane są w miejscach wyniesie
  
  Geneza zjawisk wulkanicznych w regionie Karpat i basenu panońskiego w oczywisty sposób wydaje się być powiązana z historią tektoniczną tego obszaru. Kwestią dyskusji jest, czy współcześnie obserwowane wysokie wartości parametrów termicznych związane są z postulowanym przez niektórych badaczy (np. \cite{Wilson.2001}) pióropuszem płaszcza w podłożu panońskim. Sygnatury izotopowe HIMU i FOZO, którymi charakteryzują się alkaliczne skały magmowe basenu panońskiego i Karpat oraz charakterystyka termiczna regionu przemawiają za hipotezą istnienia pióropusza. Jednakże, taki skład izotopowy może być efektem metasomatozy (niekoniecznie zaś pióropusza płaszcza), a wysokie wartości strumienia cieplnego wyjaśnia również ścienienie skorupy podczas ekstensji i płytkie usytuowanie LAB (ang. \textit{litosphere-astenophere boundary}). Wpływ epizodu ekstensyjnego na wartości strumienia cieplnego wygasa po ok. 100 milionach lat (McKenzie, 1978 --> znalezc), więc w płaszczu pod basenem panońskim wciąż mogą istnieć warunki do generacji stopu (prawdopodobnie w wyniku podwyższenia temperatury przez inną niż piórpusz płaszcza nieokreśloną perturbację natury płaszczowej). Przeciwko hipotezie pióropusza płaszcza pod basenem panońskim przemawia także brak kopułowatego wyniesienia regionu w topografii, sporadyczny charakter i rozproszenie przestrzenne przejawów wulkanizmu panońskiego oraz niskie tempo produkcji magmy \parencite{Harangi.2007}.    
  
- Wpływ intruzji na zwiększenie temperatur i strumienia cieplnego w ich pobliżu wygasa w ciągu kilku milionów lat (Fowler and Nisbet, 1982; Horv\'{a}th et al., 1986, za: Lenkey, 2002 --> zmienic). Anomalnie wysokie wartości strumienia cieplnego na obszarze Karpat Wschodnich mogą być wiązane z zakończoną około 0,1 miliona lat temu aktywnością wulkaniczną na tym obszarze. Śródkowomioceński wulkanizm kalcialkaliczny i zjawiska wulkaniczne występujące w przeszłości wzdłuż łuku Karpat po jego wewnętrznej stronie nie powinny mieć więc współcześnie wpływu na podwyższenie parametrów termicznych. Emisja ciepła radiogenicznego z powstałych wówczas utworów wulkanicznych, z uwagi na względnie małą zawartość pierwiastków promieniotówrczych, nie ma istotnego wpływu ilościowego na strumień cieplny. Obserwowane wysokie wartości temperatur i strumienia cieplnego mają więc zapewne \'{z}ródło w dolnej skorupie bąd\'{z} płaszczu; domniemywać można, że to samo \'{z}ródło odpowiadało za panoński wulkanizm mioceński. Kwaśny wulkanizm plioceński i plejstoceński, ze względu na epizodyczny charakter aktywności i niewielką objętość związanych z nim ciał magmowych, nie miał istotnego wpływu na lokalną termikę litosfery \parencite{Lenkey.2002}.
+ Wpływ intruzji na zwiększenie temperatur i strumienia cieplnego w ich pobliżu wygasa w ciągu kilku do kilkudziesięciu milionów lat (\cite{Lenkey.2002,Majorowicz.1975}). Anomalnie wysokie wartości strumienia cieplnego na obszarze Karpat Wschodnich mogą być wiązane z zakończoną około 0,1 miliona lat temu aktywnością wulkaniczną na tym obszarze. Śródkowomioceński wulkanizm kalcialkaliczny i zjawiska wulkaniczne występujące w przeszłości wzdłuż łuku Karpat po jego wewnętrznej stronie nie powinny mieć więc współcześnie wpływu na podwyższenie parametrów termicznych. Emisja ciepła radiogenicznego z powstałych wówczas utworów wulkanicznych, z uwagi na względnie małą zawartość pierwiastków promieniotówrczych, nie ma istotnego wpływu ilościowego na strumień cieplny. Obserwowane wysokie wartości temperatur i strumienia cieplnego mają więc zapewne \'{z}ródło w dolnej skorupie bąd\'{z} płaszczu; domniemywać można, że to samo \'{z}ródło odpowiadało za panoński wulkanizm mioceński. Kwaśny wulkanizm plioceński i plejstoceński, ze względu na epizodyczny charakter aktywności i niewielką objętość związanych z nim ciał magmowych, nie miał istotnego wpływu na lokalną termikę litosfery \parencite{Lenkey.2002}.
  
  Na obszarze Polski kenozoiczna aktywność wulkaniczna domeny karpacko-panońskiej zaznaczyła się w Pieninach, gdzie występują mioceńskie (11-13 mln lat temu) andezyty (np. Góra Wżar). Skały te, współcześnie odpreparowane przez erozję, pierwotnie powstały jako intruzje, płytko usytuowane pod powierzchnią terenu. Możliwe, że w miocenie istniały na obszarze Pienin aktywne wulkany, ale nie jest to czytelnie poświadczone w zapisie kopalnym \parencite{Krzeminska.2011}.
  
@@ -444,47 +462,56 @@ Hipoteza piórpuszy (diapirów) płaszcza jest współcześnie często przyjmowa
 
 \section{Pierwsze oznaczenia wartości parametrów geotermicznych dla ziem polskich}
 
-Pierwsze pomiary parametrów geotermicznych w otworach wiertniczych (temperatury, T, gradientu, dT/dz, i stopnia geotermicznego, dz/dT) na terenach polskich wykonywane były przez badaczy niemieckich na Górnym Śląsku w początkach XX w. W \citeyear{Henrich.1904} r. opublikowane zostały wyniki obserwacji termicznych Henricha poczynionych na odwiercie Paruschowitz V (w literaturze polskiej: Paruszowiec lub Paruszowice; np. \cite{Plewa.1966,Stenz.1936}) w Rybniku, będącym do końca XIX w. najgłębszym szybem na świecie \parencite{Stenz.1936,Henrich.1904}. Uzyskano wówczas (po przyjęciu poprawek) gradient termiczny 31,8 m/{\textcelsius}. Jest to jednak wynik wysoce niepewny, gdyż mierzono temperaturę rdzeni skalnych wydobytych na powierzchnię \parencite{Maj.2010,Rudzki.1909,Henrich.1904}. Michael i Quitzow (\citeyear{Michael.1910}) prowadzili badania na otworze Czuchów (dziś w dzielnicy Czerwionki--Leszczyn), który pozostawał najgłębszym w świecie do czasów I wojny światowej \parencite{Stenz.1936}. Temperatury mierzono przy użyciu termometrów zapuszczanych do otworów \parencite{Michael.1910}. W latach 20. XX w. licznymi badaniami na polu geoftermiki zaznaczył się ośrodek lwowski pod wodzą prof. H. Arctowskiego \parencite{Plewa.1966,Maj.2010}. Po II wojnie światowej badania geofizyczne w otworach wiertniczych, a wśród nich badania termiczne, znalazły się w fazie intensywnego rozwoju \parencite{Plewa.1994}. Pomiary temperatur w odwiertach przeprowadzane były również w pó\'{z}niejszch dekadach, m. in. w latach 50. i 60. przez E. Stenza, St. Pawłowskiego, St. Plewę, St. Depowskiego i L. Romana \parencite{Plewa.1966,Roman.1962,Stenz.1936}. \ct{dopisac gdzie były badania} Punktowe oznaczenia strumienia cieplnego wykonywali: Stenz \ct{\citeyear{Stenz.1954}} (1,23 \si[sticky-per]{\micro\calorie.cm^{-2}.s^{-1}} dla otworu Ciechocinek) oraz Plewa \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965,Plewa.1966}}. Pierwszą pracą, w której przedstawiono zestawienie wartości strumienia cieplnego w różnych miejscach Polski była publikacja Plewy z \citeyear{Plewa.1966} r.
+Pierwsze pomiary parametrów geotermicznych w otworach wiertniczych (temperatury, T, gradientu, dT/dz, i stopnia geotermicznego, dz/dT) na terenach polskich wykonywane były przez badaczy niemieckich na Górnym Śląsku w początkach XX w. W \citeyear{Henrich.1904} r. opublikowane zostały wyniki obserwacji termicznych Henricha poczynionych na odwiercie Paruschowitz V (w literaturze polskiej: Paruszowiec lub Paruszowice; np. \cite{Plewa.1966,Stenz.1936}) w Rybniku. Uzyskano wówczas (po przyjęciu poprawek) gradient termiczny 31,8 m/{\textcelsius}. Jest to jednak wynik wysoce niepewny, gdyż mierzono temperaturę rdzeni skalnych wydobytych na powierzchnię \parencite{Maj.2010,Rudzki.1909,Henrich.1904}. Michael i Quitzow (\citeyear{Michael.1910}) prowadzili badania na otworze Czuchów (dziś w dzielnicy Czerwionki--Leszczyn). Temperatury mierzono przy użyciu termometrów zapuszczanych do otworów (Fig. 1; \cite{Michael.1910}). Arctowski \parencite{Arctowski.1923a} pisał, że były to badania ,,pełne błędów''. W latach 20. XX w. licznymi badaniami na polu geoftermiki zaznaczył się ośrodek lwowski pod wodzą prof. H. Arctowskiego \parencite{Plewa.1966,Maj.2010}. Po II wojnie światowej badania geofizyczne w otworach wiertniczych, a wśród nich badania termiczne, znalazły się w fazie intensywnego rozwoju \parencite{Plewa.1994}. Pomiary temperatur w odwiertach przeprowadzane były również w pó\'{z}niejszch dekadach, m. in. w latach 50. i 60. przez E. Stenza, St. Pawłowskiego \ct{(Łeba)}, St. Plewę, St. Depowskiego i L. Romana (Magnuszew IG-1) \parencite{Plewa.1966,Roman.1962,Stenz.1936}. \ct{dopisac gdzie były badania} Punktowe oznaczenia strumienia cieplnego wykonywali: Stenz \ct{\citeyear{Stenz.1954}} (1,23 \si[sticky-per]{\micro\calorie.cm^{-2}.s^{-1}} dla otworu Ciechocinek) oraz Plewa \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965,Plewa.1966}}. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.6\linewidth]{../../../Desktop/Termika/Michael}
+	\caption{Średnie wartości pomiarów temperatury w otworze Czuchów \parencite{Michael.1910}}
+\end{figure}
+
 	
 \subsubsection{Prace Arctowskiego i in. (lata 20. XX w.)}
 
-W latach 20. XX w. H. Arctowski, profesor Uniwersytetu Jana Kazimierza we Lwowie, koordynował prace badawcze z zakresu geotermii na ok. 150 otworach wiertniczych ropy naftowej na Podkarpaciu \parencite{Maj.2010}. Wyniki owych pomiarów, jak i opisy procedury pomiarowej były wielokrotnie publikowane (m. in. \cite{Arctowski.1923c,Arctowski.1923b,Arctowski.1923a}). Arctowski samodzielnie opracował technikę pomiaru temperatur w otworach, eksperymentował z wykorzystaniem różnych termometrów, w tym termometrów medycznych. Badacz ten rozważał możliwe czynniki zakłócające pomiar, takie jak: temperatura na powierzchni, wpływ cyrkulacji wód podziemnych itp. S. Zych i J. Moniak, należący do współpracowników H. Arctowskiego, również prowadzili w końcu lat 20. prace geotermiczne, m. in. przy poszukiwaniu gorących solanek w Ciechocinku \parencite{Maj.2010}.
+W latach 20. XX w. (od 1922; \cite{Olpinska.1988}) H. Arctowski, dyrektor Instytutu Geofizyki i Meteorologii Uniwersytetu Jana Kazimierza we Lwowie, koordynował prace badawcze z zakresu geotermii na ok. 150 otworach wiertniczych ropy naftowej na Podkarpaciu \parencite{Maj.2010,Olpinska.1988}. Wyniki owych pomiarów, jak i opisy procedury pomiarowej były wielokrotnie publikowane (m. in. \cite{Arctowski.1923c,Arctowski.1923b,Arctowski.1923a}). Arctowski samodzielnie opracował technikę pomiaru temperatur w otworach, eksperymentował z wykorzystaniem różnych termometrów. Pomiary temperatur przeprowadzano na różnych głębokościach (co 20--50 m), z jednoczesnym zastosowaniem trzech termometrów lekarskich maksymalnych, umieszczonych w obiążonej szklanej probówce zatopionej od góry parafiną. Probówkę zapuszczano do otworu na lince stalowej o średnicy 1 mm.Temperatury mierzono w nocy, podczas przerw w wierceniach. Działalność naukową Instytutu przerwał wybuch wojny, wskutek czego wielu z prac nie ukończono i nie opublikowano \parencite{Olpinska.1988}. Arctowski w swoich pracach rozważał możliwe czynniki zakłócające pomiar, takie jak: temperatura na powierzchni, wpływ cyrkulacji wód podziemnych itp. S. Zych i J. Moniak, należący do współpracowników H. Arctowskiego, również prowadzili w końcu lat 20. prace geotermiczne, m. in. przy poszukiwaniu gorących solanek w Ciechocinku \parencite{Maj.2010}.
+
+%Wartości parametrów geotermicznych wyznaczone w pracach Arctowskiego (\citeyear{Arctowski.1923b,Arctowski.1923a}); \textit{Z} --- głębokość otworu, \textit{z} --- głębokość pomiaru, \textit{H} --- stopień geotermiczny, \textit{b.d.} --- brak danych
 
 \begin{sidewaystable}[h]
 	\centering
-	\caption{Wartości parametrów geotermicznych wyznaczone w pracach Arctowskiego (\citeyear{Arctowski.1923b,Arctowski.1923a}); \textit{Z} --- głębokość otworu, \textit{z} --- głębokość pomiaru, \textit{H} --- stopień geotermiczny, \textit{b.d.} --- brak danych}
+	\caption{Wartości temperatury i stopnia geotermicznego wyznaczone w pracach Arctowskiego \citeyear{Arctowski.1923b,Arctowski.1923a}; \textit{Z} --- głębokość odwiertu, \textit{z} --- głębokość pomiaru, \textit{H} --- stopień geotermiczny, \textit{b.d.} --- brak danych}
 	\label{my-label}
-	\renewcommand\arraystretch{2} % increase spacing between rows
-	\resizebox{\textwidth}{!}{%
-		\begin{tabular}{@{}ccccp{4.5cm}lllll@{}}
-			\toprule
-			Źródło & Miejsce & Data & Odwiert & Stan odwiertu & {Z [m]} & {\begin{tabular}{@{}p{4.5cm}@{}}Czas pozostawienia \newline termometru w otworze [h]\end{tabular}} & {z [m]} & {Temperatura [\textcelsius]} & {H [m/\textcelsius]} \\ \midrule
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}8,3 & \cellcolor[HTML]{EFEFEF} \\
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}200 & \cellcolor[HTML]{EFEFEF}12,1 & \cellcolor[HTML]{EFEFEF} \\
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}750 & \cellcolor[HTML]{EFEFEF}22,3 & \cellcolor[HTML]{EFEFEF} \\
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}880 & \cellcolor[HTML]{EFEFEF}25,6 & \cellcolor[HTML]{EFEFEF} \\
-			& \cellcolor[HTML]{EFEFEF} & \multirow{-5}{*}{5.01.1923} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}Prezydent No 1.} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}W trakcie wiercenia} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}926} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}7} & \cellcolor[HTML]{EFEFEF}921 & \cellcolor[HTML]{EFEFEF}24,7 & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}\begin{tabular}{p{4cm}}53,9 (750--200 m), \newline 48,0 (880--50 m), \newline 39,4 (220--50 m \newline i 880--750 m)\end{tabular}} \\
-			& \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}5.01.1923 & Mougeot No 2. & 2--tyg. stójka & 772 & 19 & 50 & 7,9 & b.d. \\
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}7,5 & \cellcolor[HTML]{EFEFEF} \\
-			& \cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}250 & \cellcolor[HTML]{EFEFEF}11,0 & \cellcolor[HTML]{EFEFEF} \\
-			\multirow{-9}{*}{Arctowski, 1923a} & \multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}Bitków} & \multirow{-3}{*}{7.01.1923} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}Valotte No 3.} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}\begin{tabular}{p{4.5cm}}W trakcie wiercenia \newline (praca przerwana)\end{tabular}} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}407} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}21} & \cellcolor[HTML]{EFEFEF}350 & \cellcolor[HTML]{EFEFEF}12,8 & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}56,6} \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 10 & 9,6 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 25 & 9,7 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 70 & 9,7 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 75 & 10,0 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 100 & 10,5 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 150 & 11,6 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 200 & 12,5 &  \\
-			\cellcolor[HTML]{EFEFEF} &  & \cellcolor[HTML]{EFEFEF} &  &  &  &  & 250 & 13,6 &  \\
-			\multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}Arctowski, 1923b} & \multirow{-9}{*}{Borysław} & \multirow{-9}{*}{\cellcolor[HTML]{EFEFEF}17--20.04.1923} & \multirow{-9}{*}{Ratoczyn 5} & \multirow{-9}{*}{Otwór opuszczony} & \multirow{-9}{*}{b.d.} & \multirow{-9}{*}{b.d.} & 300 & 14,4 & \multirow{-9}{*}{b.d.} \\ \bottomrule
-	\end{tabular}}
+		\begin{tabular}{llllllll}
+		\hline
+		Źródło & Miejsce & Odwiert & Stan odwiertu & Z [m] & z [m] & T [\textcelsius] & H [m{\textcelsius}^{-1}] \\ \hline
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}8,3 & \cellcolor[HTML]{EFEFEF} \\
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}200 & \cellcolor[HTML]{EFEFEF}12,1 & \cellcolor[HTML]{EFEFEF} \\
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}750 & \cellcolor[HTML]{EFEFEF}22,3 & \cellcolor[HTML]{EFEFEF} \\
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}880 & \cellcolor[HTML]{EFEFEF}25,6 & \cellcolor[HTML]{EFEFEF} \\
+		&  & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}Prezydent No 1.} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}W trakcie wiercenia} & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}926} & \cellcolor[HTML]{EFEFEF}921 & \cellcolor[HTML]{EFEFEF}24,7 & \multirow{-5}{*}{\cellcolor[HTML]{EFEFEF}\makecell{53,9(750--200 m), \\ 48,0 (880--50 m), \\ 39,4 (220--50 m \\ i 880--750 m)}} \\
+		&  & Mougeot No 2. & 2--tyg. stójka & 772 & 50 & 7,9 & b.d. \\
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}50 & \cellcolor[HTML]{EFEFEF}7,5 & \cellcolor[HTML]{EFEFEF} \\
+		&  & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF} & \cellcolor[HTML]{EFEFEF}250 & \cellcolor[HTML]{EFEFEF}11,0 & \cellcolor[HTML]{EFEFEF} \\
+		\multirow{-9}{*}{Arctowski, 1923a} & \multirow{-9}{*}{Bitków} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}Valotte No 3.} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}Wiercenie przerwane} & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}407} & \cellcolor[HTML]{EFEFEF}350 & \cellcolor[HTML]{EFEFEF}12,8 & \multirow{-3}{*}{\cellcolor[HTML]{EFEFEF}56,6} \\
+		&  &  &  &  & 10 & 9,6 &  \\
+		&  &  &  &  & 25 & 9,7 &  \\
+		&  &  &  &  & 70 & 9,7 &  \\
+		&  &  &  &  & 75 & 10,0 &  \\
+		&  &  &  &  & 100 & 10,5 &  \\
+		&  &  &  &  & 150 & 11,6 &  \\
+		&  &  &  &  & 200 & 12,5 &  \\
+		&  &  &  &  & 250 & 13,6 &  \\
+		\multirow{-9}{*}{Arctowski, 1923b} & \multirow{-9}{*}{Borysław} & \multirow{-9}{*}{Ratoczyn 5} & \multirow{-9}{*}{Odwiert opuszczony} & \multirow{-9}{*}{b.d.} & 300 & 14,4 & \multirow{-9}{*}{b.d.} \\ \hline
+	\end{tabular}
 \end{sidewaystable}
 
 \section{Rys historyczny modelowania termiki obszaru Polski}
 
+Pierwsze znaczące publikacje z zakresu modelowania termiki obszaru Polski --- wyznaczania wartości parametrów geotermicznych i obrazowania ich przestrzennej oraz wgłębnej zmienności --- powstały po II wojnie światowej. 
+
 \subsubsection{Różycki, 1948. \textit{Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach sąsiednich}} \nocite{Rozycki.1948}
 Notatka z referatu wygłoszonego w 1947 r. zawiera skrótowy opis poglądów Różyckiego na charakterystykę geotermiczną powierzchni kraju. Różycki wskazuje na dużą zmienność wielkości geotermicznych na terenie Polski. Jednocześnie zwraca uwagę na skąpy stan i niepewną wiarygodność dotychczasowych badań dla obszaru Polski (wzmiankowane badania Arctowskiego i jego uczniów; \ct{cite{bibid}}), pozwalające jedynie na wstępną i szkicową syntezę zebranych danych. Autor wyróżnia kilka regionów geotermicznych górnej litosfery w Polsce, mając na względzie ich historię tektoniczną (określenia w cudzysłowach za \cite{Rozycki.1948}):
- \begin{itemize}[nolistsep]
+ \begin{itemize}%[nolistsep]
  	\item Polska północno-wschodnia --- region ,,chłodny'' (stopień geotermiczny: 40--100 m); obszar kratoniczny;
  	\item Polska południowa i południowo--zachodnia --- region ,,przeciętnie ciepły'' (średni stopień geotermiczny: 30--40 m); strefa fałdowań hercyjskich i kimeryjskich oraz zapadlisko przedkarpackie;
  	\item obszar karpacki --- region ,,nieco ochłodzony'' (stopień geotermiczny: 40--45 m);
@@ -494,7 +521,7 @@ Notatka z referatu wygłoszonego w 1947 r. zawiera skrótowy opis poglądów Ró
  \end{itemize}
 Ponadto, Różycki podkreśla, że przebieg strefy Teisseyre'a--Tornquista (będącej granicą między obszarami o różnym wieku) znajduje odzwierciedlenie w rozmieszczeniu izolinii średniego stopnia geotermicznego na obszarze Polski.
  
-W zbiorze opublikowano szkicową mapę rozmieszczenia średniego stopnia geotermicznego w Polsce wraz z miejscami i wartościami pomiarów z ważniejszych wierceń (Fig. 1). Została ona opracowana na podstawie danych z otworów: Łeba, Pisz, Szubin, Aleksandrów, Paruszowiec i Krosno, oraz wartości pomierzonych w odwiertach w krajach ościennych \parencite{Plewa.1966}.
+W zbiorze opublikowano szkicową mapę rozmieszczenia średniego stopnia geotermicznego w Polsce wraz z miejscami i wartościami pomiarów z ważniejszych wierceń (Fig. 1). Została ona opracowana na podstawie danych z otworów: Łeba, Pisz, Szubin, Aleksandrów, Paruszowiec i Krosno, oraz wartości pomierzonych w odwiertach w krajach ościennych \parencite{Plewa.1966}. Dane, których użył Różycki dla otworów: Pisz i Łeba były zawyżone względem rzeczywistych wartości, co wpłynęło na nieprawidłowy rozkład gradientu geotermicznego dla Polski północno--wschodniej na zamieszczonej w publikacji mapie \parencite{Stenz.1954}. Rozdzielczość przestrzenna danych, na podstawie których skonstruowano mapę, była niska (zwłaszcza poza obszarami nawiercanymi dla celów naftowych), przez co otrzymany model rozkładu geoterm mógł być jedynie szkicowy. Praca Różyckiego stała się punktem wyjścia odniesieniem dla pó\'{z}niejszych badaczy termiki litosfery (np. \cite{Plewa.1966,Majorowicz.1971}).
 	
 \subsubsection{Plewa, 1966. \textit{Regionalny obraz parametrów geotermicznych obszaru Polski}}
 Praca Plewy z 1966 r. zawiera zestawienie danych geotermicznych (stopnia i gradientu geotermicznego) dla 27 otworów, w tym 11 opisanych we wcześniejszej literaturze. Publikowane pomiary były zbierane od 1953 r.; autor wykonywał również w ramach swoich wcześniejszych prac oznaczenia stopnia geotermicznego i strumienia cieplnego w wybranych miejscach Polski oraz badania własności termicznych skał \ct{parencite{Plewa.1961,Plewa.1963a,Plewa.1963b,Plewa.1965}}. Zamieszczono mapę rozkładu gradientu geotermicznego na obszarze Polski, opracowaną z wykorzystaniem wielomianów 1., 2. i 3. stopnia. Obliczenia wykonano w Katedrze Geodezji Wyższej i Obliczeń Geodezyjnych Akademii Górniczo-Hutniczej na matematycznej maszynie cyfrowej, dla różnych przedziałów głębokości. Autor stwierdził ogólną zgodność swoich wyników (dla modelu uzyskanego w oparciu o wielomian 3. stopnia) z mapą Różyckiego \citeyear{Rozycki.1948}. 
@@ -503,27 +530,38 @@ W publikacji przedstawiono wartości powierzchniowego strumienia cieplnego ziemi
 
 \begin{table}[h]
 	\centering
-	\caption{Średnie wartości gęstości strumienia cieplnego dla otworów opisanych w pracy \cite{Plewa.1966}; * --- brak stabilności termicznej podczas pomiaru \parencite{Plewa.1994}, ** --- G i $\lambda$ zmienne z głębokością \parencite{Plewa.1966}}
+	\caption{Średnie wartości gęstości strumienia cieplnego dla otworów opisanych w pracy \cite{Plewa.1966}; ${}^{1}$ --- brak stabilności termicznej podczas pomiaru \parencite{Plewa.1994}, ${}^{2}$ --- wartość q zaniżona --- zaniżona wartość przewodności właściwej, $\lambda$, mierzonej na próbkach poddanych wieloletniemu wpływowi czynników atmosferycznych \parencite{Plewa.1994}, ${}^{3}$ --- G i $\lambda$ zmienne z głębokością \parencite{Plewa.1966}}
 	\label{my-label}
 	\begin{tabular}{@{}lllll@{}}
 		\toprule
 		Lp. & Nazwa otworu     & G    & $\lambda$ & q    \\ \midrule
 		1   & Bartoszyce IG--1 & 1,54 & 0,0052                 & 0,80 \\
-		2   & Mielnik IG--1*    & 1,64 & 0,0054                 & 0,89 \\
+		2   & Mielnik IG--1    & {1,64}^{1} & 0,0054                 & 0,89 \\
 		3   & Wschowa 1        & 3,05 & 0,0056                 & 1,71 \\
 		4   & Ostrzeszów 1     & 2,22 & 0,0060                 & 1,33 \\
-		5   & Żółcza 1         & 3,45 & 0,0032?                & 1,10 \\
-		6   & Zakopane IG--1   & **    & **                      & 1,33 \\ \bottomrule
+		5   & Żółcza 1        & 3,45 & {0,0032?}^{2}                & 1,10 \\
+
+		6   & Zakopane IG--1   & {}^{3}    & {}^{3}                      & 1,33 \\ \bottomrule
 	\end{tabular}
 \end{table}
 
-\subsubsection{Prace Majorowicza (lata 70. XX w.)}
+\subsubsection{Majorowicz, 1971. \textit{Przebieg wartości stopnia geotermicznego w Polsce w przedziale głębokości 200--2500 m} i pó\'{z}niejsze prace Majorowicza}
+Począwszy od lat 70. XX w. J. Majorowicz przedstawił (samodzielnie bądź we współautorstwie) szereg prac na temat charakterystyki geotermicznej obszaru Polski. Pierwsza z nich ukazała się w roku 1971. W publikacji zamieszczono wartości gradientu i stopnia geotermicznego dla 22 otworów z obszaru Polski (w tym 10 na podstawie nowych pomiarów), w których przeprowadzono dokładne oznaczenia termiczne. Wartości H i G podano w uśrednieniu dla przedzialu głębokości 200--2500 m. Zdaniem Majorowicza, taki zabieg umożliwił korelację uzyskanych wartości z rzeźbą podłoża krystalicznego na danym obszarze. W oparciu o ustalone wartości H wykonano (metodą interpolacji graficznej) mapę przebiegu izolinii stopnia geotermicznego w Polsce w przedziale 200--2500 m. Majorowicz odnotował, że omawiana mapa wykazuje dużą zbieżność z mapą wartości H dla przedziału 200--2000 m, zaproponowaną w pracy Plewy (\citeyear{Plewa.1966}).
+
+\subsubsection{Węsierska, 1973. \textit{A study of terrestial heat flux density in Poland}} 
+
+\subsubsection{Motyl-Rakowska i Sokołowski, 1980. \textit{Temperatures at the base of the Permian-Cainozoic stratum in Poland}}
+
+\subsubsection{Plewa, \citeyear{Plewa.1994}. \textit{Rozkład parametrów geotermalnych na obszarze Polski} i wcześniejsze prace Plewy}
+
+Publikacja powstała jako część grantu pt. ,,Badanie rozkładu parametrów geotermicznych wybranych obszarów górniczych'', realizowanego w latach 1992--1994. W pracy znajdują się rozdziały poświęcone rozkładowi pola termicznego i cieplnego na obszarze Polski. Zamieszczono wyniki licznych badań otworowych temperatury (wraz z krytycznym omówieniem) oraz mapy izoterm na różnych głębokościach, skonstruowane w oparciu o dane z otworów (z Polski i krajów sąsiednich), dla których wyznaczano strumień cieplny Ziemi. Wartości strumienia cieplnego pomierzone w otworach na terytorium Polski zebrano w formie tabeli, mieszczącej 87 pozycji z 84 przebadanych otworów (w 3 z otworów wartość q wyznaczano dwukrotnie). Wzmiankowane oznaczenia strumienia cieplnego stały się podstawą dla wykonania umieszczonej i opisanej w pracy mapy izolinii strumienia cieplnego na obszarze Polski. Książka zawiera obszerne omówienie właściwości termicznych skał osadowych występujących w podłożu poszczególnych regionów Polski, ze szczególnym odniesieniem do obszarów górniczych. Opisano również skały z terenu Polski pod względem generowanego ciepłą radiogenicznego.
+
+\subsubsection{Gordienko i Zavgorodnyaya, 1996. \textit{Estimation of heat flow in Poland}}
+
+\subsubsection{Karwasiecka i Bruszewska, 1997. \textit{Gęstość powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}
 
 \iffalse
-do znalezienia:
-
-Estimation of heat flow in Poland / Vadim V. Gordenko, O.V. Zavgorodnaja 	
-W: Acta Geophysica Polonica. 0001-5725. 1996, nr 2, s. 173-180 
+do znalezienia: 
 
 Motyl-Rakowska, J., Sokolowski, J.
 Temperatures at the base of the Permian-Cainozoic stratum in Poland
@@ -539,22 +577,26 @@ Geothermal Atlas of Europe
 [Geotermika ziozo rud miedzi monokliny przedsudeckiej.]
 Downorowicz, S. 
 
+ Karwaaiecka M.l  Atlas geologiczny Górnośląskiego  Zagłębia Węglowego. 
+Wyd.  Geologiczne,  Warszawa  1980.
+
 Wȩsierska, M.
 A study of terrestial heat flux density in Poland
-(1973) Publ. Inst. Geophys. Pol. Acad. Sc. (Materialy i Prace), 60, pp. 135-144. Cited 2 times.
+(1973) Publ. Inst. Geophys. Pol. Acad. Sc. (Materialy i Prace), 60, pp. 135-144. Cited 2 times. (G0, 135)
 
 KARWASIECKA M. i BRUSZEWSKA B. 1997 — Gestosc
 powierzchniowego strumienia cieplnego ziemi na obszarze Polski.
 CAG Pañstw. Inst. Geol., nr 060 21/98
 \fi
 
-\subsubsection{Lata 90. XX w.}
-
-\subsubsection{Obszar Polski w pracach dotyczących rozkładu gęstości strumienia cieplnego w Europie}
-
 \chapter{Rozpoznanie strumienia cieplnego na obszarze Polski}
 
+\section{Wielkie eksperymenty sejsmiczne (1997--2003)}
+%https://www.pgi.gov.pl/projekt-polonaise/9998-projekt-polonaise.html
+
 \chapter{Teoretyczne podstawy modelowania stanu termicznego litosfery}
+
+%Plewa, 1994
 
 \chapter{Parametry materiałowe skał}
 
