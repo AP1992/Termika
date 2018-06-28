@@ -30,12 +30,12 @@
 \contentsline {subsubsection}{W\IeC {\k e}sierska, 1973. \textit {A study of terrestial heat flux density in Poland}}{23}
 \contentsline {subsubsection}{Motyl-Rakowska i Soko\IeC {\l }owski, 1980. \textit {Temperatures at the base of the Permian-Cainozoic stratum in Poland}}{23}
 \contentsline {subsubsection}{Plewa, \citeyear {Plewa.1994}. \textit {Rozk\IeC {\l }ad parametr\IeC {\'o}w geotermalnych na obszarze Polski} i wcze\IeC {\'s}niejsze prace Plewy}{23}
-\contentsline {subsubsection}{Gordienko i Zavgorodnyaya, 1996. \textit {Estimation of heat flow in Poland}}{23}
-\contentsline {subsubsection}{Karwasiecka i Bruszewska, 1997. \textit {G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}{23}
-\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{26}
-\contentsline {section}{\numberline {3.1}Wielkie eksperymenty sejsmiczne (1997--2003)}{26}
-\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{27}
-\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{28}
-\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{29}
-\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{30}
-\contentsline {chapter}{Bibliografia}{31}
+\contentsline {subsubsection}{Gordienko i Zavgorodnyaya, 1996. \textit {Estimation of heat flow in Poland}}{24}
+\contentsline {subsubsection}{Karwasiecka i Bruszewska, 1997. \textit {G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}{24}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{27}
+\contentsline {section}{\numberline {3.1}Wielkie eksperymenty sejsmiczne (1997--2003)}{27}
+\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{28}
+\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{29}
+\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{30}
+\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{31}
+\contentsline {chapter}{Bibliografia}{32}
