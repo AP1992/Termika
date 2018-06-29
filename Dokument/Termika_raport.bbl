@@ -1292,6 +1292,44 @@
       \endverb
       \keyw{Gradient termiczny;Wulkanizm}
     \endentry
+    \entry{Garetsky.2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7849f2ce3956a36d95a47c21edb41faa}{%
+           family={Garetsky},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d13b66a34d3dff32280836d19d4ece48}{%
+           family={Karatayev},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \strng{fullhash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \strng{bibnamehash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \strng{authorbibnamehash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \strng{authornamehash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \strng{authorfullhash}{87f66919442b2a4e2f4d6032473c1c3c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geologija}
+      \field{number}{60}
+      \field{title}{{Klaipėda tectonic sigmoid}}
+      \field{year}{2008}
+      \field{pages}{33\bibrangedash 38}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.6001/geologija.vi4.1508
+      \endverb
+    \endentry
     \entry{Goes.1999}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=7495e28c874a9bcf92376dfd6d734e2e}{%
@@ -1334,6 +1372,42 @@
       \field{year}{1999}
       \field{pages}{1928\bibrangedash 1931}
       \range{pages}{4}
+    \endentry
+    \entry{Gordienko.1996}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e01e178950248a439402c12161eaef37}{%
+           family={Gordienko},
+           familyi={G\bibinitperiod},
+           given={V.V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e521a780cd338c78518922adb4119f7}{%
+           family={Zavgorodnyaya},
+           familyi={Z\bibinitperiod},
+           given={O.V.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \strng{fullhash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \strng{bibnamehash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \strng{authorbibnamehash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \strng{authornamehash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \strng{authorfullhash}{9ed54c9cbb6ab74ad51e8c66912c7d53}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Geoph. Pol.}
+      \field{number}{2}
+      \field{title}{{Estimation of heat flow in Poland}}
+      \field{volume}{44}
+      \field{year}{1996}
+      \field{pages}{173\bibrangedash 181}
+      \range{pages}{9}
     \endentry
     \entry{Granet.1995}{article}{}
       \name{author}{3}{}{%
@@ -2484,6 +2558,38 @@
       \verb 10.1016/j.quascirev.2006.09.005
       \endverb
     \endentry
+    \entry{Lukosevicius.1993}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=454c0c574f63c6884d8e3f952c9a37e7}{%
+           family={Lukoševičius},
+           familyi={L\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Orkustofnun --- National Energy Authority of Iceland}%
+      }
+      \list{location}{1}{%
+        {Reykjavik}%
+      }
+      \strng{namehash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \strng{fullhash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \strng{bibnamehash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \strng{authorbibnamehash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \strng{authornamehash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \strng{authorfullhash}{454c0c574f63c6884d8e3f952c9a37e7}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Thermal energy production from low temperature geothermal brine --- technological aspects and energy efficiency}}
+      \field{volume}{10}
+      \field{year}{1993}
+    \endentry
     \entry{Maj.2010}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=970c021638f1eabdc1e163b53b871700}{%
@@ -2514,6 +2620,35 @@
       \field{pages}{77\bibrangedash 82}
       \range{pages}{6}
     \endentry
+    \entry{Majorowicz.1971}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cba13a441f4f1452e3b4c35176bf38d2}{%
+           family={Majorowicz},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{fullhash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{bibnamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authorbibnamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authornamehash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \strng{authorfullhash}{cba13a441f4f1452e3b4c35176bf38d2}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geol. Quart.}
+      \field{number}{4}
+      \field{title}{{Przebieg wartości stopnia geotermicznego w Polsce w przedziale głębokości 200--2500 m}}
+      \field{volume}{15}
+      \field{year}{1971}
+      \field{pages}{891\bibrangedash 900}
+      \range{pages}{10}
+    \endentry
     \entry{Majorowicz.1975}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=cba13a441f4f1452e3b4c35176bf38d2}{%
@@ -2533,7 +2668,6 @@
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Geoph. Pol.}
@@ -2776,6 +2910,46 @@
       \verb{doi}
       \verb 10.3190/jgeosci.068
       \endverb
+    \endentry
+    \entry{Motuza.2003}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=1,uniquepart=given,hash=e80943e50ec54ceb16322eca9fb9aba6}{%
+           family={Motuza},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=268d61932c6be1ac1bc7dffcef250f93}{%
+           family={{Š}liaupa},
+           familyi={Š\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9630bd4904286c8b390bfb1f03490683}{%
+           family={Stephenson},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4595c934deca0d2f0e0ad8808b990d1f}
+      \strng{fullhash}{1de034db8c3ac83fd81ba22725fd6036}
+      \strng{bibnamehash}{1de034db8c3ac83fd81ba22725fd6036}
+      \strng{authorbibnamehash}{1de034db8c3ac83fd81ba22725fd6036}
+      \strng{authornamehash}{4595c934deca0d2f0e0ad8808b990d1f}
+      \strng{authorfullhash}{1de034db8c3ac83fd81ba22725fd6036}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Research Abstracts}
+      \field{number}{06163}
+      \field{title}{{Genesis of high intensity intracratonic heat flow anomalies: case study of Western Lithuania}}
+      \field{volume}{5}
+      \field{year}{2003}
     \endentry
     \entry{Nielsen.2007}{article}{}
       \name{author}{3}{}{%
@@ -3618,7 +3792,6 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Geologija}
@@ -3629,6 +3802,113 @@
       \verb{doi}
       \verb 10.6001/geologija.v53i2.1851
       \endverb
+    \endentry
+    \entry{Sliaupa.2010}{proceedings}{}
+      \name{editor}{5}{uniquelist=4}{%
+        {{uniquename=0,uniquepart=base,hash=268d61932c6be1ac1bc7dffcef250f93}{%
+           family={{Š}liaupa},
+           familyi={Š\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=e80943e50ec54ceb16322eca9fb9aba6}{%
+           family={Motuza},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=70c663397cc24338f55c660553110dd0}{%
+           family={Korabliova},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ac9fad3f6ea18ac68ca5e7c669ffb658}{%
+           family={Ciuraite},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=839fb98eefde7fa2f0fff152040b0166}{%
+           family={Puronas},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Geothermal Association}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the World Geothermal Congress}%
+      }
+      \strng{namehash}{e637f4116b9011617f2d103fe343b5f2}
+      \strng{fullhash}{1184df9ede79595dff24356150888ac5}
+      \strng{bibnamehash}{1184df9ede79595dff24356150888ac5}
+      \strng{editorbibnamehash}{1184df9ede79595dff24356150888ac5}
+      \strng{editornamehash}{e637f4116b9011617f2d103fe343b5f2}
+      \strng{editorfullhash}{1184df9ede79595dff24356150888ac5}
+      \field{sortinit}{Š}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{{Geothermal potential of hot granites of Lithuania}}
+      \field{year}{2010}
+    \endentry
+    \entry{Sliaupa.2005}{article}{}
+      \name{author}{5}{uniquelist=4}{%
+        {{uniquename=0,uniquepart=base,hash=268d61932c6be1ac1bc7dffcef250f93}{%
+           family={{Š}liaupa},
+           familyi={Š\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=e80943e50ec54ceb16322eca9fb9aba6}{%
+           family={Motuza},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=70c663397cc24338f55c660553110dd0}{%
+           family={Korabliova},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=c09385d38b6f800e2e642903d20cce38}{%
+           family={Motuza},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=8fb4bc956b7e28361b2d4031d96a2620}{%
+           family={Zaludiene},
+           familyi={Z\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ce8e9406dc68d2deaddd403e15437c6}
+      \strng{fullhash}{245eea902debe61ba92bced6df11d24e}
+      \strng{bibnamehash}{245eea902debe61ba92bced6df11d24e}
+      \strng{authorbibnamehash}{245eea902debe61ba92bced6df11d24e}
+      \strng{authornamehash}{3ce8e9406dc68d2deaddd403e15437c6}
+      \strng{authorfullhash}{245eea902debe61ba92bced6df11d24e}
+      \field{sortinit}{Š}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technika Poszukiwań Geologicznych: geosynoptyka i geotermia}
+      \field{number}{3}
+      \field{title}{{Występowanie gorących granitów w południowo-zachodnim rejonie zachodniej Litwy --- nowe perspektywy dla geotermii}}
+      \field{volume}{44}
+      \field{year}{2005}
+      \field{pages}{17\bibrangedash 34}
+      \range{pages}{18}
     \endentry
     \entry{Sobczyk.2015}{article}{}
       \name{author}{4}{}{%
@@ -4259,6 +4539,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{bibid}
 \endrefsection
 \endinput
 
