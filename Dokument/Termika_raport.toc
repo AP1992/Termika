@@ -17,25 +17,28 @@
 \contentsline {section}{\numberline {1.4}Wulkanizm}{13}
 \contentsline {subsubsection}{Wulkanizm karpacki i pano\IeC {\'n}ski}{14}
 \contentsline {subsubsection}{Wulkanizm sudecki i ryftu Egeru}{15}
-\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{18}
-\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{18}
-\contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{19}
-\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{21}
-\contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci parametr\IeC {\'o}w geotermicznych dla ziem polskich}{21}
-\contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{21}
-\contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{22}
-\contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{22}
-\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{23}
-\contentsline {subsubsection}{Majorowicz, 1971. \textit {Przebieg warto\IeC {\'s}ci stopnia geotermicznego w Polsce w przedziale g\IeC {\l }\IeC {\k e}boko\IeC {\'s}ci 200--2500 m} i p\IeC {\'o}\'{z}niejsze prace Majorowicza}{24}
-\contentsline {subsubsection}{W\IeC {\k e}sierska, 1973. \textit {A study of terrestial heat flux density in Poland}}{24}
-\contentsline {subsubsection}{Motyl-Rakowska i Soko\IeC {\l }owski, 1980. \textit {Temperatures at the base of the Permian-Cainozoic stratum in Poland}}{24}
-\contentsline {subsubsection}{Plewa, \citeyear {Plewa.1994}. \textit {Rozk\IeC {\l }ad parametr\IeC {\'o}w geotermalnych na obszarze Polski} i wcze\IeC {\'s}niejsze prace Plewy}{24}
-\contentsline {subsubsection}{Gordienko i Zavgorodnyaya, \citeyear {Gordienko.1996}. \textit {Estimation of heat flow in Poland}}{24}
-\contentsline {subsubsection}{Karwasiecka i Bruszewska, 1997. \textit {G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}{25}
-\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{28}
-\contentsline {section}{\numberline {3.1}Wielkie eksperymenty sejsmiczne (1997--2003)}{28}
-\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{29}
-\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{30}
-\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{31}
-\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{32}
-\contentsline {chapter}{Bibliografia}{33}
+\contentsline {section}{\numberline {1.5}Inwersja basen\IeC {\'o}w przedpola}{19}
+\contentsline {section}{\numberline {1.6}Po\IeC {\l }udniowy Ba\IeC {\l }tyk}{19}
+\contentsline {section}{\numberline {1.7}Diapiryzm p\IeC {\l }aszcza}{20}
+\contentsline {chapter}{\numberline {2}Modele termiczne dla obszaru Polski --- historia bada\IeC {\'n}}{23}
+\contentsline {section}{\numberline {2.1}Pierwsze oznaczenia warto\IeC {\'s}ci parametr\IeC {\'o}w geotermicznych dla ziem polskich}{23}
+\contentsline {subsubsection}{Prace Arctowskiego i in. (lata 20. XX w.)}{23}
+\contentsline {section}{\numberline {2.2}Rys historyczny modelowania termiki obszaru Polski}{24}
+\contentsline {subsubsection}{R\IeC {\'o}\IeC {\.z}ycki, 1948. \textit {Uwagi o rozmieszczeniu stopnia geotermicznego w Polsce i w krajach s\IeC {\k a}siednich}}{24}
+\contentsline {subsubsection}{Plewa, 1966. \textit {Regionalny obraz parametr\IeC {\'o}w geotermicznych obszaru Polski}}{25}
+\contentsline {subsubsection}{Majorowicz, 1971. \textit {Przebieg warto\IeC {\'s}ci stopnia geotermicznego w Polsce w przedziale g\IeC {\l }\IeC {\k e}boko\IeC {\'s}ci 200--2500 m} i p\IeC {\'o}\'{z}niejsze prace Majorowicza}{25}
+\contentsline {subsubsection}{W\IeC {\k e}sierska, 1973. \textit {A study of terrestial heat flux density in Poland}}{26}
+\contentsline {subsubsection}{Motyl-Rakowska i Soko\IeC {\l }owski, 1980. \textit {Temperatures at the base of the Permian-Cainozoic stratum in Poland}}{26}
+\contentsline {subsubsection}{Plewa, \citeyear {Plewa.1994}. \textit {Rozk\IeC {\l }ad parametr\IeC {\'o}w geotermalnych na obszarze Polski} i wcze\IeC {\'s}niejsze prace Plewy}{26}
+\contentsline {subsubsection}{Gordienko i Zavgorodnyaya, \citeyear {Gordienko.1996}. \textit {Estimation of heat flow in Poland}}{27}
+\contentsline {subsubsection}{Karwasiecka i Bruszewska, 1997. \textit {G\IeC {\k e}sto\IeC {\'s}\IeC {\'c} powierzchniowego strumienia cieplnego ziemi na obszarze Polski}}{27}
+\contentsline {chapter}{\numberline {3}Rozpoznanie strumienia cieplnego na obszarze Polski}{30}
+\contentsline {chapter}{\numberline {4}Teoretyczne podstawy modelowania stanu termicznego litosfery}{31}
+\contentsline {chapter}{\numberline {5}Parametry materia\IeC {\l }owe ska\IeC {\l }}{32}
+\contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{33}
+\contentsline {section}{\numberline {6.1}Wielkie eksperymenty sejsmiczne}{33}
+\contentsline {subsubsection}{POLONAISE'97}{33}
+\contentsline {section}{\numberline {6.2}Struktura litosfery na obszarze Polski}{33}
+\contentsline {subsection}{\numberline {6.2.1}Strefa TESZ}{33}
+\contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{35}
+\contentsline {chapter}{Bibliografia}{36}
