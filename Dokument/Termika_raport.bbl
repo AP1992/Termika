@@ -2560,6 +2560,59 @@
       \field{pages}{261\bibrangedash 276}
       \range{pages}{16}
     \endentry
+    \entry{Krzywiec.2014}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=65b3a9526b9a7c710366ba40bf8c6fd9}{%
+           family={Krzywiec},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81c03a065b1b656e6b2fde2da4ffd817}{%
+           family={Malinowski},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0828f068c30f53f317d5f33cf7755809}{%
+           family={Mazur},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c2800c80584f865bcaf3c94cbfe3388b}{%
+           family={Buffenmyer},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2796941761cf959150ca92c4d491e08a}{%
+           family={Lewandowski},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d4d31c31674b11a80f772925ef1ea0a}
+      \strng{fullhash}{fce26a0db6fffc1b8c84c161d86b4835}
+      \strng{bibnamehash}{fce26a0db6fffc1b8c84c161d86b4835}
+      \strng{authorbibnamehash}{fce26a0db6fffc1b8c84c161d86b4835}
+      \strng{authornamehash}{7d4d31c31674b11a80f772925ef1ea0a}
+      \strng{authorfullhash}{fce26a0db6fffc1b8c84c161d86b4835}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geologia Sudetica}
+      \field{title}{{Structure and Phanerozoic evolution of the SW edge of the East European Craton in Poland --- new insights from high-effort seismic reflection data (project PolandSPAN)}}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{pages}{46\bibrangedash 48}
+      \range{pages}{3}
+    \endentry
     \entry{Ladenberger.2009}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=2106dcbbbd6627dac3214e1fe551e9b3}{%
@@ -4104,6 +4157,42 @@
       \field{year}{2002}
       \field{pages}{1203\bibrangedash 1204}
       \range{pages}{2}
+    \endentry
+    \entry{Poprawa.2002}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e1b646faf97f41c5d772d714d765c5cc}{%
+           family={Poprawa},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f73867d6005bcb482d310056c32afc2c}{%
+           family={Pacześna},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \strng{fullhash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \strng{bibnamehash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \strng{authorbibnamehash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \strng{authornamehash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \strng{authorfullhash}{876bc5a1739f3dc17c14f6f016daa0e8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Prz. Geol.}
+      \field{number}{1}
+      \field{title}{{Rozwój ryftu w późnym neoproterozoiku--wczesnym paleozoiku na lubelsko-podlaskim skłonie kratonu wschodnioeuropejskiego --- analiza subsydencji i zapisu facjalnego}}
+      \field{volume}{50}
+      \field{year}{2002}
+      \field{pages}{49\bibrangedash 63}
+      \range{pages}{15}
     \endentry
     \entry{Puura.2003}{article}{}
       \name{author}{3}{}{%

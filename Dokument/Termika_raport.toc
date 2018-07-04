@@ -38,6 +38,7 @@
 \contentsline {chapter}{\numberline {6}Rozpoznanie struktury litosfery na obszarze Polski}{33}
 \contentsline {section}{\numberline {6.1}Wielkie eksperymenty sejsmiczne}{33}
 \contentsline {subsubsection}{POLONAISE'97}{33}
+\contentsline {subsubsection}{PolandSPAN\IeC {\texttrademark }}{33}
 \contentsline {section}{\numberline {6.2}Struktura litosfery na obszarze Polski}{33}
 \contentsline {subsection}{\numberline {6.2.1}Strefa TESZ}{33}
 \contentsline {chapter}{\numberline {7}Ocena perspektyw modelowania stanu termicznego litosfery na obszarze Polski}{35}

@@ -1,22 +1,22 @@
-[3] Config.pm:302> INFO - This is Biber 2.10
-[3] Config.pm:305> INFO - Logfile is 'Termika_raport.blg'
-[446] biber-MSWIN32:313> INFO - === 
-[796] Biber.pm:371> INFO - Reading 'Termika_raport.bcf'
-[1406] Biber.pm:857> INFO - Found 122 citekeys in bib section 0
-[1547] Biber.pm:3976> INFO - Processing section 0
-[1668] Biber.pm:4136> INFO - Looking for bibtex format file 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib' for section 0
-[1894] bibtex.pm:1490> INFO - LaTeX decoding ...
-[3628] bibtex.pm:1306> INFO - Found BibTeX data source 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib'
-[4125] Utils.pm:193> WARN - year field '2006a' in entry 'Sissingh.2006a' is not an integer - this will probably not sort properly.
-[7616] Utils.pm:193> WARN - Entry 'Suveizdis.2000' (C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib): Invalid format '28.05--10.06.2000' of date field 'date' - ignoring
-[8330] Utils.pm:193> WARN - year field '1923a' in entry 'Arctowski.1923a' is not an integer - this will probably not sort properly.
-[8408] Utils.pm:193> WARN - year field '1923c' in entry 'Arctowski.1923c' is not an integer - this will probably not sort properly.
-[8426] Utils.pm:193> WARN - year field '1923b' in entry 'Arctowski.1923b' is not an integer - this will probably not sort properly.
-[8814] Utils.pm:193> WARN - I didn't find a database entry for 'bibid' (section 0)
-[10535] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[10535] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[10536] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[10536] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[11550] bbl.pm:617> INFO - Writing 'Termika_raport.bbl' with encoding 'UTF-8'
-[12143] bbl.pm:720> INFO - Output to Termika_raport.bbl
-[12149] Biber.pm:110> INFO - WARNINGS: 6
+[1] Config.pm:302> INFO - This is Biber 2.10
+[2] Config.pm:305> INFO - Logfile is 'Termika_raport.blg'
+[531] biber-MSWIN32:313> INFO - === 
+[851] Biber.pm:371> INFO - Reading 'Termika_raport.bcf'
+[1515] Biber.pm:857> INFO - Found 124 citekeys in bib section 0
+[1618] Biber.pm:3976> INFO - Processing section 0
+[1731] Biber.pm:4136> INFO - Looking for bibtex format file 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib' for section 0
+[1770] bibtex.pm:1490> INFO - LaTeX decoding ...
+[3469] bibtex.pm:1306> INFO - Found BibTeX data source 'C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib'
+[3934] Utils.pm:193> WARN - year field '2006a' in entry 'Sissingh.2006a' is not an integer - this will probably not sort properly.
+[6753] Utils.pm:193> WARN - Entry 'Suveizdis.2000' (C:/Users/Agata_P/Documents/Termika/Dokument/bibliografia/biblio.bib): Invalid format '28.05--10.06.2000' of date field 'date' - ignoring
+[7443] Utils.pm:193> WARN - year field '1923a' in entry 'Arctowski.1923a' is not an integer - this will probably not sort properly.
+[7512] Utils.pm:193> WARN - year field '1923c' in entry 'Arctowski.1923c' is not an integer - this will probably not sort properly.
+[7529] Utils.pm:193> WARN - year field '1923b' in entry 'Arctowski.1923b' is not an integer - this will probably not sort properly.
+[7933] Utils.pm:193> WARN - I didn't find a database entry for 'bibid' (section 0)
+[9359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[9359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[9360] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[9360] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[10249] bbl.pm:617> INFO - Writing 'Termika_raport.bbl' with encoding 'UTF-8'
+[10737] bbl.pm:720> INFO - Output to Termika_raport.bbl
+[10739] Biber.pm:110> INFO - WARNINGS: 6
